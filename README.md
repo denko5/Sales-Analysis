@@ -1,4 +1,4 @@
-![Sales Analysis Banner](Banner.PNG)
+![Banner](Banner.PNG)
 
 # Sales Analysis
 
