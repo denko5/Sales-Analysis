@@ -1,6 +1,6 @@
 # Sales Analysis
 
-This repository contains the **Sales Analysis** project, which focuses on cleaning and analyzing sales data using SQL queries to derive actionable insights. The project is structured to showcase the complete data analysis process from cleaning to exploratory analysis.
+This repository contains the **Sales Analysis** project, which focuses on cleaning and analyzing sales data using SQL queries to derive actionable insights. The project is structured to showcase the complete data analysis process from cleaning to exploratory analysis. 
 
 ## 📂 Repository Contents
 - `data/`: Contains the raw and cleaned datasets in CSV format.
@@ -20,8 +20,15 @@ This repository contains the **Sales Analysis** project, which focuses on cleani
 3. To document the findings and share lessons learned for educational and collaborative purposes.
 
 ## 🔍 Key Insights
-- *Product X contributed 35% of total revenue.*
-- *Region Y showed a 20% growth in sales over the last quarter.*
+- *The top product was “Maasai Shuka” with 1684485 total sales. While the top product category was “African Hair Products” with 4039956 total sales.*
+- *The top Country in terms of sales was “Angola” while the top City was “Luanda”.*
+- *The dataset used, the top channel based on leads generated was “TikTok”.
+- *The top channel based on total sales was “TikTok” with 1562926 sales.*
+- *The top channel based on conversion rate was “Facebook” with a conversion rate of 0.9.*
+- *The best salesperson was “Bob Johnson” with a total sale of 2068550.*
+
+
+
 
 ## 🚀 How to Use
 1. Clone the repository:
