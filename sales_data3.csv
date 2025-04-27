@@ -1,0 +1,1001 @@
+CustomerID,OrderDate,Salesperson,ProductName,ProductCategory,Quantity,UnitPrice_In_Dollars,TotalPrice_In_Dollars,City,Country,Channel,Spend,LeadsGenerated,ConversionRate
+1dc20d25-a607-4316-b290-91026bb6b35f,1/1/2022,Jane Smith,Aloe Vera,Fashion and Accessories,657,14,105,Dar es Salaam,Ghana,TikTok,60.77341262,1017,0.059
+f5353983-fce6-463b-96e1-63cf2cef20ce,1/2/2022,denisKombe,African Hair Care Products,Handicrafts and Home Decor,944,12,79,Johannesburg,South Africa,Facebook,69.14726634,2473,0.067
+4a506a72-8d01-4468-83b0-95b3e0a81842,1/3/2022,Jane Smith,Maasai Shuka,Food and Beverages,719,6,124,Luanda,Angola,YouTube,88.50820731,842,0.092
+13c158bd-32dd-43ca-9b63-a7310da474be,1/4/2022,  bob JohNson,Maasai Shuka,Handicrafts and Home Decor,680,9,91,Lagos,Kenya,TikTok,154.6457784,4695,0.058
+4c99ff0a-0817-42b1-9346-4c50b8f8420d,1/5/2022, John Doe,African Hair Care Products,Personal Care,935,6,54,Lagos,Nigeria,YouTube,72.8668276,4867,0.068
+fa50e4de-efa1-4eee-beab-a8d9ceb97ba6,1/6/2022,Bob Johnson,Kitenge Fabric,Handicrafts and Home Decor,788,10,147,Accra,Ghana,Instagram,85.63073279,4899,0.092
+cc66723c-f648-4d31-bbaa-b2a249200a3c,1/7/2022, Alice Lee, masaiShuka,Food and Beverages,648,8,86,Johannesburg,South Africa,Instagram,68.99118652,3166,0.068
+9aeb2a32-06dc-468c-804e-4dafcc4a30aa,1/8/2022,  bob JohNson,Aloe Vera,Food and Beverages,708,7,58,,Nigeria,YouTube,80.60669018,3170,0.09
+eead3e48-2e39-4616-9da1-1bc67a3e4ce8,1/9/2022,Bob Johnson,Aloe Vera,Personal Care,672,13,53,,Nigeria,X_Twitter,95.47078465,3194,0.07
+b65619b6-d650-4b31-8e55-6bc1126e2bed,1/10/2022, John Doe,Maasai Shuka,Food and Beverages,923,5,140,Accra,South Africa,TikTok,150.1533036,2060,0.098
+dc89a737-4668-4048-a502-d8e18db819b1,1/11/2022,denisKombe,Maasai Shuka,Personal Care,787,13,65,,Angola,Instagram,60.51239826,4153,0.06
+bb5a179d-9d2d-4117-abfa-f3e62b6c4dc7,1/12/2022, Alice Lee,Kikoy Throw,Personal Care,556,10,109,,South Africa,YouTube,159.9672667,3678,0.086
+73522357-3fd4-4a78-9167-2fc941a080cd,1/13/2022,  bob JohNson, masaiShuka,Personal Care,536,6,90,Lagos, TanZania,X_Twitter,143.1189813,597,0.06
+08963e42-2d40-4bbf-b41c-5ea6fb9bd0db,1/14/2022, John Doe,Kikoy Throw,Fashion and Accessories,827,11,75,Dar es Salaam,Angola,Facebook,80.75008971,2975,0.072
+fffb7907-eb7e-4ecf-8d0d-d16b49c496e8,1/15/2022,Jane Smith,Aloe Vera,Handicrafts and Home Decor,978,7,50,Lagos,South Africa,X_Twitter,124.5319994,4833,0.076
+e43613bf-bd72-4976-9580-fc1f5ef5e2f3,1/16/2022,Jane Smith,Aloe Vera,Personal Care,583,13,70,Luanda,South Africa,YouTube,76.38546299,721,0.054
+0667a76b-d2a7-461c-9d96-7c506abfa57d,1/17/2022,Bob Johnson,Kitenge Fabric,Fashion and Accessories,550,12,113,Lagos,Ethiopia,X_Twitter,70.06348328,4636,0.077
+4fd8b029-3640-4482-b067-6731464f91bf,1/18/2022,Jane Smith,Maasai Shuka,Personal Care,810,11,84,Dar es Salaam,South Africa,X_Twitter,69.06920761,4686,0.086
+9533854e-6c55-4057-ab00-e62b61357fa1,1/19/2022,Bob Johnson, masaiShuka,Handicrafts and Home Decor,794,10,83,,Angola,Instagram,129.2093684,1806,0.083
+00216121-cab9-44c1-b9ab-3f89ae7aa171,1/20/2022,Denis Kombe, masaiShuka,Fashion and Accessories,799,10,134,Lagos,Ethiopia,YouTube,95.24679488,3848,0.052
+69b77643-cdd7-4e8f-8d19-154484548e81,1/21/2022,denisKombe,Maasai Shuka,Personal Care,837,7,92,Accra,Angola,X_Twitter,125.1043269,4909,0.1
+2b6dc534-b335-439f-8f87-fa47d6260f19,1/22/2022,denisKombe, masaiShuka,Handicrafts and Home Decor,709,6,124,Johannesburg,Angola,Instagram,86.72263986,2918,0.094
+9dd98432-8e52-4ae2-b6c8-d9d04afd1a4e,1/23/2022,  bob JohNson,Aloe Vera,Food and Beverages,690,9,87,Dar es Salaam,Ethiopia,Instagram,138.0123889,4550,0.054
+f2feaf1a-f485-4353-8488-e75c036fa544,1/24/2022,denisKombe,Kitenge Fabric,Food and Beverages,754,8,55,, TanZania,TikTok,99.94502566,2207,0.067
+a8598d4a-2fc8-49eb-b321-e8bc027239fa,1/25/2022,  bob JohNson,Wooden Bowls,Handicrafts and Home Decor,779,12,126,Lagos,Nigeria,Facebook,154.3983494,556,0.092
+11a1e333-7548-425b-81b1-879bd79a7b0c,1/26/2022,Bob Johnson,Maasai Shuka,Fashion and Accessories,709,11,55,Dar es Salaam,Kenya,TikTok,108.3777698,739,0.053
+c4bf19cf-75fc-408f-95ed-360c21dc78a4,1/27/2022,Bob Johnson,Aloe Vera,Handicrafts and Home Decor,621,10,144,Johannesburg,Ghana,Facebook,76.50206422,1828,0.051
+56bbcc86-5231-4c65-93ad-b845b012f4cf,1/28/2022,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,854,8,84,Lagos,Kenya,X_Twitter,142.2247758,2919,0.092
+f55c5eca-2950-4611-bc38-7eaa228aad83,1/29/2022,denisKombe, masaiShuka,Food and Beverages,665,5,122,Lagos,Ghana,Facebook,64.17376048,1512,0.086
+df1ea24d-f491-4c05-a2d9-648c79cbc393,1/30/2022,Denis Kombe,Kitenge Fabric,Handicrafts and Home Decor,788,5,144,Nairobi,Ethiopia,X_Twitter,144.0323612,1101,0.054
+f91a3fab-75f5-4e4c-92ec-b583c9cca395,1/31/2022,denisKombe,Kikoy Throw,Handicrafts and Home Decor,789,10,144,Nairobi,Ethiopia,Facebook,75.18773619,4776,0.059
+23f4a965-5385-45cd-9144-3d2bebd51dba,2/1/2022,Jane Smith,Maasai Shuka,Food and Beverages,710,9,72,Johannesburg,Ghana,TikTok,86.35084912,1912,0.057
+a0af1efb-84e7-4d13-9a1a-0f502d29bcc0,2/2/2022,Denis Kombe,African Hair Care Products,Fashion and Accessories,535,12,100,Luanda, TanZania,TikTok,67.98801653,1601,0.065
+766b9c6f-e305-4b46-bc7f-465b3b4b1ae4,2/3/2022,Jane Smith, masaiShuka,Personal Care,987,9,89,Luanda,South Africa,YouTube,73.81989167,1075,0.066
+f1e9a748-b08b-4603-a9d7-761b9477e38f,2/4/2022,denisKombe,African Hair Care Products,Food and Beverages,927,5,97,Lagos,Kenya,X_Twitter,119.7162278,2255,0.089
+f0210114-ee83-43c1-9988-a4b3832dff7d,2/5/2022,  bob JohNson,Sukuma Wiki,Fashion and Accessories,828,8,96,Johannesburg,Angola,YouTube,64.84461298,4948,0.071
+860953fe-b336-420e-b33d-8b67cb35fc7c,2/6/2022, Alice Lee,African Hair Care Products,Food and Beverages,808,12,91,Accra,Angola,Facebook,153.3048449,3488,0.077
+fea52dd7-9d43-4bbd-86c5-79fd732b5238,2/7/2022, Alice Lee, masaiShuka,Handicrafts and Home Decor,508,12,79,Dar es Salaam,Kenya,Facebook,113.7762681,2618,0.07
+72c86c30-4627-447b-b583-a89cf9a9d788,2/8/2022,Bob Johnson,Maasai Shuka,Fashion and Accessories,915,13,107,Nairobi,Angola,Facebook,129.1283992,2173,0.096
+8b6fe3c5-0ccc-4384-8d99-9f110645473f,2/9/2022,denisKombe,Maasai Shuka,Fashion and Accessories,798,12,61,Johannesburg, TanZania,Facebook,97.30417323,2205,0.099
+8f298bce-604d-4441-8a2c-5daf1b8e65d0,2/10/2022,  bob JohNson,African Hair Care Products,Fashion and Accessories,646,7,115,Luanda,Kenya,Facebook,146.7855994,1904,0.063
+c8672737-f957-41ad-b398-1207f7fcdf01,2/11/2022, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,916,12,78,Dar es Salaam,Ethiopia,TikTok,112.3171319,1672,0.097
+22b8a957-e87d-4a53-9dec-ba4facbd8868,2/12/2022,Denis Kombe,Kitenge Fabric,Handicrafts and Home Decor,825,8,106,Nairobi,Angola,TikTok,140.7033492,3978,0.07
+aebcb3c8-4ea2-45dc-9e15-d4e40f0a0d46,2/13/2022,Denis Kombe,Sukuma Wiki,Food and Beverages,503,11,144,Lagos,Ethiopia,X_Twitter,124.0037043,1892,0.089
+ff41e1ae-5652-4f3c-853d-2bb78db45cd2,2/14/2022,Bob Johnson,Sukuma Wiki,Fashion and Accessories,696,11,98,,Nigeria,Facebook,123.5922479,4079,0.096
+c89b4ae5-8202-4b42-a85f-c9a5f6188248,2/15/2022,  bob JohNson,Sukuma Wiki,Food and Beverages,878,9,62,,Ghana,X_Twitter,103.9080454,1615,0.082
+624d2d83-4b16-4d0d-9c4d-0ec173109bb3,2/16/2022,Jane Smith,Sukuma Wiki,Fashion and Accessories,661,5,126,Lagos, TanZania,YouTube,139.3886414,3777,0.073
+a8b59156-bb3d-4648-b0b2-ff44a24a9170,2/17/2022,Jane Smith,Kitenge Fabric,Fashion and Accessories,861,14,59,Dar es Salaam,Kenya,YouTube,133.8369217,3754,0.087
+836ba70e-243d-4ca4-b7ef-dc4b42f250ec,2/18/2022,Jane Smith,Sukuma Wiki,Handicrafts and Home Decor,581,7,133,,Ghana,X_Twitter,132.1533067,3145,0.064
+5962a173-57f0-4fc8-b840-e5ecb5171145,2/19/2022,Bob Johnson,African Hair Care Products,Personal Care,785,8,100,,Nigeria,Instagram,99.72813132,718,0.086
+9aead37b-37e9-4769-929e-15515e66760e,2/20/2022, Alice Lee, masaiShuka,Personal Care,658,8,117,Johannesburg,Ghana,Instagram,100.4439451,2209,0.077
+d82e89e4-705d-4625-8cfa-71f9ea4328ab,2/21/2022,denisKombe,Aloe Vera,Food and Beverages,652,11,104,Luanda,Angola,YouTube,62.15750688,3735,0.075
+c77ccd93-8b68-4d0a-854e-ab069385dbad,2/22/2022,denisKombe,Sukuma Wiki,Personal Care,965,13,72,Nairobi,Ghana,Instagram,139.4700421,4891,0.095
+2c0187dd-a12a-4f81-be67-a824f6870797,2/23/2022,  bob JohNson,Aloe Vera,Fashion and Accessories,845,6,80,Dar es Salaam,Angola,TikTok,138.0131205,3013,0.096
+a001a26f-85cc-4b9a-b06f-c26200b5a06c,2/24/2022,Bob Johnson,Kikoy Throw,Handicrafts and Home Decor,849,9,50,,South Africa,Facebook,146.6574036,2374,0.077
+1101ae51-8c97-4523-9f27-68256787fb4e,2/25/2022,  bob JohNson,Maasai Shuka,Personal Care,937,10,113,Dar es Salaam,Ghana,X_Twitter,140.1997448,2644,0.093
+c2263fd0-4a05-4b2e-a7e4-86d41bddebf9,2/26/2022,Bob Johnson,Sukuma Wiki,Fashion and Accessories,534,14,107,Dar es Salaam,Kenya,X_Twitter,103.1452438,1210,0.062
+2098a60a-9dc6-431c-84a4-01bd412d75fa,2/27/2022, Alice Lee,Chai Tea,Food and Beverages,599,8,73,Nairobi,Kenya,X_Twitter,148.3605916,3374,0.054
+4fd8405a-5492-4ba4-a12d-73b9f7187683,2/28/2022,Denis Kombe,Wooden Bowls,Fashion and Accessories,880,14,92,Johannesburg,South Africa,Instagram,71.8893108,2600,0.093
+0367e27d-5c6e-4453-b0e4-677ec6b56da6,3/1/2022,Bob Johnson,Wooden Bowls,Food and Beverages,875,14,113,Johannesburg,Ethiopia,Instagram,115.7579947,4981,0.081
+dcd699c3-63b5-4b3b-b216-0c3f0e421cab,3/2/2022, Alice Lee, masaiShuka,Personal Care,867,9,102,Dar es Salaam,South Africa,TikTok,149.3679589,4861,0.058
+e075deea-7afb-4374-b147-d8e92cd92691,3/3/2022,denisKombe,Aloe Vera,Fashion and Accessories,809,5,131,,Ghana,TikTok,156.8501338,1713,0.08
+a5476a64-556b-450c-a0a4-36f2f82915a1,3/4/2022, Alice Lee,African Hair Care Products,Fashion and Accessories,696,11,136,Luanda,South Africa,TikTok,119.6002248,3875,0.071
+5703d2a7-2bbc-4e58-9433-69db532ce0ec,3/5/2022,Bob Johnson,Aloe Vera,Food and Beverages,718,12,69,Nairobi,South Africa,Facebook,152.367459,3928,0.05
+2f4eb779-da63-46f6-ab1a-86e6511611f0,3/6/2022,Bob Johnson,Sukuma Wiki,Food and Beverages,607,7,101,Lagos, TanZania,YouTube,89.24960724,3084,0.056
+1a780bab-6ebd-4edc-9420-86f78ea0abfe,3/7/2022,  bob JohNson,Wooden Bowls,Handicrafts and Home Decor,704,6,53,Nairobi,Ghana,TikTok,107.8023982,1306,0.084
+c80cc7f3-2efa-4278-8837-d769fec9b9cb,3/8/2022, Alice Lee,Kikoy Throw,Food and Beverages,786,13,78,Luanda,Kenya,TikTok,114.4398022,1012,0.064
+7f1f6bdf-6af9-42c6-a8e8-3dfc84ccebf2,3/9/2022,denisKombe,Wooden Bowls,Fashion and Accessories,549,9,77,Lagos,Nigeria,Facebook,118.0127171,3091,0.059
+f412a328-6ba8-496c-b258-d4ae1f13d386,3/10/2022,Bob Johnson, masaiShuka,Food and Beverages,992,5,144,Nairobi,Ghana,YouTube,71.15338952,2682,0.068
+e9fc7524-4710-4d1a-a58f-d1aec8c4bc7c,3/11/2022, John Doe, masaiShuka,Fashion and Accessories,732,5,61,Nairobi,Kenya,TikTok,65.39363068,4398,0.09
+0b573663-cccf-4c1f-a40b-f0ca1127a677,3/12/2022,  bob JohNson,Kitenge Fabric,Food and Beverages,525,13,67,Nairobi,Nigeria,Facebook,127.8400361,3527,0.055
+0d3574fe-a087-4ecd-a24e-9d43c6098645,3/13/2022,Denis Kombe,Wooden Bowls,Fashion and Accessories,660,10,134,Nairobi, TanZania,TikTok,68.60712426,3866,0.057
+a83fa8f1-45ad-4d81-a14f-a499cb4cbf8e,3/14/2022,Jane Smith, masaiShuka,Fashion and Accessories,857,13,123,Johannesburg,South Africa,X_Twitter,80.59126057,1696,0.095
+ed3e49ce-3742-453a-bc39-5ad4cf37423a,3/15/2022,Bob Johnson,Chai Tea,Handicrafts and Home Decor,545,12,112,Johannesburg,Nigeria,YouTube,104.6326315,4703,0.067
+a0cc1dfa-8877-49b5-a84d-e3da0fbd3b04,3/16/2022, John Doe,Aloe Vera,Fashion and Accessories,983,11,133,Nairobi,Kenya,X_Twitter,147.3443202,3332,0.06
+93ee5456-a035-4e7c-9387-59ee8f12b608,3/17/2022,  bob JohNson,Chai Tea,Fashion and Accessories,982,9,118,Dar es Salaam,Ghana,Instagram,63.94571447,1668,0.067
+8e516937-83ac-42ba-a662-936ffdc3cd49,3/18/2022, Alice Lee,Kitenge Fabric,Fashion and Accessories,768,5,121,Dar es Salaam,Ethiopia,Facebook,75.32534146,2470,0.095
+49030790-0959-41d8-9b3e-899f164f19e0,3/19/2022,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,763,6,79,Nairobi,Ghana,TikTok,93.10637804,4093,0.092
+d30fdb38-f48e-4a28-bbcb-a0d3b5f768ae,3/20/2022,Denis Kombe,Sukuma Wiki,Fashion and Accessories,570,7,129,Luanda, TanZania,TikTok,77.85400912,3465,0.059
+7e83e004-d718-48ad-8ccd-736a0f6157d5,3/21/2022, John Doe,Kitenge Fabric,Fashion and Accessories,688,14,138,Dar es Salaam,Nigeria,YouTube,119.2941684,4385,0.09
+b237639d-5806-4391-a807-7ea9059965c8,3/22/2022, Alice Lee,Chai Tea,Fashion and Accessories,685,5,118,Accra,Kenya,Facebook,87.54963055,4420,0.068
+536258c6-0b3a-4ae5-9344-65b984460124,3/23/2022, John Doe,African Hair Care Products,Handicrafts and Home Decor,604,6,91,Dar es Salaam, TanZania,TikTok,118.4311383,2880,0.1
+783507a3-ae7e-4ad4-9328-d865efadf09c,3/24/2022,  bob JohNson,African Hair Care Products,Fashion and Accessories,569,8,116,Accra,Angola,X_Twitter,69.53615217,3676,0.05
+1e06bc98-742b-4405-9e95-88360102dc62,3/25/2022,  bob JohNson, masaiShuka,Personal Care,953,6,143,Luanda,Nigeria,YouTube,134.4705427,4218,0.062
+bd605cd8-9727-4abd-8590-4c6f41409143,3/26/2022,Jane Smith,African Hair Care Products,Personal Care,552,6,84,Nairobi,Ghana,X_Twitter,65.35900186,2696,0.096
+1c67e1f2-2c1a-4f4e-820e-1d555886b0a0,3/27/2022, Alice Lee, masaiShuka,Handicrafts and Home Decor,593,10,60,Johannesburg,Nigeria,Facebook,132.0197553,603,0.082
+249b03d5-20f4-4b1a-9660-4be994634874,3/28/2022, John Doe,African Hair Care Products,Food and Beverages,685,12,102,Dar es Salaam,Ethiopia,TikTok,129.6545767,3827,0.096
+986bedd8-fae3-4ca9-a851-7277da9fb807,3/29/2022,Bob Johnson,Kikoy Throw,Fashion and Accessories,800,13,64,, TanZania,X_Twitter,146.0444361,2312,0.066
+f7411e49-5f9c-4412-b181-e2726de167d6,3/30/2022, John Doe,Aloe Vera,Personal Care,827,13,144,Dar es Salaam,Angola,Facebook,65.60999988,1629,0.096
+76b4a380-4a5b-44fe-9a05-3182086e89af,3/31/2022,Denis Kombe,Kitenge Fabric,Personal Care,703,11,63,Johannesburg,Ghana,Facebook,79.67404125,4087,0.082
+b90cba93-e137-4ced-a9a3-00e09dfe02e5,4/1/2022,Bob Johnson,Chai Tea,Food and Beverages,745,10,130,Lagos,Angola,Instagram,153.9860119,1216,0.097
+4579a038-7de2-41ce-bdb6-ba396ab9ce12,4/2/2022, Alice Lee,Wooden Bowls,Fashion and Accessories,754,6,114,,Kenya,YouTube,93.38337419,1332,0.058
+2eb7275f-c32e-470e-a086-2eeb1675e4e5,4/3/2022, John Doe,Aloe Vera,Fashion and Accessories,925,7,128,Nairobi, TanZania,Instagram,60.50478312,4161,0.098
+de0dbe4f-a324-4ae0-aa9a-58ccfe6e783e,4/4/2022,Jane Smith, masaiShuka,Handicrafts and Home Decor,551,9,91,Dar es Salaam,Kenya,Facebook,110.4925749,3388,0.058
+ec812146-88b0-470a-823f-861c4cb8fe26,4/5/2022,  bob JohNson,Maasai Shuka,Fashion and Accessories,879,9,149,Nairobi, TanZania,TikTok,92.7388101,1274,0.09
+eba152d8-9205-4d0b-955b-9603e1ef1aed,4/6/2022,Bob Johnson,Kikoy Throw,Food and Beverages,994,5,115,Nairobi,Angola,Facebook,133.7849527,3597,0.095
+e93b7fe6-8840-41ff-b493-ca881462bfe2,4/7/2022,Denis Kombe,Aloe Vera,Fashion and Accessories,891,13,99,,Kenya,Facebook,104.5278431,4445,0.061
+dd8a55a9-db8e-4bc7-9981-9bcaae5f7b0b,4/8/2022,Bob Johnson, masaiShuka,Personal Care,969,6,103,Luanda, TanZania,YouTube,60.97396061,1523,0.075
+3adccfb2-1680-454e-933c-4d0442818ec8,4/9/2022,Bob Johnson,Wooden Bowls,Handicrafts and Home Decor,792,10,100,Luanda,Kenya,TikTok,73.285217,2873,0.083
+b5cb0ebe-721d-4e65-851d-3535e9d694cd,4/10/2022,denisKombe,Chai Tea,Fashion and Accessories,874,14,120,Johannesburg,South Africa,YouTube,84.14787261,3332,0.069
+31c13f19-60a8-4d42-898b-6dcb309ef24f,4/11/2022,Bob Johnson,Maasai Shuka,Food and Beverages,537,13,70,Luanda,South Africa,YouTube,93.1605818,3811,0.076
+77b2502e-8ab7-4e1e-ad8e-1224410b2fa9,4/12/2022,  bob JohNson, masaiShuka,Fashion and Accessories,909,14,129,Nairobi,South Africa,YouTube,96.0542373,3471,0.096
+4a708881-9179-4ca9-9eda-135490dd613c,4/13/2022,denisKombe,African Hair Care Products,Food and Beverages,505,13,131,Nairobi,South Africa,X_Twitter,66.91184594,2617,0.082
+0c905c50-38c9-45dd-afea-24c4f61cf6e5,4/14/2022,Bob Johnson,Wooden Bowls,Food and Beverages,520,10,55,Lagos, TanZania,TikTok,69.98153817,4330,0.099
+8c0690f5-1c80-41f4-8968-91adab394807,4/15/2022, John Doe,Wooden Bowls,Fashion and Accessories,619,12,130,Johannesburg,Angola,YouTube,144.2120314,2905,0.09
+97d2ecb3-8bbb-4fdb-ac18-e04a307e421b,4/16/2022,Bob Johnson,Maasai Shuka,Food and Beverages,636,5,133,Dar es Salaam,Nigeria,Instagram,157.2801721,1125,0.08
+4706f3cb-65cc-448c-bdbc-20f216e31be9,4/17/2022, Alice Lee,African Hair Care Products,Personal Care,735,13,91,Accra,Nigeria,TikTok,146.0796947,3525,0.095
+36885e41-4b59-4050-a70e-4204f8c6dba3,4/18/2022,Denis Kombe,Aloe Vera,Fashion and Accessories,835,8,61,Luanda, TanZania,X_Twitter,117.6405318,3679,0.081
+be927596-4e1b-4c8e-9547-e19e70789af9,4/19/2022,  bob JohNson,Sukuma Wiki,Fashion and Accessories,593,6,148,Lagos,Ethiopia,Facebook,101.0757696,588,0.076
+ba847b69-121f-4bc0-ad18-d1a647e38a39,4/20/2022, John Doe,Wooden Bowls,Personal Care,963,9,66,Accra,South Africa,Facebook,78.23378879,1830,0.084
+228d6805-48db-4ae7-87ac-e7de44c0975e,4/21/2022,Bob Johnson,Wooden Bowls,Handicrafts and Home Decor,566,8,144,Luanda,Angola,X_Twitter,123.380061,4253,0.059
+87f030da-1e9a-4cf4-bc56-fea43b2b8a1b,4/22/2022,Denis Kombe, masaiShuka,Handicrafts and Home Decor,669,11,51,Nairobi,Ghana,Facebook,146.216402,4444,0.074
+504329a3-cc02-44dc-855b-26f0c4d4c485,4/23/2022, John Doe,Chai Tea,Fashion and Accessories,824,7,146,Dar es Salaam, TanZania,Facebook,77.757768,2263,0.055
+aa27d82f-cd8c-4538-bc5f-3090aa4e3594,4/24/2022, Alice Lee,Sukuma Wiki,Fashion and Accessories,773,5,103,Dar es Salaam,South Africa,YouTube,97.14759937,1228,0.092
+fc3b06b7-2e14-4501-a33f-9210664c5d27,4/25/2022, Alice Lee,African Hair Care Products,Food and Beverages,647,12,143,Nairobi,Nigeria,YouTube,118.827896,1134,0.07
+847c55e6-a798-41e5-b86b-3599acff93d8,4/26/2022,Denis Kombe,Kikoy Throw,Personal Care,838,5,136,Accra,South Africa,TikTok,77.97044872,2598,0.057
+f812765f-2438-41e7-9d1f-f505f96ec254,4/27/2022,Denis Kombe,Maasai Shuka,Fashion and Accessories,704,14,71,Luanda, TanZania,TikTok,72.79732389,4108,0.058
+ff1d18b8-597b-4529-9b8c-b51bb5d9ada9,4/28/2022,Bob Johnson, masaiShuka,Fashion and Accessories,725,8,79,Luanda,South Africa,X_Twitter,124.4114445,4332,0.052
+f1c9b511-6ed8-41ba-8c60-9d05d8cb4f13,4/29/2022,denisKombe,African Hair Care Products,Fashion and Accessories,969,9,137,Luanda, TanZania,TikTok,148.5472121,751,0.051
+f6cf3c67-5012-423c-bd51-5664ac85efab,4/30/2022,  bob JohNson,Kitenge Fabric,Handicrafts and Home Decor,552,10,88,Dar es Salaam,Ethiopia,YouTube,146.7199344,4102,0.093
+6ec09c8b-8cde-4e95-9fd5-7471711b6a65,5/1/2022, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,832,6,135,,Nigeria,TikTok,151.4912317,2606,0.069
+18092daa-4707-4b63-b4a2-ad474aeccbb9,5/2/2022,  bob JohNson,Maasai Shuka,Food and Beverages,742,12,81,Nairobi,South Africa,YouTube,153.7532141,2912,0.073
+ccb3e776-0403-4a28-8b8f-07affccf883d,5/3/2022,Denis Kombe,Kitenge Fabric,Fashion and Accessories,928,10,96,,Ethiopia,YouTube,104.1939599,1366,0.093
+c0ca1f02-c2a4-4819-858e-df5054b2fc15,5/4/2022, John Doe,Maasai Shuka,Handicrafts and Home Decor,592,11,72,Nairobi,Ghana,Facebook,136.084762,2298,0.061
+9b4632a3-c418-409b-abec-02973211de66,5/5/2022,Denis Kombe, masaiShuka,Personal Care,880,8,139,Luanda,Ghana,TikTok,64.08464638,2502,0.064
+6d72ae34-6c22-4eb6-859d-1d84330d2aae,5/6/2022,  bob JohNson,Aloe Vera,Fashion and Accessories,705,11,58,Dar es Salaam,Nigeria,TikTok,63.05310482,1562,0.072
+77dd5c3d-aca2-43c8-8ffd-61380fec80e7,5/7/2022, John Doe,Aloe Vera,Handicrafts and Home Decor,745,10,90,Lagos,Ghana,Instagram,122.0543287,4089,0.086
+da85abea-ab6a-4b2f-b77a-d43e20a2449b,5/8/2022,Jane Smith,Wooden Bowls,Handicrafts and Home Decor,583,12,63,Dar es Salaam,Kenya,X_Twitter,104.5205846,1737,0.089
+5a180092-47c8-42a4-88ff-585f748651ef,5/9/2022,Jane Smith,Wooden Bowls,Food and Beverages,763,9,73,Accra,Nigeria,YouTube,70.57291241,2271,0.083
+51ad20e0-5df0-48df-84fe-878d4d41989b,5/10/2022,Jane Smith,African Hair Care Products,Fashion and Accessories,823,9,139,Dar es Salaam,Ethiopia,Instagram,149.2447469,4285,0.055
+0a06e1aa-78b8-4b5a-be15-514efbf954a0,5/11/2022,denisKombe, masaiShuka,Fashion and Accessories,730,11,91,Dar es Salaam,Ghana,X_Twitter,124.9032561,4026,0.057
+9a8b1222-a3a7-422a-850f-2846dcb3a23c,5/12/2022,denisKombe, masaiShuka,Handicrafts and Home Decor,806,5,94,Lagos,Nigeria,Instagram,76.2661109,4725,0.066
+bb997b78-ae48-4df1-b4ba-90d48e5083ef,5/13/2022, John Doe,Kitenge Fabric,Fashion and Accessories,837,8,85,,Nigeria,Instagram,154.8590564,4754,0.093
+fbe0377d-bb70-4e66-8e92-2cfc144cc732,5/14/2022,denisKombe,Kikoy Throw,Handicrafts and Home Decor,637,8,62,Luanda,Kenya,Instagram,98.2680671,4540,0.066
+f2e19f90-17dd-4168-ac98-aa8daa303006,5/15/2022,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,514,13,56,Luanda, TanZania,Instagram,149.8733139,1059,0.054
+a7846288-ed93-4b8e-bc87-483de4f7c3ca,5/16/2022,  bob JohNson,Chai Tea,Food and Beverages,503,14,88,Johannesburg,Nigeria,Facebook,103.264484,1613,0.079
+27992c31-3170-4c07-b126-df4a90796021,5/17/2022,Bob Johnson,Kikoy Throw,Food and Beverages,928,12,73,,Ethiopia,TikTok,97.15568511,2513,0.073
+dac27155-6f20-4f8f-bb0d-4d04f37ba47d,5/18/2022,Denis Kombe,African Hair Care Products,Food and Beverages,936,11,143,Dar es Salaam,South Africa,Facebook,107.5451472,532,0.097
+5ecc292d-a92c-4a71-81d5-e1b368481873,5/19/2022,Denis Kombe,Maasai Shuka,Fashion and Accessories,902,6,52,Nairobi,Ethiopia,YouTube,130.6387875,1263,0.075
+0dc2ee31-e7fc-49d6-8ca6-80d850a1be4e,5/20/2022,  bob JohNson,Aloe Vera,Personal Care,561,14,98,Accra,South Africa,Instagram,137.448314,4371,0.051
+7566106b-08ce-4c75-85fd-f33661fd9d28,5/21/2022,  bob JohNson, masaiShuka,Fashion and Accessories,548,14,67,Accra,Angola,YouTube,141.3153373,2464,0.083
+20ed6172-db1c-4283-9655-6261ffa260b7,5/22/2022,  bob JohNson,Kikoy Throw,Fashion and Accessories,669,10,89,, TanZania,Facebook,150.8558413,3607,0.082
+4762502f-9612-4bc5-962b-1e26e2cddfea,5/23/2022,Bob Johnson,Maasai Shuka,Personal Care,820,14,132,Accra,South Africa,Instagram,84.55554802,1959,0.073
+e31945c5-1cc2-4d0c-a302-45ddf37968d2,5/24/2022,Jane Smith,Chai Tea,Fashion and Accessories,817,8,131,Accra,Angola,X_Twitter,143.9604065,2465,0.071
+6c1b418f-9076-4bfd-b1bd-75521e66c8fd,5/25/2022,Bob Johnson,Kikoy Throw,Fashion and Accessories,764,6,141,Johannesburg,Ghana,Instagram,126.6763508,3041,0.053
+59d7ae0c-05de-4615-9a9e-f1828217143e,5/26/2022,denisKombe,Aloe Vera,Personal Care,637,12,105,Luanda,Ethiopia,Facebook,135.7058114,1470,0.07
+15367651-78cc-4a1b-983b-5a216c9f8ec1,5/27/2022,  bob JohNson, masaiShuka,Fashion and Accessories,606,9,144,Johannesburg,South Africa,Facebook,69.86768901,2870,0.074
+6257276b-a84e-4e15-af32-d8bd2496bf17,5/28/2022,  bob JohNson,African Hair Care Products,Personal Care,981,11,116,Lagos,Ethiopia,Facebook,149.401082,3439,0.068
+cc034ff4-b548-44ea-acae-0281d311b93d,5/29/2022,  bob JohNson, masaiShuka,Food and Beverages,678,6,77,Luanda, TanZania,TikTok,156.035154,1710,0.072
+1b08aedb-47d0-497c-a11a-1203eca72850,5/30/2022,Bob Johnson,African Hair Care Products,Handicrafts and Home Decor,640,8,142,Johannesburg,Kenya,X_Twitter,157.0042297,4996,0.088
+9b256e2a-c379-4f37-b6a4-999ea2a254d4,5/31/2022,  bob JohNson,Chai Tea,Fashion and Accessories,716,14,91,Johannesburg,South Africa,X_Twitter,93.9029827,4932,0.084
+8e8d6580-40a8-4376-9d77-5091038487ef,6/1/2022,denisKombe,Kikoy Throw,Food and Beverages,898,10,135,Nairobi,Ghana,TikTok,96.26709619,3752,0.086
+6fd6ec44-27ed-4995-8cbc-76631df4b3ec,6/2/2022,denisKombe,African Hair Care Products,Food and Beverages,912,6,55,Dar es Salaam,Ethiopia,TikTok,154.3526967,3017,0.097
+4ef863fb-5737-4037-bd75-2d2b421f7e4e,6/3/2022,  bob JohNson, masaiShuka,Fashion and Accessories,572,7,146,Lagos,Kenya,YouTube,128.1804082,3207,0.09
+c80e2da8-adc6-4624-98ea-640c5cc5da11,6/4/2022,Bob Johnson,Wooden Bowls,Food and Beverages,584,14,123,,Angola,X_Twitter,112.6592426,2911,0.065
+b759f877-cafb-4514-b963-504847016eea,6/5/2022,  bob JohNson,Kitenge Fabric,Food and Beverages,934,10,88,Nairobi,Nigeria,YouTube,93.9933023,2569,0.085
+9672d65f-1953-47eb-8836-e80ad21447d1,6/6/2022,Bob Johnson,Chai Tea,Food and Beverages,730,12,138,Accra,Ghana,TikTok,91.10254438,717,0.058
+c05b956a-ebac-40ab-86ca-eed647b7786b,6/7/2022,Bob Johnson,Maasai Shuka,Food and Beverages,613,6,111,Johannesburg,Ghana,Instagram,116.9076791,3530,0.051
+058109ba-a615-4062-8aa7-74cafe9cc339,6/8/2022,denisKombe,Kitenge Fabric,Fashion and Accessories,797,9,77,,Ghana,TikTok,93.32539303,3478,0.061
+eb17a095-f4e4-493a-bdac-8cfe14f1e29c,6/9/2022, Alice Lee,Sukuma Wiki,Food and Beverages,865,6,60,,Nigeria,TikTok,87.10643232,2331,0.086
+c648fdcb-8376-46a2-a2e6-561a4fbfe804,6/10/2022,denisKombe,African Hair Care Products,Personal Care,807,10,108,Accra,Angola,Instagram,109.8381837,1201,0.066
+254f7e4a-b00c-4300-abe1-3fe47000226e,6/11/2022,Bob Johnson,Kikoy Throw,Handicrafts and Home Decor,986,12,122,,Ethiopia,Facebook,76.15990899,2734,0.076
+e27347fe-5d9b-4b46-92b8-d9ebb3d5269a,6/12/2022,denisKombe,Maasai Shuka,Food and Beverages,609,8,79,Johannesburg,Ghana,Facebook,140.3235608,2987,0.065
+edf93b9e-748d-4717-9f64-120e96007b50,6/13/2022,Denis Kombe,Wooden Bowls,Food and Beverages,835,6,92,Lagos,Angola,Facebook,60.80360409,2677,0.085
+783fa668-cbdb-47b4-95dc-ccaa6a819bac,6/14/2022,Bob Johnson,Chai Tea,Handicrafts and Home Decor,955,12,97,Nairobi,Ghana,YouTube,135.7078664,615,0.084
+a1802959-aaa9-4793-8263-46531fff4ba1,6/15/2022,Jane Smith,Kikoy Throw,Handicrafts and Home Decor,690,5,130,Dar es Salaam, TanZania,Facebook,107.5545281,1787,0.099
+7d92a0ee-7f25-4070-a36d-b46a8e7f3b09,6/16/2022,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,892,14,67,Johannesburg,Angola,Instagram,65.64798416,599,0.092
+6839fef4-fd1e-425e-b683-f30044f2acfa,6/17/2022,  bob JohNson,Maasai Shuka,Personal Care,746,6,141,Johannesburg,South Africa,YouTube,111.1836877,4442,0.09
+f9ef7bd0-1e02-4cc2-8352-698f0ae40790,6/18/2022,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,914,5,101,Accra,Ethiopia,X_Twitter,133.6180332,2537,0.069
+8b94b7d6-4aa8-4590-b31a-927b5b92b821,6/19/2022,Bob Johnson,Sukuma Wiki,Food and Beverages,904,9,115,Accra,Kenya,TikTok,125.984701,2136,0.058
+6aa09c15-1191-4e51-9bec-dfffeceba008,6/20/2022,Denis Kombe,African Hair Care Products,Handicrafts and Home Decor,867,11,136,Johannesburg,Ethiopia,Facebook,130.388614,3727,0.071
+a901f8ef-2f68-44fd-b557-bce696d49fa8,6/21/2022,Bob Johnson, masaiShuka,Fashion and Accessories,629,9,141,Lagos,Angola,Instagram,104.6218817,1276,0.065
+8863d56f-0040-4b9e-b07e-cabb2273ed45,6/22/2022, John Doe, masaiShuka,Handicrafts and Home Decor,931,10,62,Johannesburg,Nigeria,YouTube,91.06236122,3153,0.086
+f3f06e5f-df90-493b-980a-9f04eff14f4e,6/23/2022, Alice Lee,Aloe Vera,Personal Care,934,13,112,Dar es Salaam,Ethiopia,Facebook,129.7741596,4791,0.091
+9b9e3468-4717-4a69-b721-f376f127e23d,6/24/2022, Alice Lee,Maasai Shuka,Fashion and Accessories,869,7,131,Nairobi,Ghana,Instagram,118.808307,1706,0.093
+68a33e99-4c63-4fcd-bbac-2e0658a4908e,6/25/2022,Bob Johnson,Sukuma Wiki,Handicrafts and Home Decor,898,5,80,Lagos,Ethiopia,X_Twitter,65.62500232,1656,0.088
+2cb3b5c7-016a-448b-9b87-015b08af8038,6/26/2022,Jane Smith,Maasai Shuka,Handicrafts and Home Decor,808,5,71,Accra,Ethiopia,Facebook,129.7404599,1730,0.065
+6154411b-f953-471d-ad0f-19c98cac3548,6/27/2022,Denis Kombe, masaiShuka,Personal Care,926,9,105,Lagos,Ghana,Instagram,80.81985857,4945,0.074
+bd836e50-e360-4722-8f7a-baf55c34bffa,6/28/2022,Bob Johnson, masaiShuka,Handicrafts and Home Decor,820,14,98,Dar es Salaam,Angola,YouTube,120.6160706,534,0.067
+63c06872-d9e2-4702-9813-bd8819c8aae0,6/29/2022, John Doe,Kikoy Throw,Food and Beverages,734,9,62,Johannesburg, TanZania,YouTube,137.5616594,963,0.097
+bdd64ddd-4c2c-4b88-8585-f01e4cdcd26c,6/30/2022,Jane Smith,Aloe Vera,Fashion and Accessories,590,14,142,Johannesburg,Angola,Instagram,108.4259981,1091,0.065
+710440b2-0f70-4bd0-90e6-086df97c0b30,7/1/2022,Jane Smith, masaiShuka,Fashion and Accessories,540,5,148,,Ghana,X_Twitter,89.12941987,1691,0.061
+abe62c72-2c96-434a-b530-d32b3276d4f2,7/2/2022,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,941,9,66,Johannesburg,Nigeria,Instagram,138.0041142,2766,0.071
+44ce2bf9-1cf3-4be5-954e-19a482a64d5b,7/3/2022,Bob Johnson,Kikoy Throw,Personal Care,535,6,69,Johannesburg, TanZania,TikTok,122.9306307,825,0.076
+8d9bfc75-eabc-4064-bb16-2960fb1f2742,7/4/2022,  bob JohNson,Chai Tea,Personal Care,963,9,118,Luanda,Angola,Instagram,68.19916051,1224,0.081
+b4247501-4235-411e-9adf-115b508777a3,7/5/2022,Jane Smith, masaiShuka,Fashion and Accessories,848,6,109,Nairobi,Ethiopia,Facebook,120.006588,888,0.085
+f3dae870-965f-4c93-a974-be7163a3de53,7/6/2022,denisKombe,Kitenge Fabric,Personal Care,896,9,53,Luanda,Ghana,Facebook,132.3471405,767,0.076
+f5171ee5-5488-49b3-a89b-01b4125253bf,7/7/2022,Jane Smith,Maasai Shuka,Fashion and Accessories,821,11,134,, TanZania,Facebook,66.60901922,1826,0.096
+79f33283-62e2-48cc-ae0c-b07885704a3d,7/8/2022,Jane Smith,Kitenge Fabric,Fashion and Accessories,605,7,86,Lagos, TanZania,Facebook,155.2409596,2178,0.09
+5b2b654a-321d-49ed-99b7-ed1d0913454e,7/9/2022, John Doe,Aloe Vera,Food and Beverages,702,10,74,Dar es Salaam,Ghana,Facebook,82.65755101,4478,0.074
+37c781c7-9da2-49a0-9396-fcac94d14c47,7/10/2022,  bob JohNson,Kikoy Throw,Fashion and Accessories,517,10,132,,Ethiopia,YouTube,112.6901536,2620,0.098
+f2e660fc-3f4b-45f9-b883-5e786ca7dd5a,7/11/2022,denisKombe,Kikoy Throw,Handicrafts and Home Decor,701,9,113,Luanda,South Africa,YouTube,144.6969518,621,0.076
+720f5854-64a7-4cac-bc25-a6a188ef525a,7/12/2022,Bob Johnson,Maasai Shuka,Personal Care,911,13,54,Dar es Salaam,Nigeria,X_Twitter,155.6690155,4310,0.062
+c8c41c7a-520f-4319-86a5-4eea89798341,7/13/2022, John Doe,Kitenge Fabric,Fashion and Accessories,750,13,114,Nairobi,Ghana,X_Twitter,132.5218889,3739,0.099
+bbaa7988-0417-4fc1-8ee8-4bec6ccd0896,7/14/2022, Alice Lee,Sukuma Wiki,Food and Beverages,514,11,115,Dar es Salaam, TanZania,TikTok,69.76300317,1121,0.08
+446d0e20-4332-448a-ad52-27bcf8108ae9,7/15/2022,denisKombe,Maasai Shuka,Fashion and Accessories,798,9,93,Johannesburg,Angola,X_Twitter,63.86247588,1326,0.098
+86d69b3a-8a1a-4efa-be04-bf1b83575106,7/16/2022, John Doe,Kikoy Throw,Food and Beverages,598,10,117,, TanZania,X_Twitter,96.91070104,2155,0.1
+9c3ddb88-a1d9-4edb-801e-a632f02407c4,7/17/2022,Jane Smith,Chai Tea,Fashion and Accessories,600,13,118,Nairobi,Kenya,Facebook,139.3025565,1156,0.05
+645b8341-1ad9-4b8f-9e47-351cac2ea3b5,7/18/2022, John Doe,Maasai Shuka,Personal Care,944,6,136,Dar es Salaam,Nigeria,Instagram,125.4760459,3779,0.054
+ddd31d6b-53bd-474d-8e7f-96bef43d2d77,7/19/2022,  bob JohNson,African Hair Care Products,Fashion and Accessories,818,6,78,Dar es Salaam,Kenya,TikTok,159.6440321,4619,0.08
+513bd8ad-dded-4940-861d-fe2cf5def7ab,7/20/2022,Jane Smith,Kikoy Throw,Fashion and Accessories,683,10,147,Dar es Salaam,Angola,X_Twitter,61.96273427,4917,0.057
+c2226a2a-084e-44f3-ac7b-9d08c29e0f6d,7/21/2022,Jane Smith,Chai Tea,Fashion and Accessories,957,10,68,Lagos,Angola,X_Twitter,106.3545379,2944,0.098
+405476b2-3ed1-4366-bc16-b0430b5f9832,7/22/2022,Bob Johnson,Kitenge Fabric,Personal Care,523,9,146,,Kenya,X_Twitter,118.9359726,2467,0.078
+5fbc6d0d-bf19-47ed-87cb-54662c2e9ee4,7/23/2022,  bob JohNson,Aloe Vera,Personal Care,545,6,139,Accra,Nigeria,X_Twitter,132.7316332,1434,0.067
+d9406c39-0b15-4bc8-ad52-81eeec16e566,7/24/2022,Denis Kombe,Maasai Shuka,Personal Care,713,11,79,Dar es Salaam,Ethiopia,Facebook,121.0914646,681,0.097
+8c03e8fb-183b-4943-800a-67afcefab540,7/25/2022,Jane Smith,Aloe Vera,Personal Care,572,6,105,Dar es Salaam, TanZania,X_Twitter,70.33187449,2447,0.081
+058f4a24-9e5f-4c28-8541-355b6db4de96,7/26/2022,Jane Smith,Aloe Vera,Personal Care,756,13,62,Nairobi,Kenya,TikTok,154.2703825,717,0.061
+a9b65dad-c229-45ce-bffd-30f7b6c0ea99,7/27/2022,Jane Smith,African Hair Care Products,Personal Care,524,7,59,,Kenya,Facebook,103.3848022,3984,0.063
+102aad9f-cd6c-4602-8616-94d322949e80,7/28/2022, John Doe,Kikoy Throw,Fashion and Accessories,506,8,143,Lagos,Angola,X_Twitter,117.5646038,1976,0.061
+e78174cb-5737-42dc-b66f-c189319c9d6b,7/29/2022,Denis Kombe,Chai Tea,Food and Beverages,609,7,97,Nairobi,Ghana,Instagram,87.79654752,2994,0.1
+b10a07f9-af75-4d18-8e02-43247c86ab3e,7/30/2022,  bob JohNson,African Hair Care Products,Personal Care,789,8,142,Lagos,South Africa,Facebook,67.23505789,2573,0.059
+b25c8899-27a9-4b70-a373-22f2701ea290,7/31/2022, John Doe,Sukuma Wiki,Personal Care,644,10,141,,Kenya,YouTube,72.78206778,2479,0.086
+7dab3593-5c26-41c6-aa06-1abf096382e5,8/1/2022,denisKombe,Sukuma Wiki,Personal Care,983,13,113,Accra,Angola,YouTube,159.2570449,2271,0.064
+9ed83750-e96f-4a4f-b3d1-821acdb6268b,8/2/2022,Bob Johnson,Kitenge Fabric,Fashion and Accessories,946,12,67,Johannesburg,Angola,Instagram,100.9154877,4633,0.05
+f98c8ddc-b6fd-45da-b5be-e03dd9c20900,8/3/2022,Bob Johnson, masaiShuka,Fashion and Accessories,925,5,108,Nairobi,Ghana,Instagram,125.4547743,4615,0.069
+aa36aed9-e9f7-444a-9354-a5e4e7ea2a6c,8/4/2022,  bob JohNson,Wooden Bowls,Handicrafts and Home Decor,725,6,136,Accra,Nigeria,X_Twitter,105.6652985,4491,0.058
+d33714fa-dc2a-49a7-9a6d-2afb710a9b9f,8/5/2022,  bob JohNson,Wooden Bowls,Food and Beverages,561,9,117,Dar es Salaam,Ethiopia,TikTok,143.1107812,4717,0.081
+84f330db-ddf6-4ff6-8cf2-2adbab94a550,8/6/2022,  bob JohNson, masaiShuka,Fashion and Accessories,952,13,119,Lagos,Ghana,Facebook,154.1111971,1485,0.08
+cabd5e43-bdb6-4c29-beec-c5989f887ee8,8/7/2022,Denis Kombe,Kikoy Throw,Fashion and Accessories,574,13,128,Accra,Ethiopia,Facebook,98.19083736,3102,0.051
+fc556098-1794-4f40-a42b-938b9fad80ea,8/8/2022,Denis Kombe,African Hair Care Products,Food and Beverages,559,6,118,Nairobi,Ghana,Instagram,79.23785986,3275,0.098
+3a9c8bb6-3fdc-4ad9-8a30-4e29f529db2f,8/9/2022, Alice Lee,Sukuma Wiki,Handicrafts and Home Decor,926,11,109,Dar es Salaam,Nigeria,Facebook,109.0331833,2199,0.065
+12814242-5cf0-4772-a3ac-03b6068c6cbd,8/10/2022,Jane Smith,Wooden Bowls,Food and Beverages,967,12,139,Nairobi,Angola,Facebook,109.6831873,3487,0.064
+28750402-6e7f-4559-985c-24a4749a2f6b,8/11/2022,denisKombe, masaiShuka,Handicrafts and Home Decor,727,8,141,Dar es Salaam, TanZania,Instagram,151.7684889,2211,0.092
+0272c7d0-a3e4-42a0-8579-d6885874f71b,8/12/2022, Alice Lee,Kikoy Throw,Handicrafts and Home Decor,844,10,74,Luanda,South Africa,X_Twitter,110.3198532,636,0.1
+62a339b6-698b-416d-9671-88ab2286961e,8/13/2022,  bob JohNson,Sukuma Wiki,Food and Beverages,576,10,128,Accra,Ethiopia,Facebook,80.87590711,3731,0.086
+80d7a42b-5619-417a-9498-6837124d5424,8/14/2022,Jane Smith,Kikoy Throw,Fashion and Accessories,859,7,117,Accra,Kenya,Instagram,98.73898116,1659,0.055
+89c3d7e8-f1a2-4bd9-9948-43cb28374c87,8/15/2022, Alice Lee,Chai Tea,Personal Care,852,11,66,Luanda,South Africa,TikTok,146.4001774,2021,0.079
+7211ef71-0f81-4846-8a5d-2a270f88cbe8,8/16/2022, John Doe,Aloe Vera,Fashion and Accessories,922,8,117,Dar es Salaam,Nigeria,Facebook,125.2554703,1842,0.079
+ed47b1de-819a-40b5-b404-74e285fff2c5,8/17/2022,  bob JohNson,Kikoy Throw,Fashion and Accessories,898,5,83,Accra,Ethiopia,TikTok,82.83791954,4502,0.089
+710a4490-b67f-4251-9632-bb6f247cebba,8/18/2022,Denis Kombe,Kikoy Throw,Handicrafts and Home Decor,959,11,63,Lagos,South Africa,Facebook,83.95422272,3900,0.073
+7a4a189d-475a-40ed-b2f0-e32be6cc449b,8/19/2022,  bob JohNson,Kitenge Fabric,Fashion and Accessories,742,5,69,Lagos,Ethiopia,Instagram,137.9178522,510,0.073
+b59f2861-b415-495c-a56b-c14808810102,8/20/2022,  bob JohNson,African Hair Care Products,Food and Beverages,637,8,82,Lagos,Nigeria,X_Twitter,65.51037928,4902,0.058
+c23d2cca-7c1b-4a46-a434-fd3cc79a8d93,8/21/2022, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,998,9,85,Nairobi, TanZania,YouTube,135.2255897,4219,0.064
+d89381d0-f30c-4c88-aeba-d75de720f53d,8/22/2022,Bob Johnson, masaiShuka,Fashion and Accessories,767,8,102,Accra,South Africa,X_Twitter,159.5035717,4754,0.096
+321f1849-d32c-4904-80c1-736372eedb9e,8/23/2022,Jane Smith, masaiShuka,Fashion and Accessories,643,9,144,Lagos,Ethiopia,Instagram,137.8800955,1419,0.092
+5cacc2f9-3f09-49f4-8c6c-79a232736e13,8/24/2022,  bob JohNson,Maasai Shuka,Fashion and Accessories,665,10,147,,South Africa,TikTok,80.42344895,4651,0.061
+2234e863-2a23-48eb-8851-de11fe770008,8/25/2022,Denis Kombe,Aloe Vera,Personal Care,616,13,148,Accra, TanZania,X_Twitter,122.232193,3289,0.085
+97cde96b-6b73-4913-a66d-eb21566d5d7d,8/26/2022,Jane Smith, masaiShuka,Fashion and Accessories,599,8,139,Accra,Nigeria,TikTok,159.492181,1179,0.071
+cbf6c5cb-231b-45bc-8f33-99c4becb5953,8/27/2022,Denis Kombe,Kikoy Throw,Food and Beverages,947,10,60,Nairobi,South Africa,Instagram,105.6053105,3060,0.097
+7294bc3e-b219-48f5-abef-9c4d6a376c98,8/28/2022,Jane Smith,Aloe Vera,Fashion and Accessories,959,6,132,Accra,Kenya,TikTok,87.04873327,4665,0.071
+3ea7ea23-3e23-4d0e-aeba-f41f0a02fde3,8/29/2022, Alice Lee,Kitenge Fabric,Handicrafts and Home Decor,981,14,116,Accra,Ghana,X_Twitter,133.1729496,3476,0.088
+68f0c5af-7ed9-4b27-a6ac-e7026bc69bca,8/30/2022, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,944,8,92,Johannesburg,South Africa,Instagram,123.077203,2621,0.062
+d83d3056-938a-4a30-8050-76862e1eb8e2,8/31/2022, John Doe,Chai Tea,Personal Care,513,7,61,Nairobi,Kenya,Facebook,129.591466,2326,0.085
+2c54d2b7-1e54-4f2e-90ab-5de4e7bd6334,9/1/2022,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,821,13,121,Accra,Ghana,X_Twitter,115.1868004,4297,0.078
+88384704-7145-43aa-a679-42222b2960f0,9/2/2022, Alice Lee,Kikoy Throw,Fashion and Accessories,690,13,62,Nairobi,Kenya,YouTube,131.8061944,2482,0.053
+54df0167-0666-4719-89d7-c6843ebf5372,9/3/2022, John Doe,Aloe Vera,Personal Care,619,9,91,Dar es Salaam, TanZania,TikTok,92.5221139,3864,0.051
+cd0a3d6a-5e99-4ee8-8e52-4d25e6f3cef6,9/4/2022, Alice Lee,Kitenge Fabric,Fashion and Accessories,507,7,136,Nairobi,Kenya,Facebook,75.80039136,1920,0.07
+11569245-31e3-453b-871c-70e6f9567760,9/5/2022,denisKombe,Wooden Bowls,Handicrafts and Home Decor,617,12,105,, TanZania,X_Twitter,65.00082453,2641,0.079
+e8aac153-c288-492f-a775-ff0495787bb3,9/6/2022,Jane Smith,Kikoy Throw,Handicrafts and Home Decor,519,7,77,Lagos,Ethiopia,Instagram,67.4964204,2342,0.06
+a6c18123-956a-49d8-b093-b6bf967b9995,9/7/2022,Denis Kombe,Wooden Bowls,Personal Care,845,14,112,Dar es Salaam,Ghana,Instagram,87.9041318,3817,0.088
+b593faa3-a628-4bed-ab1d-5574803a87bb,9/8/2022,Jane Smith,Kitenge Fabric,Personal Care,830,9,134,Lagos,Ethiopia,Facebook,63.49909385,3309,0.096
+368f3ed2-d3aa-456b-9ac1-c7a5cca1df73,9/9/2022, John Doe,Kikoy Throw,Handicrafts and Home Decor,712,5,132,Lagos,Nigeria,X_Twitter,159.8017383,4453,0.083
+0894d820-98bb-4ea3-903b-38ece43aa990,9/10/2022,Jane Smith,Kikoy Throw,Handicrafts and Home Decor,830,14,84,Nairobi, TanZania,X_Twitter,77.18828054,611,0.097
+914c37de-1d37-4fd4-a1ae-2f711dc5f08c,9/11/2022, Alice Lee,Chai Tea,Food and Beverages,755,10,64,,Nigeria,Facebook,91.17665283,4666,0.1
+cfd78ccd-6d04-45d0-943b-5ff0ba8aff40,9/12/2022,  bob JohNson, masaiShuka,Food and Beverages,586,12,56,Lagos,South Africa,Instagram,88.50745687,3808,0.056
+68c7d77c-f9b0-4846-bf06-b87c8fa04efe,9/13/2022,  bob JohNson, masaiShuka,Handicrafts and Home Decor,798,9,112,Lagos,South Africa,Facebook,131.2481807,1208,0.066
+6722c7d0-2b49-4bff-beff-5bdd20e005a5,9/14/2022,Denis Kombe,Kikoy Throw,Food and Beverages,581,13,121,Johannesburg, TanZania,Instagram,114.9013082,786,0.097
+1be84d3d-4828-46c9-82b9-80103583b8ca,9/15/2022,  bob JohNson,Maasai Shuka,Personal Care,935,13,109,Accra,Angola,YouTube,132.0408049,3056,0.051
+9f02a4af-7a93-4443-a10e-28dcf03e3bc5,9/16/2022,  bob JohNson,Kitenge Fabric,Food and Beverages,699,9,110,Dar es Salaam,South Africa,X_Twitter,124.5422902,4725,0.06
+bc626254-714d-4015-95c2-9d2f33aa2fe8,9/17/2022,denisKombe, masaiShuka,Fashion and Accessories,672,8,56,Lagos,Ghana,YouTube,95.21497927,3283,0.087
+2ff2bce6-307e-46a9-97c5-10daa1b9b510,9/18/2022, John Doe,Sukuma Wiki,Fashion and Accessories,974,13,78,Nairobi,Nigeria,Facebook,92.89846176,1004,0.087
+f5316dda-b308-4a82-9287-31babc337b31,9/19/2022,Denis Kombe,Maasai Shuka,Personal Care,855,11,118,Nairobi,Kenya,TikTok,149.5887937,4261,0.087
+024612fe-9f24-4dcd-9ff8-f3b58833321c,9/20/2022,Jane Smith,Maasai Shuka,Handicrafts and Home Decor,682,14,54,Johannesburg,South Africa,Facebook,133.0276879,4299,0.071
+7b161780-67e1-41b9-a540-576483551997,9/21/2022,Jane Smith,Chai Tea,Fashion and Accessories,698,12,103,Dar es Salaam, TanZania,Instagram,127.7362664,2055,0.06
+c382a706-1020-488a-b412-bb2c49a321eb,9/22/2022, Alice Lee, masaiShuka,Handicrafts and Home Decor,678,13,87,Luanda,Ethiopia,Facebook,93.23907327,3695,0.071
+58e91493-7de3-404f-9fcc-26a84e81ca15,9/23/2022,  bob JohNson,Wooden Bowls,Food and Beverages,929,5,98,,Ghana,TikTok,111.8669197,3119,0.091
+32c20f2a-3db3-4b48-a36e-17e089484d73,9/24/2022,Jane Smith,Kikoy Throw,Handicrafts and Home Decor,598,12,91,Johannesburg,Ethiopia,Facebook,158.1305781,1800,0.091
+a834c7c7-4044-4e87-8804-b160807ede3d,9/25/2022, John Doe,Wooden Bowls,Handicrafts and Home Decor,915,11,65,Dar es Salaam,South Africa,X_Twitter,86.00946731,2125,0.057
+eb07c1e0-4080-4c61-a36d-15492429854c,9/26/2022,Denis Kombe, masaiShuka,Food and Beverages,824,13,129,Johannesburg,Kenya,Facebook,104.2660591,2749,0.067
+a1bc3c39-7fd2-4417-9243-7a77467a6a79,9/27/2022,  bob JohNson,Chai Tea,Fashion and Accessories,537,6,126,Johannesburg,Ghana,Facebook,140.5606471,836,0.059
+3ce5ceec-ce9a-4ddb-93fc-fb0a1c8c0bac,9/28/2022,Bob Johnson,Kikoy Throw,Handicrafts and Home Decor,878,14,55,Nairobi,Kenya,Facebook,118.926129,3397,0.065
+2941a245-1179-4907-ba50-a66eaa68ec9c,9/29/2022, John Doe,African Hair Care Products,Food and Beverages,936,13,120,Johannesburg,Nigeria,TikTok,70.2050531,829,0.086
+e3454971-e4dd-4dae-9450-75a43d38e2f4,9/30/2022, Alice Lee,Wooden Bowls,Personal Care,807,10,114,Luanda,South Africa,X_Twitter,157.8843317,3563,0.054
+5d2795fb-086c-4158-817a-896d1e0c7cf6,10/1/2022,Denis Kombe,Sukuma Wiki,Fashion and Accessories,960,7,141,Johannesburg,Angola,TikTok,105.4601617,1811,0.089
+f7027ec6-2164-418d-bf7d-056220d49715,10/2/2022,Denis Kombe,Aloe Vera,Food and Beverages,893,6,121,Luanda, TanZania,TikTok,158.7657353,2050,0.077
+e7872819-d8a6-49df-a549-003d06b1c969,10/3/2022,Jane Smith,Kikoy Throw,Fashion and Accessories,967,13,117,Lagos,Kenya,Instagram,132.4773145,1935,0.065
+74d79f05-9ed3-4b71-8821-e0f3bb2e8e1e,10/4/2022,Bob Johnson,Aloe Vera,Personal Care,697,11,146,Accra,Angola,X_Twitter,73.90131301,706,0.098
+c7ea013c-9159-471a-93bf-52a65a9bf657,10/5/2022, John Doe,Kitenge Fabric,Handicrafts and Home Decor,985,12,110,Dar es Salaam, TanZania,X_Twitter,125.6071211,3566,0.072
+d100a562-6562-4f4e-9535-c9160486073f,10/6/2022,denisKombe,Wooden Bowls,Food and Beverages,793,9,91,Lagos,Nigeria,TikTok,106.6647679,2359,0.051
+3ec6bcb2-aa6d-4a0e-b275-e51231e0feb3,10/7/2022,Jane Smith,Maasai Shuka,Personal Care,995,10,130,, TanZania,YouTube,115.9150324,3938,0.065
+3b5cdb1e-5234-4812-bc4d-962922309014,10/8/2022, Alice Lee,Aloe Vera,Food and Beverages,876,10,143,,Ghana,Facebook,64.97034706,4748,0.096
+81b73659-b555-46f3-9182-c4fbfc26bab5,10/9/2022,Jane Smith,Aloe Vera,Personal Care,634,7,115,,Kenya,X_Twitter,122.9832417,1361,0.079
+3407c6c4-7f74-4e62-a9e7-82072a8c483a,10/10/2022, John Doe, masaiShuka,Personal Care,897,6,69,Dar es Salaam,Kenya,X_Twitter,105.0895412,2678,0.092
+8edfd5fb-b0ef-4ac7-971f-9126e97fb14b,10/11/2022, John Doe,Wooden Bowls,Personal Care,577,6,71,,Kenya,X_Twitter,60.25419492,4261,0.052
+d5baed60-de32-41c5-8d55-20b1a7a1e788,10/12/2022, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,941,14,94,Lagos,Ethiopia,Facebook,157.3917923,1152,0.055
+d5a25c0b-1e6f-41c9-964b-6a325874bcf0,10/13/2022,Bob Johnson,Wooden Bowls,Fashion and Accessories,888,7,145,Lagos,Ghana,Facebook,119.6663043,2637,0.093
+369ae2a4-4b13-468d-8147-8b4640dbaa7d,10/14/2022,Jane Smith, masaiShuka,Fashion and Accessories,959,9,81,Johannesburg,Angola,Facebook,147.7202062,3715,0.084
+a9e7f58d-83af-45fa-b78e-4df7289ab9ea,10/15/2022,Denis Kombe,Chai Tea,Handicrafts and Home Decor,714,12,93,Johannesburg,Ethiopia,TikTok,129.0655906,3450,0.054
+6f43d1a3-8646-4296-a354-2ffdeb10a214,10/16/2022,Jane Smith,African Hair Care Products,Food and Beverages,565,8,87,Accra,South Africa,Facebook,78.05878662,549,0.085
+51b12fa7-b1c1-4ca6-890c-7942cde139b2,10/17/2022,Jane Smith,Sukuma Wiki,Personal Care,536,9,136,Lagos,South Africa,TikTok,110.3030886,2167,0.081
+8394f7de-f1db-48e7-850e-d1f2d9e58eee,10/18/2022, John Doe,Maasai Shuka,Personal Care,769,13,54,Dar es Salaam,Kenya,X_Twitter,84.00589837,3231,0.07
+17b4189f-10e2-4fbb-aac5-80407c704d0f,10/19/2022,denisKombe, masaiShuka,Food and Beverages,759,11,106,Johannesburg,Ghana,YouTube,101.8859147,1753,0.064
+520a2823-29a8-42a8-a68f-1ae69276d678,10/20/2022,denisKombe, masaiShuka,Fashion and Accessories,973,11,125,Accra,Angola,YouTube,108.5257837,2769,0.057
+2c9f4488-e7cf-40b4-a38a-35904b059393,10/21/2022,denisKombe,Chai Tea,Fashion and Accessories,825,12,53,Lagos,Ethiopia,TikTok,101.2316081,1071,0.099
+f799b544-490c-4fd2-967f-a5d94b1cc181,10/22/2022, Alice Lee,Chai Tea,Handicrafts and Home Decor,694,5,50,Luanda,Ethiopia,Instagram,139.2949042,3336,0.099
+5de43b34-fd9d-4f72-91ac-f8186b25ba50,10/23/2022,Bob Johnson,African Hair Care Products,Personal Care,829,10,68,Lagos,South Africa,Instagram,72.27415707,2133,0.077
+4575977d-55c6-4b14-ad99-8263b0f6acd0,10/24/2022,Jane Smith,Chai Tea,Personal Care,848,10,111,,Ghana,YouTube,121.304436,1455,0.078
+7fedd707-c6e1-4b40-a711-fdec85052cae,10/25/2022,Denis Kombe,Wooden Bowls,Fashion and Accessories,586,11,82,Lagos,Angola,Facebook,75.71798459,4545,0.08
+343ef028-d1f3-46b3-b56f-2147b4c88522,10/26/2022, John Doe,Maasai Shuka,Personal Care,663,11,97,Accra,Ghana,Instagram,87.89934029,2607,0.093
+7a64e7cd-5d8e-4020-b7a8-da305550e8bc,10/27/2022,  bob JohNson,Chai Tea,Fashion and Accessories,519,9,138,Dar es Salaam,Kenya,Facebook,81.67745754,2951,0.068
+c499d21f-991c-4143-a552-5105af1f9d48,10/28/2022,Bob Johnson,Kikoy Throw,Handicrafts and Home Decor,790,11,125,Nairobi,South Africa,TikTok,69.4481427,852,0.058
+b977a15c-79ec-4416-b694-144a8673ccb1,10/29/2022,Bob Johnson,African Hair Care Products,Personal Care,520,13,84,Dar es Salaam,Nigeria,YouTube,110.5386164,3897,0.092
+132b8a84-a69d-4286-ad0d-806b55d4aaed,10/30/2022,Bob Johnson,Chai Tea,Personal Care,679,5,100,Luanda,Kenya,Instagram,84.06973755,3365,0.054
+ce6624f6-219b-4f39-b38c-92fe62f2551b,10/31/2022, Alice Lee, masaiShuka,Food and Beverages,956,6,145,Luanda,Kenya,Facebook,124.3701349,1935,0.055
+edb44ec6-8d10-45d8-91e7-cb09d6386b36,11/1/2022,denisKombe,Wooden Bowls,Handicrafts and Home Decor,794,11,104,,Nigeria,TikTok,120.4380162,4370,0.082
+959a2e71-fa09-4bef-9a71-551b196bff23,11/2/2022,  bob JohNson,Wooden Bowls,Handicrafts and Home Decor,943,5,114,Luanda, TanZania,Instagram,78.73210993,1180,0.059
+f12dcf03-26f5-42b7-9268-6f4a3393b045,11/3/2022,Jane Smith,Maasai Shuka,Food and Beverages,941,14,108,Johannesburg, TanZania,YouTube,133.0936513,1539,0.059
+a224f1d6-7b24-4039-b088-327e841c385b,11/4/2022,  bob JohNson,Chai Tea,Fashion and Accessories,820,9,104,Lagos, TanZania,Facebook,63.90557989,826,0.06
+27503ebf-6cb9-4e62-978c-8daedbb11fbd,11/5/2022,  bob JohNson,Kitenge Fabric,Food and Beverages,990,12,58,Accra,Ghana,YouTube,80.62582327,3466,0.061
+81bc271b-7677-4048-a84c-b17f66fd6379,11/6/2022, Alice Lee,African Hair Care Products,Food and Beverages,954,7,120,Dar es Salaam,Ethiopia,Facebook,105.1107088,4710,0.1
+0e508ff1-1d62-4212-9079-eb7dc6d7f2a5,11/7/2022,Jane Smith,Kitenge Fabric,Personal Care,875,14,124,Johannesburg,Nigeria,Facebook,103.0779025,1755,0.066
+0c938aa4-48de-458e-be59-692447aaad12,11/8/2022,denisKombe,Aloe Vera,Handicrafts and Home Decor,503,7,53,Johannesburg, TanZania,TikTok,92.51531388,4217,0.072
+f86fccec-fa06-4d62-bf83-e25ac89180e2,11/9/2022,Bob Johnson,Aloe Vera,Food and Beverages,857,9,120,Dar es Salaam,Ghana,Instagram,77.11913988,1820,0.067
+81ed6bd3-ca64-4768-838f-137c279ae14f,11/10/2022,Denis Kombe,Chai Tea,Fashion and Accessories,773,14,53,,Ethiopia,TikTok,62.96064153,3697,0.064
+52ec6d73-9901-403e-aebf-6c07d11a1923,11/11/2022,Bob Johnson, masaiShuka,Fashion and Accessories,880,11,84,,Ethiopia,Instagram,131.7825457,3197,0.094
+6dbab596-c1eb-482b-80af-85cf4a706f5e,11/12/2022, Alice Lee,Wooden Bowls,Fashion and Accessories,953,6,61,,Ghana,X_Twitter,144.147809,4359,0.095
+dbb16f02-62fa-4851-8f13-ffc1847e2e05,11/13/2022,denisKombe,Aloe Vera,Fashion and Accessories,778,9,146,Lagos, TanZania,Instagram,98.86398568,1649,0.099
+1711d921-a083-4d19-b122-2aeff5b43ff0,11/14/2022, John Doe,Chai Tea,Handicrafts and Home Decor,960,14,64,Dar es Salaam,Angola,TikTok,126.2579392,635,0.067
+9cbbd96e-a14f-489b-a7cf-ea3b7889f850,11/15/2022,Bob Johnson,Maasai Shuka,Fashion and Accessories,534,6,55,Johannesburg,Kenya,Facebook,132.6186823,4544,0.059
+01541caf-2d68-4d80-b8c3-0e46d3ef4297,11/16/2022,Jane Smith,Kikoy Throw,Fashion and Accessories,507,11,51,,Ethiopia,Facebook,96.32431893,2057,0.077
+c9fd577a-48b6-478e-9d2b-11ede8dc2538,11/17/2022,Bob Johnson,Aloe Vera,Handicrafts and Home Decor,556,11,102,,Ethiopia,YouTube,130.9282668,4012,0.067
+62d5af7a-8774-4931-920a-f8add586e551,11/18/2022,Jane Smith,Wooden Bowls,Fashion and Accessories,549,12,119,,Nigeria,Facebook,93.89230419,4305,0.072
+9cb1c6ad-2aec-454a-a034-31985a45f2ed,11/19/2022,Jane Smith,Kitenge Fabric,Food and Beverages,951,12,120,,South Africa,TikTok,106.4974544,4359,0.067
+32b050c7-dbbf-4e49-8e20-6337359b1183,11/20/2022,  bob JohNson,Kitenge Fabric,Handicrafts and Home Decor,751,5,93,Nairobi,South Africa,TikTok,148.4193439,1636,0.065
+31241a86-5b9f-4029-a3e3-a9e5c758f210,11/21/2022,denisKombe,Maasai Shuka,Food and Beverages,561,12,71,Lagos,Angola,YouTube,131.9250958,1094,0.056
+54c7545c-5bc6-48cb-b648-a14302d6727e,11/22/2022, John Doe,African Hair Care Products,Fashion and Accessories,632,11,132,Lagos,Nigeria,YouTube,155.5272029,2186,0.077
+cf95e2dc-0667-4922-8077-4f53ef85fe9a,11/23/2022, Alice Lee,Sukuma Wiki,Food and Beverages,662,11,82,Accra,South Africa,TikTok,93.35949531,860,0.099
+00d443cb-68e2-490e-87c1-06bbc5f9f7ed,11/24/2022, John Doe,Aloe Vera,Food and Beverages,785,13,71,Lagos,Nigeria,TikTok,95.47947998,545,0.093
+b054e185-b4cc-4f40-b169-0d1449b5e88f,11/25/2022,  bob JohNson,Sukuma Wiki,Food and Beverages,791,11,52,Luanda,Ethiopia,X_Twitter,87.66733325,2336,0.051
+0990bb31-d8a9-4a5f-b9e1-6cf8f47eb091,11/26/2022, John Doe,Maasai Shuka,Fashion and Accessories,780,7,106,Accra, TanZania,Instagram,78.41065802,3444,0.06
+7dabadfa-24b1-40bd-ba7c-222710be0f47,11/27/2022,  bob JohNson,Kikoy Throw,Personal Care,728,10,119,Johannesburg,Ethiopia,Facebook,120.6335848,4238,0.073
+03843414-ce86-483c-a393-0d1a68b039d5,11/28/2022, Alice Lee,Wooden Bowls,Food and Beverages,952,7,141,Dar es Salaam,Kenya,Facebook,113.8837697,4120,0.087
+159f5aea-29f1-43d3-86cc-334741b36eba,11/29/2022, Alice Lee,Sukuma Wiki,Personal Care,533,6,60,Dar es Salaam,Nigeria,TikTok,86.01088762,831,0.062
+bc9d8dd8-b585-4186-9c11-82c917ed390f,11/30/2022, Alice Lee,Chai Tea,Handicrafts and Home Decor,742,11,87,Johannesburg,Ethiopia,X_Twitter,145.6574643,4818,0.095
+3e9e94ab-bcd4-45a7-afde-b9c116751a93,12/1/2022,Jane Smith,Aloe Vera,Fashion and Accessories,746,6,71,Johannesburg,Ethiopia,TikTok,119.4069921,4829,0.069
+97e5a450-b2ef-4056-a0d9-cdb9f5c18ff9,12/2/2022,denisKombe,Chai Tea,Handicrafts and Home Decor,954,6,131,Luanda,Ethiopia,X_Twitter,123.4585371,4554,0.055
+e7cb921a-7f2c-4e2b-b07c-a7488221de16,12/3/2022,denisKombe,Wooden Bowls,Fashion and Accessories,520,9,54,Dar es Salaam,Angola,TikTok,102.7377406,3669,0.092
+99e3657c-e3ff-46b2-b8c1-4ade13fbfe11,12/4/2022,Bob Johnson, masaiShuka,Food and Beverages,617,8,133,Lagos,Ghana,Instagram,70.68305056,1865,0.087
+2c3a4ab7-f674-40c6-bb43-5388007e6b85,12/5/2022,  bob JohNson,Sukuma Wiki,Fashion and Accessories,598,11,115,Lagos,Kenya,X_Twitter,81.27483294,2549,0.073
+8116a2d1-889f-40f4-98a7-416da42729c3,12/6/2022,Denis Kombe, masaiShuka,Personal Care,555,14,70,Accra,Nigeria,X_Twitter,105.3100549,4088,0.085
+bdfd377a-a083-474b-8c95-aee9baf22fe2,12/7/2022,Jane Smith,Kitenge Fabric,Handicrafts and Home Decor,859,11,91,Accra,Ghana,TikTok,117.5882362,4857,0.095
+4d013a19-0397-4da4-89b5-5d900c8db7ac,12/8/2022,Jane Smith,Chai Tea,Handicrafts and Home Decor,744,8,75,Lagos,Angola,Instagram,127.4207728,2514,0.077
+1a29b3e9-2714-46c5-aa63-20ad1fccd0e2,12/9/2022,Jane Smith, masaiShuka,Fashion and Accessories,682,10,114,Johannesburg,Kenya,TikTok,75.97206863,1457,0.075
+2129a8a2-abe1-46f3-8bd8-f7e4d43da190,12/10/2022,Denis Kombe, masaiShuka,Fashion and Accessories,991,7,96,Accra, TanZania,TikTok,60.33022937,655,0.05
+f44d3721-1142-4efc-9eea-e576a2bda10b,12/11/2022, Alice Lee,Wooden Bowls,Fashion and Accessories,563,13,143,Dar es Salaam,South Africa,YouTube,138.4961164,605,0.095
+057145cf-02b1-4598-9729-6effae432b43,12/12/2022,Denis Kombe,Chai Tea,Fashion and Accessories,915,11,61,,Nigeria,Instagram,67.14458614,3530,0.087
+357678d7-1257-44d5-85f7-bde97163a5d7,12/13/2022, Alice Lee,African Hair Care Products,Fashion and Accessories,620,14,72,Johannesburg,Ethiopia,X_Twitter,99.61867967,1704,0.052
+cba10dde-1672-401e-80d0-ba91206ecc7a,12/14/2022, Alice Lee,Kitenge Fabric,Food and Beverages,837,8,84,, TanZania,Facebook,126.8537046,2364,0.097
+53630314-df66-4ebb-9baa-d4fa7b6f408c,12/15/2022,Jane Smith,Kitenge Fabric,Food and Beverages,801,11,51,Lagos,Nigeria,YouTube,110.7314491,3747,0.078
+c1200936-1ab2-48f2-a149-4f4adb090870,12/16/2022,Bob Johnson,Chai Tea,Handicrafts and Home Decor,778,6,131,Accra,Kenya,TikTok,137.0678324,2882,0.099
+a6479852-7f10-4f3b-9035-277b73d85723,12/17/2022,Jane Smith,Aloe Vera,Handicrafts and Home Decor,886,10,110,Lagos,Kenya,X_Twitter,101.4652999,4650,0.061
+3079eb05-cf24-4faa-93fc-acaa8a8b4071,12/18/2022, John Doe,Chai Tea,Personal Care,794,5,68,Nairobi,Angola,TikTok,105.9297396,1283,0.059
+8fad733e-4b63-4982-9902-361d4766f02c,12/19/2022,  bob JohNson, masaiShuka,Handicrafts and Home Decor,863,6,94,Johannesburg,Ethiopia,YouTube,84.87343266,4965,0.07
+b7a194d0-c97a-476b-bf3b-4487d3ec7888,12/20/2022,Denis Kombe,Wooden Bowls,Handicrafts and Home Decor,584,8,70,Johannesburg,Kenya,TikTok,131.4977522,4295,0.098
+c8b29885-cc18-4ee6-9207-f3a8ae867c8e,12/21/2022, Alice Lee,Wooden Bowls,Food and Beverages,941,7,127,Luanda,Ghana,X_Twitter,121.4680639,1872,0.063
+eabc4f2d-73f1-4843-9dc4-282f419f6cde,12/22/2022, John Doe,African Hair Care Products,Handicrafts and Home Decor,796,14,102,Johannesburg, TanZania,Instagram,97.38717411,3028,0.083
+993869ba-35bf-4efd-bec0-e42053996a64,12/23/2022,Jane Smith,African Hair Care Products,Food and Beverages,664,9,114,,Ethiopia,Facebook,62.97836184,3889,0.076
+9518a74a-ca12-48ee-b3c8-f31f2091e12e,12/24/2022, Alice Lee,Aloe Vera,Fashion and Accessories,501,5,132,,South Africa,X_Twitter,155.6731877,2486,0.077
+8d46d877-d061-445e-a39b-2f48f6fc0d7c,12/25/2022,Denis Kombe,Chai Tea,Personal Care,923,9,87,Luanda,Angola,YouTube,130.3008689,1730,0.096
+6760f32e-69fb-4f13-b864-4cf4ce557752,12/26/2022, Alice Lee,Kikoy Throw,Fashion and Accessories,972,13,104,Nairobi, TanZania,Facebook,120.7132449,1155,0.099
+5c902b75-76b2-423b-8b39-0d4093094e24,12/27/2022,Jane Smith,Wooden Bowls,Handicrafts and Home Decor,902,11,58,Accra,Ghana,YouTube,99.36361274,3035,0.051
+8fe43ac4-2e81-4670-b4b5-05fdcb310c13,12/28/2022,Jane Smith,Sukuma Wiki,Handicrafts and Home Decor,945,12,58,Accra,Angola,TikTok,103.1844076,1492,0.08
+ae857efe-07e7-475b-8d1a-7e4934c2a916,12/29/2022,  bob JohNson,Kikoy Throw,Food and Beverages,862,8,81,Accra,Nigeria,TikTok,137.7024036,2493,0.051
+bc8a8bbf-a04d-400c-a854-0c8bb6454027,12/30/2022, John Doe,Chai Tea,Fashion and Accessories,589,11,146,Accra,Ghana,TikTok,91.86733693,1778,0.066
+f79242c9-42ad-462b-bcb4-48369ac74c60,12/31/2022,Jane Smith,Kitenge Fabric,Food and Beverages,684,13,141,Nairobi, TanZania,X_Twitter,74.49687282,4235,0.062
+e279a98e-a3aa-45e9-ae2c-f9ed2eb1501d,1/1/2023,  bob JohNson,Chai Tea,Personal Care,838,5,121,Johannesburg,Angola,TikTok,85.93710486,527,0.091
+21d1b16f-1e25-4479-9ee4-758d13fcc1b0,1/2/2023,Denis Kombe,Aloe Vera,Food and Beverages,612,5,95,Nairobi,Ethiopia,Instagram,148.8946866,3303,0.089
+063bf296-41f0-45b8-b087-4f68d77b5d0c,1/3/2023,Denis Kombe,Wooden Bowls,Personal Care,854,5,50,Nairobi,Angola,Instagram,148.9542302,4571,0.066
+081eeeb7-30fb-431e-9065-08159eba4c42,1/4/2023, Alice Lee,Kitenge Fabric,Personal Care,773,6,104,Nairobi, TanZania,Instagram,108.0180359,3227,0.059
+b0cb3878-2bf3-4b81-b8e7-d48168997e6a,1/5/2023, Alice Lee,Aloe Vera,Fashion and Accessories,745,6,134,,South Africa,X_Twitter,75.97799126,1410,0.079
+4691688c-4425-47b2-a028-a58a3c605087,1/6/2023,denisKombe,Kitenge Fabric,Handicrafts and Home Decor,664,12,82,, TanZania,TikTok,115.6164275,1789,0.091
+2e9c48fb-1eeb-41d4-b040-86b0171450ca,1/7/2023,Jane Smith,Kikoy Throw,Handicrafts and Home Decor,680,9,75,Luanda, TanZania,Facebook,110.598885,2411,0.052
+8a416d33-74ac-4020-954d-8de320352853,1/8/2023, Alice Lee,Chai Tea,Fashion and Accessories,734,12,129,Lagos,South Africa,TikTok,124.257011,3363,0.067
+f5bfc4d4-48d6-48ff-add0-217904e61263,1/9/2023,Bob Johnson,Wooden Bowls,Personal Care,831,14,99,Lagos,Angola,TikTok,84.42961738,4143,0.074
+c2fac719-885c-4053-b764-0302787f5d8f,1/10/2023,Denis Kombe,African Hair Care Products,Food and Beverages,907,7,63,Lagos,Kenya,Facebook,123.9433527,3722,0.098
+54a9a77f-1a52-4807-92e8-3e87ef058d05,1/11/2023,Bob Johnson,African Hair Care Products,Fashion and Accessories,571,13,93,,Kenya,X_Twitter,119.3218009,1373,0.09
+36ad9d29-4168-44e4-a444-9f532bd62cd0,1/12/2023, John Doe, masaiShuka,Fashion and Accessories,669,7,108,,South Africa,Instagram,112.8967036,2215,0.06
+40bb3923-28f9-482f-b52e-96ec0e6ca1e8,1/13/2023, Alice Lee,African Hair Care Products,Food and Beverages,656,12,96,Accra,Kenya,X_Twitter,156.425212,1621,0.062
+877efb2f-bf54-4020-954d-d59c97c8d0ba,1/14/2023,Bob Johnson,Wooden Bowls,Fashion and Accessories,872,8,118,Lagos,Kenya,Instagram,117.4602696,2831,0.055
+c4ead037-d5d4-4091-bab7-c9ae0ccef9d6,1/15/2023,denisKombe,African Hair Care Products,Personal Care,553,14,148,Accra,Angola,X_Twitter,127.4170826,1716,0.081
+5ec328ed-fea3-4c64-b1d3-34ccaa7dc684,1/16/2023,  bob JohNson,African Hair Care Products,Personal Care,958,6,55,Dar es Salaam,Angola,X_Twitter,93.02994373,1779,0.062
+e3a254af-a925-4257-815c-0b9780818aeb,1/17/2023,denisKombe,Maasai Shuka,Handicrafts and Home Decor,761,5,51,,Angola,YouTube,106.5797913,4427,0.06
+85fbfdd5-d1cb-4c7a-b5a5-9d09c4c28482,1/18/2023,Denis Kombe,Chai Tea,Handicrafts and Home Decor,733,7,76,Lagos,Nigeria,X_Twitter,117.9767615,2739,0.065
+347b3799-d409-4603-b9e6-1de4d992e77a,1/19/2023,  bob JohNson,Kikoy Throw,Handicrafts and Home Decor,508,12,117,, TanZania,YouTube,127.2114675,4774,0.086
+f5abd8fe-968d-4c1c-bf5f-51a56e813c49,1/20/2023,Bob Johnson,Wooden Bowls,Personal Care,815,8,111,Luanda,Ethiopia,X_Twitter,73.39382447,1004,0.05
+bff97bf8-087e-4b78-9139-7f9df244b7b0,1/21/2023,  bob JohNson,Kikoy Throw,Handicrafts and Home Decor,592,8,87,Nairobi,Ghana,X_Twitter,140.3826981,2413,0.077
+20b02abc-303a-46f5-ab6a-7faf7a0203f1,1/22/2023,Bob Johnson,Chai Tea,Fashion and Accessories,845,6,61,Johannesburg, TanZania,TikTok,105.1465787,3184,0.084
+aecfc893-149f-4f3a-98a1-531a3c042431,1/23/2023,  bob JohNson,Aloe Vera,Fashion and Accessories,896,10,107,Dar es Salaam,Angola,Instagram,149.191473,4278,0.093
+481f8098-056b-464c-a7f3-1e898f387875,1/24/2023,Jane Smith,Maasai Shuka,Food and Beverages,530,7,124,, TanZania,Instagram,109.4037123,1934,0.051
+b16cb049-f3e2-41be-8fc9-074952f7d9de,1/25/2023, John Doe,Maasai Shuka,Personal Care,874,8,102,Johannesburg,Kenya,X_Twitter,150.1145421,1595,0.078
+97f7cae8-458c-4fad-a05d-76e58eca747f,1/26/2023,denisKombe,Kitenge Fabric,Fashion and Accessories,655,5,74,Luanda, TanZania,TikTok,85.97273914,2977,0.051
+836c2af1-9632-4c51-899a-604eb0b93297,1/27/2023, John Doe,Kikoy Throw,Fashion and Accessories,555,5,128,Lagos,Ethiopia,YouTube,67.49595976,2205,0.095
+cc915972-52eb-4492-9be8-b00949b86628,1/28/2023,Bob Johnson, masaiShuka,Fashion and Accessories,711,7,80,Johannesburg,Kenya,YouTube,99.49871625,900,0.082
+394bee52-1bc9-4a02-ae57-034da0ac64ad,1/29/2023,  bob JohNson,Aloe Vera,Handicrafts and Home Decor,938,7,131,Dar es Salaam, TanZania,YouTube,109.1402679,1808,0.084
+73214656-c3b0-45bd-a270-45e9562725db,1/30/2023, John Doe,Kikoy Throw,Fashion and Accessories,781,9,107,Nairobi, TanZania,YouTube,103.5459012,4365,0.089
+c8bbb6d0-90ab-4471-adc4-2f858c523d7b,1/31/2023,Jane Smith, masaiShuka,Personal Care,674,13,51,Accra,Nigeria,Facebook,155.2768177,3429,0.079
+0b3528b1-d141-4b6c-820a-f72f636f9581,2/1/2023, John Doe, masaiShuka,Fashion and Accessories,993,14,97,Accra,Nigeria,TikTok,90.26958921,3291,0.061
+1af26763-4c54-4fbb-b799-cd40ef5c187f,2/2/2023,Denis Kombe,Chai Tea,Handicrafts and Home Decor,931,7,102,Johannesburg,Angola,YouTube,73.06099862,3961,0.069
+d520150c-b1fb-44d7-a11f-4c80664894a3,2/3/2023,denisKombe,Wooden Bowls,Handicrafts and Home Decor,542,12,139,Accra,Ethiopia,TikTok,136.9322976,2863,0.074
+d29a2849-239b-49bc-a674-5253e2021b75,2/4/2023,Bob Johnson,Kikoy Throw,Personal Care,635,13,139,,Angola,TikTok,119.0069495,2536,0.076
+4d4dc4ae-7f77-4f95-99f5-d16fd97e3c09,2/5/2023, Alice Lee,Kitenge Fabric,Handicrafts and Home Decor,772,14,144,,Ethiopia,TikTok,149.9572139,1039,0.056
+9b548cad-6e59-4463-8dd7-57e93f814390,2/6/2023,Denis Kombe,Maasai Shuka,Personal Care,848,7,130,Luanda,Angola,TikTok,82.7996458,3492,0.07
+ff365991-9961-4c79-814b-33278943c384,2/7/2023,Denis Kombe,Maasai Shuka,Fashion and Accessories,858,9,110,Accra,Angola,Facebook,139.3447919,535,0.088
+55c9eef7-8744-4846-9bc5-05b16ce63a9f,2/8/2023,denisKombe,Aloe Vera,Food and Beverages,546,8,90,Nairobi,Kenya,Instagram,77.97891884,1651,0.075
+35aa39dc-ecfb-4f2c-ad88-ffc598deb393,2/9/2023,Jane Smith,Wooden Bowls,Fashion and Accessories,920,10,118,Accra,Nigeria,X_Twitter,83.58717649,4408,0.099
+7fc80ebb-b759-408b-a037-37d837f6ed59,2/10/2023,Bob Johnson,Maasai Shuka,Food and Beverages,660,9,110,Accra,Angola,YouTube,92.02933131,1816,0.064
+446a192d-c727-409b-ac73-05760d7c2775,2/11/2023,Jane Smith,Chai Tea,Personal Care,538,6,72,Luanda,Nigeria,Facebook,85.26625069,3359,0.078
+2b1cb61f-3ebe-42c2-9a8c-d2299bf2a63f,2/12/2023,  bob JohNson,Wooden Bowls,Food and Beverages,781,6,103,Nairobi,Angola,YouTube,108.2777626,2474,0.06
+46d729b8-fe58-412e-8071-0bb1be541e0a,2/13/2023, John Doe,Maasai Shuka,Fashion and Accessories,551,6,145,Dar es Salaam,South Africa,TikTok,143.6899537,3327,0.079
+bb7f8bae-89d9-4d98-9160-8f85f0d982f6,2/14/2023,denisKombe,Wooden Bowls,Food and Beverages,523,9,92,Accra,South Africa,TikTok,62.99157961,3705,0.088
+6ce92dfc-3d51-4c25-8072-9e50b18865aa,2/15/2023, John Doe,Kikoy Throw,Handicrafts and Home Decor,710,6,140,Nairobi,Ghana,X_Twitter,122.3392875,2726,0.057
+c48a31c2-87e0-4842-8cdf-6fa8a84237ec,2/16/2023, John Doe,Kitenge Fabric,Food and Beverages,584,7,54,Lagos, TanZania,YouTube,73.88381017,1517,0.08
+db577675-77b6-40c2-8c2a-02a8975a3d64,2/17/2023,Jane Smith,African Hair Care Products,Fashion and Accessories,807,12,73,Dar es Salaam,Ethiopia,X_Twitter,85.21226033,989,0.09
+488b9998-44f6-4bf8-9c7f-33650d4c7219,2/18/2023, John Doe,Aloe Vera,Personal Care,745,12,90,Accra,Angola,YouTube,82.65737223,1523,0.088
+c2eb6063-828a-46f0-89be-05d49d76f575,2/19/2023,Bob Johnson,Sukuma Wiki,Food and Beverages,928,10,132,Luanda, TanZania,X_Twitter,79.61009688,1334,0.089
+2aa37103-c4eb-4363-9ffe-6ffda6e8a61e,2/20/2023,denisKombe,African Hair Care Products,Fashion and Accessories,971,11,134,Lagos,Kenya,Instagram,117.2334989,2341,0.097
+5a2a0318-8aec-4b9f-90df-e98af8e72b45,2/21/2023,  bob JohNson, masaiShuka,Personal Care,824,14,87,Lagos, TanZania,YouTube,84.26994557,3563,0.08
+82b72bfd-5219-4a2b-9ed1-139f157da487,2/22/2023,Jane Smith,Chai Tea,Personal Care,847,9,115,Lagos,Ghana,Facebook,61.49736837,1923,0.083
+cf6476b4-d8c6-45fc-bcd8-102ccbf3db1b,2/23/2023,denisKombe,African Hair Care Products,Handicrafts and Home Decor,972,14,118,Accra,Ethiopia,TikTok,110.7034957,4812,0.068
+09f29e10-8628-44f7-b194-fbe2a58b28fd,2/24/2023,  bob JohNson,Aloe Vera,Fashion and Accessories,901,9,121,Nairobi, TanZania,Facebook,156.9488755,3212,0.1
+a688620a-56f3-46d0-a400-2e86347cc621,2/25/2023, John Doe,Sukuma Wiki,Personal Care,728,9,134,Dar es Salaam,Angola,YouTube,75.19874493,4355,0.08
+62def502-5609-43a1-8393-75df805bb322,2/26/2023,denisKombe,African Hair Care Products,Personal Care,881,13,131,Accra,Ghana,Instagram,78.98304481,4032,0.064
+f33b0063-4112-4d1b-be0d-5e390987a1bd,2/27/2023,  bob JohNson, masaiShuka,Handicrafts and Home Decor,903,11,104,Lagos,Ghana,YouTube,115.0865182,2659,0.087
+b0adcdfe-70d8-43f2-b4d7-8e3271838de2,2/28/2023, Alice Lee,Kitenge Fabric,Fashion and Accessories,680,14,123,,Nigeria,Instagram,73.01907847,3864,0.053
+625ae326-773b-4b04-83cf-da8701c9d68c,3/1/2023, Alice Lee,African Hair Care Products,Food and Beverages,978,11,113,Nairobi,Ghana,YouTube,152.8935447,3483,0.085
+b626dd84-bcb1-4012-897e-e10cb034e45b,3/2/2023,Denis Kombe,Aloe Vera,Handicrafts and Home Decor,950,10,105,Luanda,Nigeria,Facebook,153.7391813,2346,0.078
+c590c049-d889-4c3d-9a30-c6f2f8c080f4,3/3/2023,denisKombe,Sukuma Wiki,Fashion and Accessories,594,5,79,Lagos,South Africa,X_Twitter,66.07225223,2970,0.081
+27517fb2-0fa1-4ff4-82ae-48f0c09da313,3/4/2023,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,506,13,126,Johannesburg,South Africa,Facebook,73.49181325,2617,0.061
+7f765f2f-a9fc-4fdc-b29b-30c9c9410367,3/5/2023,Denis Kombe,Kikoy Throw,Personal Care,517,13,60,Lagos,Ghana,Facebook,69.28869764,2045,0.099
+f2d01f15-2c27-4949-9ae0-b1c6933e7def,3/6/2023,  bob JohNson,African Hair Care Products,Personal Care,994,5,135,Nairobi,Ghana,YouTube,89.94454542,1475,0.052
+b045d416-e7dd-40d7-a004-e628eb3a3d49,3/7/2023,Bob Johnson,Chai Tea,Personal Care,946,12,106,Dar es Salaam,South Africa,Facebook,150.9263345,4943,0.074
+43aa7dd4-edd7-4e7e-a0f1-343cdd5cf0fe,3/8/2023,Jane Smith,Maasai Shuka,Fashion and Accessories,806,12,143,Luanda,Ethiopia,X_Twitter,65.56087358,2232,0.077
+cca28c5a-c757-49fc-9b22-64f30c41e47c,3/9/2023,Denis Kombe,Maasai Shuka,Personal Care,747,5,65,,Ghana,Facebook,112.4939067,2634,0.066
+df16b348-13ce-4915-94eb-84a57860b379,3/10/2023,Bob Johnson,Chai Tea,Personal Care,767,5,132,Nairobi,Kenya,Facebook,147.2303084,682,0.091
+d8ccec97-f802-429d-930e-187387740b1b,3/11/2023, Alice Lee,Kikoy Throw,Handicrafts and Home Decor,539,11,72,Dar es Salaam, TanZania,X_Twitter,75.2937282,2028,0.061
+dca8461a-2e5c-4478-a37e-87567a17c389,3/12/2023,Denis Kombe,Wooden Bowls,Fashion and Accessories,662,10,138,Accra, TanZania,YouTube,104.8690317,1837,0.099
+38a209fc-1dbd-4dae-b4e0-ca1ce0cf483a,3/13/2023,Denis Kombe,African Hair Care Products,Fashion and Accessories,989,7,70,Lagos,Ethiopia,Facebook,79.82697217,757,0.077
+05d12624-7b0b-41c8-bc2b-40c27b6a9d64,3/14/2023,Jane Smith, masaiShuka,Food and Beverages,729,6,115,Accra,Ghana,Instagram,107.217029,2370,0.096
+e7c7e68d-9fba-4754-ae7c-be008c4c37c1,3/15/2023, John Doe,Kitenge Fabric,Handicrafts and Home Decor,720,6,64,Dar es Salaam,Angola,Facebook,133.6929512,3553,0.057
+47b18d58-a624-4e4e-b193-49d1cd4459b3,3/16/2023, Alice Lee,Kikoy Throw,Food and Beverages,700,6,60,Dar es Salaam,Angola,YouTube,136.4810079,853,0.093
+332d25fa-126f-4e96-b65d-89873a53afcf,3/17/2023,  bob JohNson,Kitenge Fabric,Food and Beverages,899,13,130,Lagos,Ethiopia,YouTube,145.2808345,801,0.074
+8a3695c2-2f43-4d47-9f77-3a19a7dafe68,3/18/2023,Denis Kombe, masaiShuka,Fashion and Accessories,655,13,123,Luanda,South Africa,Instagram,155.6596813,2330,0.085
+0fa2c222-03e4-4ae1-a728-8533ab8fe7fd,3/19/2023,Bob Johnson,Aloe Vera,Personal Care,672,11,54,Accra,South Africa,Instagram,76.25081511,2240,0.057
+f388051c-08cb-4f92-9583-3dcad8f2ed9c,3/20/2023, John Doe,Aloe Vera,Food and Beverages,915,13,114,Luanda,Kenya,Instagram,134.8067246,2165,0.055
+cad8bc64-7875-4032-b06b-037e0528690c,3/21/2023,Jane Smith,Wooden Bowls,Handicrafts and Home Decor,866,5,54,,Angola,YouTube,81.52920065,1674,0.081
+bedd5fa8-4b5d-460a-b1d5-8df1093154c2,3/22/2023,Denis Kombe,Wooden Bowls,Food and Beverages,873,5,140,Luanda,Nigeria,X_Twitter,131.5910972,4055,0.086
+0db03ef5-bb27-4e04-b215-7a7169178c65,3/23/2023,Jane Smith,Wooden Bowls,Personal Care,637,6,140,Lagos,South Africa,Instagram,135.2356718,4784,0.083
+38ba54ac-c381-41c1-adf0-072da3fb0bba,3/24/2023,Bob Johnson,Wooden Bowls,Personal Care,618,9,70,Lagos,Angola,YouTube,158.8591038,951,0.07
+10bf1eec-0de1-4569-b258-ba9800d5d0e0,3/25/2023, John Doe,Aloe Vera,Fashion and Accessories,807,9,106,Nairobi,Nigeria,Facebook,139.9400753,4041,0.066
+440070a0-e274-4353-80c4-fd2bc6cd4741,3/26/2023,Bob Johnson,Kitenge Fabric,Personal Care,604,8,56,, TanZania,TikTok,115.2468744,912,0.099
+81316654-b42b-4ee2-bea2-dd018a72d783,3/27/2023,Denis Kombe,Kikoy Throw,Personal Care,799,14,121,Lagos,Angola,Facebook,117.7851198,4365,0.062
+22567a0f-ab26-4e43-a89c-751e6dde68d8,3/28/2023,  bob JohNson,Aloe Vera,Food and Beverages,983,5,107,Lagos,Ethiopia,X_Twitter,107.759711,1337,0.099
+4821b659-0226-42ac-a260-33c23d0447ce,3/29/2023, John Doe,Aloe Vera,Fashion and Accessories,563,7,142,Dar es Salaam,Kenya,Facebook,147.7851445,1851,0.091
+56f12ffa-7f47-44e7-bd3e-aaeec7159112,3/30/2023,Jane Smith, masaiShuka,Fashion and Accessories,597,7,106,Lagos, TanZania,Facebook,98.7876347,3098,0.068
+f5c8cb02-32cf-4f80-bc8f-79293a2bf288,3/31/2023,  bob JohNson,Chai Tea,Personal Care,504,13,64,Nairobi,Nigeria,Instagram,141.2879532,518,0.095
+3bcf0ace-7fa1-4ebf-a3b6-d99c028f771b,4/1/2023,  bob JohNson,Maasai Shuka,Fashion and Accessories,712,14,71,Nairobi,Angola,Instagram,153.1747384,4370,0.098
+b348c48d-3d3a-4736-9a7e-dffc1ae2359f,4/2/2023, Alice Lee,Aloe Vera,Fashion and Accessories,700,9,97,Johannesburg,Nigeria,Instagram,124.0034352,2321,0.052
+04e94de5-57d2-4aef-a4ff-c62486d16e65,4/3/2023,denisKombe,Kitenge Fabric,Fashion and Accessories,975,10,96,Nairobi,Angola,X_Twitter,94.54384564,2683,0.084
+e68c0f5b-4c8b-4f95-88a7-545b053972ec,4/4/2023,Bob Johnson, masaiShuka,Personal Care,697,12,103,Luanda, TanZania,Facebook,128.3437829,2069,0.076
+7d5ca608-08f4-4649-9b7b-69e8110dcae5,4/5/2023,Denis Kombe,African Hair Care Products,Personal Care,666,11,146,Luanda,Nigeria,Instagram,77.26084703,2590,0.099
+4ba6b7de-3f7c-4464-ae07-78c2c95e7933,4/6/2023,denisKombe,Kitenge Fabric,Fashion and Accessories,939,8,84,Accra,Ethiopia,YouTube,65.00467092,1950,0.072
+df43a426-3c8a-4ed3-a978-d9d41432855e,4/7/2023,  bob JohNson,Kikoy Throw,Handicrafts and Home Decor,770,13,110,,Angola,TikTok,152.2227661,2914,0.067
+4fbbd9ba-721d-4de0-9eb5-df38962fff8f,4/8/2023,denisKombe,Maasai Shuka,Fashion and Accessories,821,14,67,Johannesburg, TanZania,YouTube,72.85425798,3900,0.092
+553a3f64-d65f-4519-96da-b3352a10a536,4/9/2023,Bob Johnson,Aloe Vera,Fashion and Accessories,743,11,94,Johannesburg,Kenya,Facebook,61.47682634,2433,0.097
+6f4be90d-c55f-4744-baad-9f57e95aa6a1,4/10/2023,  bob JohNson,Sukuma Wiki,Fashion and Accessories,670,9,67,Johannesburg,Ethiopia,TikTok,127.6309887,2695,0.097
+08beedda-ef28-4bb9-96a1-ef7f895d5a46,4/11/2023,denisKombe,Wooden Bowls,Personal Care,966,10,109,Nairobi,Ethiopia,Instagram,62.41871021,3108,0.067
+0c73ef4e-9b9b-4f3a-ba32-a0dcc8e2a0a3,4/12/2023, Alice Lee,Kikoy Throw,Food and Beverages,629,13,74,Luanda,South Africa,Instagram,142.8534899,4965,0.062
+470feb00-e11d-4cc9-a57c-01f3a8b376a4,4/13/2023, Alice Lee,African Hair Care Products,Fashion and Accessories,918,7,103,Luanda, TanZania,Facebook,76.26541965,4037,0.053
+3f295c70-46a4-45c0-9dfe-b5e4c36435c2,4/14/2023,Jane Smith,Maasai Shuka,Handicrafts and Home Decor,844,5,81,Lagos,Kenya,Instagram,137.8338808,4689,0.05
+aa6a7a4a-e9bc-4c5a-9a46-b0116c334e41,4/15/2023,  bob JohNson,Kikoy Throw,Handicrafts and Home Decor,597,11,116,Accra,Nigeria,Facebook,129.8540339,675,0.062
+ae1f59f9-af20-44c4-bbb1-180af6aeb212,4/16/2023,Jane Smith,African Hair Care Products,Food and Beverages,723,6,112,Lagos,Angola,X_Twitter,70.55316729,871,0.1
+53a13f27-b1e6-4761-a341-235418637c7d,4/17/2023,Jane Smith, masaiShuka,Handicrafts and Home Decor,981,9,67,Dar es Salaam,Kenya,TikTok,94.69212454,4609,0.096
+57e51bb3-cb63-4c7c-a32b-75cc046448e2,4/18/2023,Jane Smith,Chai Tea,Food and Beverages,652,6,81,,Nigeria,Instagram,153.9580327,3869,0.066
+16d2ef9c-bcd1-4de9-907b-5340eb845d65,4/19/2023, John Doe,Sukuma Wiki,Handicrafts and Home Decor,554,9,146,Johannesburg,Nigeria,Facebook,102.5163961,1448,0.069
+6991595a-eab1-4c06-a20a-c23c00c36a1e,4/20/2023,  bob JohNson,Kikoy Throw,Fashion and Accessories,599,9,118,Nairobi, TanZania,Instagram,84.65055249,1447,0.061
+734c62ef-d942-4664-b845-3da632b2f6b8,4/21/2023,Bob Johnson, masaiShuka,Fashion and Accessories,851,13,125,Johannesburg,Nigeria,Instagram,140.4714075,1414,0.059
+9a24388b-59cf-4ccb-b3bc-fec89b8dfd11,4/22/2023,Jane Smith,Maasai Shuka,Personal Care,633,5,80,Luanda,South Africa,TikTok,151.88962,879,0.068
+0614312a-11ae-46cf-881f-05b3e5105833,4/23/2023,Denis Kombe,Kikoy Throw,Handicrafts and Home Decor,572,13,81,Lagos,Kenya,Instagram,91.93088618,2411,0.078
+130f526d-f71f-4379-b909-5b7196b6cd56,4/24/2023,Jane Smith, masaiShuka,Fashion and Accessories,737,6,50,Lagos, TanZania,YouTube,117.9044026,816,0.08
+e3a5d5ed-c7c0-474c-8b6a-39ac3c959add,4/25/2023,Jane Smith,Kitenge Fabric,Food and Beverages,526,10,67,,Kenya,YouTube,73.46685449,4315,0.066
+f7a8120b-ad94-41c9-bf70-0894ab994f86,4/26/2023,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,804,5,53,,Ghana,YouTube,121.1357262,3996,0.051
+92fb6c95-52eb-450a-80a1-2b31ea369da7,4/27/2023,Bob Johnson,Chai Tea,Personal Care,705,5,58,,Ethiopia,YouTube,121.7280106,1640,0.089
+41233b8c-9092-4b15-92f0-0bbff6450077,4/28/2023, John Doe, masaiShuka,Food and Beverages,846,13,64,Lagos,Kenya,TikTok,112.7417512,2471,0.059
+b3e6831e-6a14-4b0a-95db-6dd82eece7b9,4/29/2023,denisKombe,African Hair Care Products,Fashion and Accessories,596,13,96,,Angola,YouTube,82.00494318,3883,0.092
+fa050e2f-15b9-4cf0-a5ac-61f1076bc37a,4/30/2023, John Doe,African Hair Care Products,Food and Beverages,643,14,94,Accra,Angola,X_Twitter,115.5571676,1382,0.064
+53b06907-3253-4674-b188-7f4f4f98b4ed,5/1/2023,Jane Smith,Sukuma Wiki,Personal Care,755,12,82,Luanda,Kenya,Instagram,95.99625248,1088,0.053
+cc8be6c6-199c-4110-9bc5-9a7bf2b81691,5/2/2023,Bob Johnson,Chai Tea,Personal Care,867,5,148,,Nigeria,YouTube,125.1142335,1962,0.062
+45ce5467-6898-4b3e-8d1c-0c6502f625ae,5/3/2023,Denis Kombe, masaiShuka,Food and Beverages,595,14,80,,Kenya,Instagram,130.2796552,1253,0.086
+d91fd12f-b530-450d-8395-15e28faf9f21,5/4/2023, Alice Lee,Chai Tea,Personal Care,535,10,120,Johannesburg, TanZania,Facebook,102.4655142,3926,0.093
+90eeb50d-8736-45bc-bc6c-6dbc555b4ba9,5/5/2023,  bob JohNson,Kikoy Throw,Personal Care,548,12,76,,Ethiopia,Facebook,110.3432656,3064,0.09
+3d88f158-7872-46df-b288-2b70c727982c,5/6/2023,Denis Kombe,Sukuma Wiki,Personal Care,720,5,92,Accra,Kenya,Instagram,143.9581582,4764,0.062
+cd9e19c2-5247-48bc-9883-a07fccfde12b,5/7/2023,  bob JohNson,Aloe Vera,Food and Beverages,977,8,98,Johannesburg,Nigeria,YouTube,91.0248258,3463,0.086
+b849c041-c87c-4a5a-9302-b6207d277c0e,5/8/2023, Alice Lee,African Hair Care Products,Fashion and Accessories,512,12,137,,Kenya,TikTok,117.3061254,2268,0.088
+ae7e8703-f580-4a51-b320-32f17cc4ba99,5/9/2023,Jane Smith,Wooden Bowls,Personal Care,561,8,66,Accra,Ghana,Facebook,124.0300915,1742,0.095
+c07ea1e1-bd29-4944-896b-13ffb445fa09,5/10/2023, John Doe,Kikoy Throw,Fashion and Accessories,851,9,68,Johannesburg,South Africa,X_Twitter,81.14920567,3088,0.066
+7337f495-1b42-45d0-b1ed-0881677b9872,5/11/2023, Alice Lee,Wooden Bowls,Fashion and Accessories,531,5,102,Lagos,Ghana,YouTube,62.46047297,3650,0.082
+6182cce0-9960-4f9a-8ce3-6882dd2bf6b1,5/12/2023,Jane Smith, masaiShuka,Handicrafts and Home Decor,541,14,131,Luanda,Nigeria,YouTube,63.80402833,3381,0.066
+611e87d4-be69-461d-982c-a90bdda97a6a,5/13/2023,Jane Smith,Aloe Vera,Fashion and Accessories,763,9,111,Accra,Ghana,TikTok,111.3842206,745,0.07
+234438df-2edf-4484-9eb5-a7b635d1489e,5/14/2023, John Doe,Aloe Vera,Fashion and Accessories,885,11,138,Johannesburg,Ethiopia,Instagram,78.04518285,2428,0.09
+a32bd528-ed42-47c6-b182-e6fafc59f8bd,5/15/2023,Bob Johnson,Wooden Bowls,Fashion and Accessories,665,14,109,Accra, TanZania,TikTok,159.1052611,2898,0.064
+6b2df263-9446-4ec8-a775-c90dfd6422aa,5/16/2023,Jane Smith,Aloe Vera,Fashion and Accessories,584,9,104,Luanda,Angola,TikTok,75.93864595,2680,0.068
+67ad2fb7-9f48-4d2c-b520-6fdcc72b6495,5/17/2023,denisKombe,African Hair Care Products,Handicrafts and Home Decor,773,6,122,Accra,Nigeria,X_Twitter,124.7546656,2162,0.057
+e1d1da07-2e93-44ee-9017-25c5fd79e9b2,5/18/2023,Denis Kombe,Wooden Bowls,Fashion and Accessories,771,5,52,Accra,Angola,X_Twitter,155.704924,917,0.091
+5e05befc-510c-4185-91b9-e4edf09435b4,5/19/2023,denisKombe,Maasai Shuka,Personal Care,791,10,70,Dar es Salaam,Ghana,YouTube,135.1813551,2474,0.071
+dccb61d0-9946-4828-9a68-08f0c2a0d9a7,5/20/2023, John Doe,Kikoy Throw,Personal Care,638,7,95,Dar es Salaam,Ghana,X_Twitter,82.97711267,3266,0.097
+c29225f4-040e-44e7-b6f4-da8155622965,5/21/2023,denisKombe, masaiShuka,Fashion and Accessories,876,10,123,Dar es Salaam,South Africa,YouTube,88.0688857,1815,0.08
+e0882cd3-c742-4894-aba8-fe1d7a698d0a,5/22/2023,denisKombe, masaiShuka,Personal Care,948,6,69,Luanda, TanZania,YouTube,108.7397503,2932,0.066
+1722610d-bca8-4fe1-bc93-3c1d7f801cd6,5/23/2023,  bob JohNson,Maasai Shuka,Fashion and Accessories,626,5,131,Accra,Ghana,Facebook,69.01626351,2184,0.059
+652d7d4b-5917-4075-9949-aeff6fddaa3c,5/24/2023,Bob Johnson,Kitenge Fabric,Food and Beverages,980,10,53,Accra,Ethiopia,X_Twitter,117.5703749,2502,0.062
+9e2c2433-0465-49a3-b0a3-15a31009def3,5/25/2023,Denis Kombe, masaiShuka,Handicrafts and Home Decor,897,6,91,Johannesburg, TanZania,Instagram,99.81867896,1317,0.076
+0e3a8ef1-d025-4b34-8463-54aac776e0ad,5/26/2023,Denis Kombe,Wooden Bowls,Handicrafts and Home Decor,521,8,111,Luanda,Angola,YouTube,69.10990233,4993,0.08
+bdf377a1-3141-4ddb-bd59-b7a21b153396,5/27/2023,  bob JohNson,Sukuma Wiki,Food and Beverages,703,7,122,Nairobi,Nigeria,Facebook,123.6291567,1705,0.095
+f74b07d1-480e-447d-9325-e69c59db0390,5/28/2023,Bob Johnson,Kitenge Fabric,Handicrafts and Home Decor,932,12,79,Accra,Angola,Instagram,97.76689033,1714,0.08
+773b3c21-ad95-4d68-bc5a-d6b4139f7d5e,5/29/2023, Alice Lee, masaiShuka,Handicrafts and Home Decor,832,10,73,Luanda,South Africa,TikTok,68.49565025,2491,0.066
+beba8d4a-679c-4c22-afd1-68d84abb964c,5/30/2023,Denis Kombe, masaiShuka,Fashion and Accessories,634,8,62,Accra,Ghana,X_Twitter,144.5667455,4548,0.086
+12934184-fbd7-45e9-8dcb-672d44f353de,5/31/2023,  bob JohNson,Kikoy Throw,Food and Beverages,509,14,94,,Ethiopia,TikTok,89.43974102,572,0.083
+2b96786d-3aa4-4093-b75b-6b873a38e61a,6/1/2023, John Doe,Aloe Vera,Handicrafts and Home Decor,523,12,50,Lagos, TanZania,YouTube,136.9506952,4978,0.082
+a48eec74-b085-4e1b-9035-ffa45b2b34c7,6/2/2023,Jane Smith,Aloe Vera,Personal Care,813,12,103,Accra,Nigeria,YouTube,63.27698279,546,0.055
+e4fa8a85-593d-4470-93f9-4f1b3c50ef5d,6/3/2023,  bob JohNson,Kitenge Fabric,Food and Beverages,596,10,102,,Angola,Facebook,143.883979,3941,0.096
+732ca7ab-8eb8-410b-9cd3-4af60cd892ee,6/4/2023,Bob Johnson,Sukuma Wiki,Food and Beverages,927,9,51,Luanda,Kenya,TikTok,141.6171677,4698,0.086
+2643fb94-2929-4c76-9984-da0dfb1d9cd1,6/5/2023,denisKombe,Maasai Shuka,Fashion and Accessories,519,7,105,Accra,Ethiopia,YouTube,91.07813017,1370,0.093
+744a8c32-d513-4417-8ea7-cf16d29bffec,6/6/2023,Denis Kombe,Sukuma Wiki,Food and Beverages,947,6,133,Johannesburg,Ghana,Instagram,150.9674576,2712,0.074
+d2fa86bc-2186-4375-a993-bbb2732f7e78,6/7/2023,denisKombe,Maasai Shuka,Food and Beverages,820,11,148,Luanda, TanZania,YouTube,71.49028735,4022,0.09
+ba1d0df3-6020-4b28-9a9b-f5d2e79d8090,6/8/2023,Bob Johnson,Maasai Shuka,Fashion and Accessories,829,11,76,Accra,Ethiopia,X_Twitter,67.20937105,4821,0.078
+eeeb59b6-569b-4c79-b7f4-8700daf160fe,6/9/2023,Bob Johnson,Maasai Shuka,Handicrafts and Home Decor,844,9,108,Dar es Salaam,Angola,X_Twitter,112.3997223,2408,0.072
+5353f3e5-f4b4-44e8-bb8f-fdea034d83b1,6/10/2023,Bob Johnson,Maasai Shuka,Fashion and Accessories,706,12,118,Dar es Salaam, TanZania,Facebook,125.2205656,4370,0.096
+b345dda6-0190-49b1-ba5c-29cad4f1ae87,6/11/2023, John Doe,Wooden Bowls,Personal Care,929,11,141,Luanda,Angola,Facebook,122.0946629,2973,0.061
+d2c62ee4-d946-4535-8adb-d8db8a69c84f,6/12/2023,denisKombe,African Hair Care Products,Fashion and Accessories,906,5,60,Nairobi,Angola,Instagram,107.2072434,4854,0.061
+058f4b35-9d24-44da-b7af-d5f14f4d1808,6/13/2023,denisKombe,Sukuma Wiki,Personal Care,651,14,143,Dar es Salaam,South Africa,Facebook,67.74801105,4879,0.071
+b57f2f6f-7d45-4fbd-b2e3-3d89a3756675,6/14/2023, Alice Lee,Kitenge Fabric,Fashion and Accessories,530,14,146,,Kenya,Facebook,138.7027269,3363,0.07
+63e3f87b-9c90-47ae-97a5-4f4e4ef23146,6/15/2023,Denis Kombe,Sukuma Wiki,Fashion and Accessories,570,13,120,Luanda,Nigeria,X_Twitter,134.3517058,3315,0.084
+84bbcf0b-373b-4c14-b004-b35f1ac3069b,6/16/2023,denisKombe,Kitenge Fabric,Handicrafts and Home Decor,611,5,107,Dar es Salaam,Angola,YouTube,134.4680227,4388,0.085
+3c069f45-ec0e-4b22-bc4e-09fedc5e397a,6/17/2023,Denis Kombe,Aloe Vera,Personal Care,696,8,144,Lagos,Ethiopia,TikTok,65.3586154,3722,0.07
+9b4444f0-68a7-4b28-b825-70a5e3e6ff13,6/18/2023, John Doe,African Hair Care Products,Fashion and Accessories,743,8,96,Lagos,Ethiopia,TikTok,135.1035203,630,0.052
+f2316495-1edb-4aec-bec0-1635bc1ee178,6/19/2023,  bob JohNson,Kitenge Fabric,Food and Beverages,925,13,76,Dar es Salaam,Angola,YouTube,71.58743993,4942,0.065
+f977231f-60ce-45af-84d8-5f9e5b592418,6/20/2023,denisKombe,Maasai Shuka,Personal Care,878,13,97,Johannesburg,South Africa,X_Twitter,125.8984492,3637,0.068
+688b8f1c-6b15-43db-ac32-c8772ea5e233,6/21/2023, John Doe, masaiShuka,Food and Beverages,886,6,118,Nairobi, TanZania,Facebook,140.3884337,4149,0.08
+9efc1fa4-5806-4049-9fdf-258947510438,6/22/2023,  bob JohNson,Sukuma Wiki,Personal Care,601,14,113,Nairobi,Kenya,Instagram,94.06070964,2533,0.076
+8dfae68a-cb7e-49a8-b3f1-eb17c30a6693,6/23/2023,Denis Kombe,Chai Tea,Food and Beverages,608,6,95,Lagos,Angola,YouTube,154.0236643,2168,0.077
+e7207579-ada1-4ff3-9d22-90f51cc07100,6/24/2023, John Doe,Kikoy Throw,Personal Care,828,13,58,Lagos,Nigeria,TikTok,142.6137565,3579,0.096
+f9c13d20-3c4c-4477-afd5-136f293b63ea,6/25/2023,  bob JohNson,Kikoy Throw,Handicrafts and Home Decor,949,7,129,Accra,South Africa,X_Twitter,64.93755526,4627,0.082
+64ca2f1d-1eeb-46c7-afc1-b5adfe143651,6/26/2023,Jane Smith,Sukuma Wiki,Food and Beverages,542,12,53,Dar es Salaam,Angola,YouTube,125.5642942,1085,0.062
+3a5c2336-5313-4cc6-8b10-1cf9afadb8f7,6/27/2023, Alice Lee, masaiShuka,Fashion and Accessories,965,10,121,Dar es Salaam,South Africa,YouTube,99.3590081,701,0.071
+c1c1dee6-b49a-488e-9efb-0a533b058d3e,6/28/2023,denisKombe,Maasai Shuka,Personal Care,992,5,115,Nairobi,Nigeria,X_Twitter,116.7655594,1355,0.055
+d32a97a7-03ee-40cf-a3c9-dde150bee9f5,6/29/2023,Denis Kombe,Kitenge Fabric,Fashion and Accessories,964,10,103,Nairobi,South Africa,Instagram,123.2472298,2137,0.06
+c2d9790a-38b7-4037-b234-8ef464771c20,6/30/2023, Alice Lee,Kikoy Throw,Fashion and Accessories,556,10,77,,Kenya,X_Twitter,142.5451736,3953,0.097
+7b769995-e79e-4a02-8bd7-e94c5d8e68e5,7/1/2023,Jane Smith,Aloe Vera,Food and Beverages,891,7,130,Lagos,Ethiopia,Instagram,101.8425664,4308,0.1
+1c3c2aee-d28a-4a95-a6d5-5bb16778811d,7/2/2023,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,785,7,54,Johannesburg,Ethiopia,X_Twitter,131.2300954,4146,0.078
+56b2d0d7-da12-4c51-b8c9-d0ae42636fb4,7/3/2023,  bob JohNson,Kikoy Throw,Personal Care,968,13,67,,Kenya,YouTube,139.787479,2199,0.076
+2933360a-710b-4643-86dc-19119d19b984,7/4/2023,Jane Smith,Aloe Vera,Handicrafts and Home Decor,875,12,64,Nairobi,Ghana,YouTube,101.9817037,2360,0.074
+ee9996b0-c188-44f2-8570-2f2c8291cf92,7/5/2023,Bob Johnson,Chai Tea,Personal Care,504,11,83,Accra,Kenya,Instagram,132.095041,3382,0.076
+d0f5e966-9ec5-419d-b14b-083677937029,7/6/2023, Alice Lee,Aloe Vera,Fashion and Accessories,632,10,117,Accra,Angola,Facebook,132.7209517,3792,0.059
+e3f428f0-20c7-4bb1-9a3f-b84d5b18f513,7/7/2023, John Doe,African Hair Care Products,Food and Beverages,903,10,129,Johannesburg,Ghana,YouTube,130.2652415,4794,0.066
+867914ed-5b0d-4f78-9d5a-4c0fa5945c82,7/8/2023,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,842,12,145,,Ethiopia,X_Twitter,121.8477023,1739,0.099
+e8a07338-7fcd-40ea-a454-0548d94a3136,7/9/2023, John Doe,Kitenge Fabric,Personal Care,873,5,120,Lagos,Kenya,TikTok,122.2246458,4119,0.06
+e64d8140-16d9-4c0f-81f8-a2297d2c5c13,7/10/2023, Alice Lee,Kikoy Throw,Fashion and Accessories,502,9,120,Nairobi,Ethiopia,X_Twitter,113.507659,1077,0.082
+65444102-3d84-48a8-af5c-ec8612722b43,7/11/2023, John Doe,Maasai Shuka,Handicrafts and Home Decor,656,12,82,Accra,Nigeria,TikTok,91.12791499,2179,0.056
+86c155f7-567a-47a9-9357-fd49a1e99485,7/12/2023,Denis Kombe,African Hair Care Products,Food and Beverages,698,12,59,,Kenya,Facebook,80.15700799,2582,0.088
+1b5c727f-c804-4299-9861-df209d1b1b82,7/13/2023,Jane Smith,Kikoy Throw,Fashion and Accessories,743,9,57,Lagos,Nigeria,TikTok,144.0614661,3574,0.094
+ca3c071e-c25c-4d9c-b79a-3a5b6f3d9340,7/14/2023,denisKombe,Maasai Shuka,Handicrafts and Home Decor,509,10,60,,Ghana,TikTok,140.4288858,3358,0.069
+70137a87-6b23-42f5-bd50-795db49c7978,7/15/2023, Alice Lee,Wooden Bowls,Food and Beverages,827,11,112,Johannesburg,South Africa,TikTok,71.64464602,1839,0.091
+2a983380-7eb6-4a2f-83b9-7955c83e0861,7/16/2023,denisKombe,Aloe Vera,Fashion and Accessories,963,13,75,Luanda,South Africa,TikTok,100.3657373,4333,0.065
+b38d2d74-5013-4065-b796-7df03418afab,7/17/2023, Alice Lee,Chai Tea,Fashion and Accessories,821,9,135,,Nigeria,X_Twitter,103.8158789,3651,0.077
+1f748eff-1132-45b3-b240-612f3ea08b27,7/18/2023,denisKombe,Kitenge Fabric,Handicrafts and Home Decor,678,12,137,Johannesburg, TanZania,TikTok,119.8077152,2601,0.058
+3f54753a-6d8c-4dfc-bf45-5536f88757d0,7/19/2023, John Doe, masaiShuka,Food and Beverages,986,8,69,Dar es Salaam,Ghana,TikTok,120.0380118,2490,0.051
+af93cc7f-86a2-45bb-8a7d-0d5630ec0405,7/20/2023,Denis Kombe,Chai Tea,Fashion and Accessories,993,8,142,Lagos, TanZania,TikTok,91.62609258,3945,0.097
+6099387d-5084-45f2-b9a4-df7862c3ff51,7/21/2023,denisKombe,Kitenge Fabric,Food and Beverages,831,12,131,Lagos,Angola,X_Twitter,92.96686728,2104,0.09
+97c0d545-e053-4a73-aeb2-ed2e3d742b14,7/22/2023,Jane Smith,Wooden Bowls,Fashion and Accessories,731,10,122,Accra,Nigeria,TikTok,102.5197366,3024,0.077
+2fd24c57-ffed-4af3-af3a-d32ebf1b4f0b,7/23/2023,Jane Smith, masaiShuka,Personal Care,642,5,100,Lagos,Nigeria,TikTok,110.2864064,3917,0.071
+720bef7e-a591-4d17-8a07-697d71b8b937,7/24/2023, Alice Lee,Aloe Vera,Food and Beverages,512,12,55,Lagos,Nigeria,YouTube,152.3949161,4536,0.079
+beb53912-2a62-45c0-874b-7b99b4af050a,7/25/2023,  bob JohNson,African Hair Care Products,Food and Beverages,666,12,63,Nairobi,Ethiopia,YouTube,122.1913818,2427,0.067
+f18211c2-52fd-4b91-9afc-5169bd7a81e8,7/26/2023,denisKombe,Wooden Bowls,Fashion and Accessories,708,14,129,Dar es Salaam,Angola,Facebook,120.6105811,1117,0.062
+867bff0b-fe3b-4a4e-aa00-fb26be81f470,7/27/2023,denisKombe, masaiShuka,Fashion and Accessories,677,7,80,Accra,Angola,X_Twitter,113.2968442,4734,0.054
+0795eee0-08eb-4309-8ae4-2a6cfbe8bdc1,7/28/2023,denisKombe,Maasai Shuka,Personal Care,783,12,89,Johannesburg,Kenya,YouTube,86.89625297,4367,0.074
+8d40efac-ce81-49b6-a62b-900dd43a19ee,7/29/2023,Jane Smith,Maasai Shuka,Food and Beverages,811,11,92,, TanZania,YouTube,100.6436712,4017,0.073
+b2b8a54b-f4e0-4fd7-9277-9eab28ef0d85,7/30/2023,  bob JohNson,Sukuma Wiki,Personal Care,679,6,52,Lagos,Ghana,Instagram,62.41157377,3084,0.075
+426c5461-9e9c-47e8-b72a-389477daa4fe,7/31/2023,Bob Johnson,Sukuma Wiki,Personal Care,836,10,134,Lagos,Ethiopia,YouTube,101.3961292,994,0.084
+2de3a84f-4c63-44e0-a343-c84438c67b2e,8/1/2023,denisKombe, masaiShuka,Handicrafts and Home Decor,705,9,108,Lagos,Angola,TikTok,132.8774074,3391,0.094
+b5596af9-a456-47c1-aca1-6d5e9f4f863a,8/2/2023,Denis Kombe,Aloe Vera,Handicrafts and Home Decor,822,9,126,Accra,Kenya,Instagram,110.6777863,4953,0.082
+92414adc-f1ec-4be0-aa7c-a3be364bc00a,8/3/2023,  bob JohNson,Kikoy Throw,Food and Beverages,748,9,67,Accra,Kenya,YouTube,81.01316233,567,0.096
+ac1fe29e-87b9-49f6-adfb-70b4a4655273,8/4/2023,Denis Kombe,Kitenge Fabric,Food and Beverages,633,11,76,Luanda, TanZania,Facebook,140.1127583,759,0.06
+87e4019c-8024-4d26-9feb-9fdbef7a490c,8/5/2023, John Doe,Wooden Bowls,Fashion and Accessories,506,11,71,Nairobi,South Africa,Instagram,95.48439837,2807,0.095
+89cfe781-5f4b-4da5-86b6-3fd4d8aa1dcb,8/6/2023,Denis Kombe,Kitenge Fabric,Handicrafts and Home Decor,790,12,142,Nairobi,Angola,X_Twitter,109.1964009,1090,0.079
+3d465071-c231-40e9-806b-fe610f9567fb,8/7/2023,  bob JohNson,Kikoy Throw,Personal Care,710,5,90,Nairobi,Ethiopia,Instagram,144.5138256,1367,0.053
+eb343174-dae0-4c52-a290-6275d4130bc4,8/8/2023,denisKombe, masaiShuka,Handicrafts and Home Decor,808,6,98,Dar es Salaam,Ghana,YouTube,86.92078187,4391,0.058
+65ac167a-1ae0-441e-bd53-47df723bc3e1,8/9/2023,Denis Kombe,Chai Tea,Fashion and Accessories,941,9,144,Nairobi,Ethiopia,Facebook,91.25607602,3954,0.062
+4cb71f42-3e0d-4d8d-96b8-aecc30315a93,8/10/2023,  bob JohNson,Kitenge Fabric,Handicrafts and Home Decor,896,6,88,Johannesburg, TanZania,TikTok,139.2385839,1222,0.059
+f0d20d5c-4b16-4c3d-8e79-bc272f448623,8/11/2023,Denis Kombe,African Hair Care Products,Food and Beverages,833,6,120,Nairobi,Ghana,Instagram,145.340765,4362,0.052
+3c86f9b5-3b67-4a6e-9209-7bc9b5435d80,8/12/2023,Jane Smith,African Hair Care Products,Handicrafts and Home Decor,901,10,105,,Kenya,Facebook,62.40557536,1452,0.099
+7a2ff39f-0ca6-46be-be1b-a40502be3142,8/13/2023,  bob JohNson,Maasai Shuka,Personal Care,508,11,145,Johannesburg,Ethiopia,TikTok,72.39250401,4353,0.09
+83319a56-5c27-4abd-9312-48a2e41a9a38,8/14/2023, Alice Lee,Wooden Bowls,Fashion and Accessories,514,9,55,Luanda, TanZania,Facebook,142.4155832,2504,0.096
+d563b3f0-4c71-4c77-8b7a-1cf9d065cd56,8/15/2023, John Doe,Chai Tea,Food and Beverages,984,13,121,Luanda,Ethiopia,YouTube,109.5566755,696,0.058
+2eca3a90-e8ef-4cd5-9a81-68073308fc47,8/16/2023,  bob JohNson,Maasai Shuka,Personal Care,747,12,60,Dar es Salaam,Ethiopia,Instagram,143.6349617,4376,0.081
+9129b0f2-98a9-45ad-9903-1fb4067530dc,8/17/2023,Jane Smith,Aloe Vera,Food and Beverages,895,6,103,Johannesburg,Nigeria,X_Twitter,84.71595219,1699,0.087
+e4470e55-eb55-4190-889e-aa12d253647d,8/18/2023,Denis Kombe,African Hair Care Products,Food and Beverages,681,14,64,Dar es Salaam,South Africa,YouTube,92.58338196,1821,0.068
+a147e026-a53f-411c-b304-c97a58842f39,8/19/2023,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,764,6,89,Luanda,Ghana,X_Twitter,132.2142511,2489,0.08
+02621a22-3991-4d3f-ab36-50493f9df598,8/20/2023,Jane Smith,Aloe Vera,Handicrafts and Home Decor,836,13,91,Lagos,Nigeria,TikTok,61.57517731,3096,0.079
+930c9088-a212-4686-8735-f5b5ff745c31,8/21/2023,Jane Smith,Kikoy Throw,Personal Care,501,6,129,Dar es Salaam,Ghana,YouTube,152.0597189,4021,0.078
+51b43581-1ee8-4357-a5e5-2b29e46b3317,8/22/2023,Bob Johnson,Maasai Shuka,Handicrafts and Home Decor,813,5,94,Dar es Salaam,South Africa,TikTok,62.99102321,2840,0.099
+7a1c84ce-5f07-4f66-be07-0b0b772edb6c,8/23/2023,  bob JohNson,Maasai Shuka,Fashion and Accessories,736,8,66,Luanda,Ghana,TikTok,93.31905805,699,0.058
+9b6f23c6-5a6f-4829-b769-13df2f82ed66,8/24/2023,Bob Johnson, masaiShuka,Personal Care,844,12,90,Dar es Salaam,Ghana,YouTube,93.00270877,1317,0.065
+7c7af710-a9e6-4bbc-99a3-81b0f577f507,8/25/2023, John Doe,Sukuma Wiki,Fashion and Accessories,738,9,148,Lagos,Ethiopia,Instagram,126.9849846,582,0.084
+7954ed23-d1e3-4ca7-96d3-b1d6cd01901a,8/26/2023,Jane Smith,Kitenge Fabric,Food and Beverages,867,8,111,,Ethiopia,X_Twitter,138.2092057,1214,0.059
+e8121538-2050-44ed-bc98-725a64337e6a,8/27/2023, John Doe,Kikoy Throw,Fashion and Accessories,542,5,51,Nairobi,Kenya,X_Twitter,68.14031543,1831,0.056
+39525d0a-2c7c-41bb-bbc1-ab7148d87e98,8/28/2023,Bob Johnson,Chai Tea,Personal Care,942,11,115,Luanda,Kenya,Facebook,108.6876741,2424,0.053
+7ea8b4b3-c80d-43c2-abe2-a107a49f2ff9,8/29/2023,Jane Smith,Sukuma Wiki,Handicrafts and Home Decor,806,10,88,Lagos, TanZania,Instagram,112.0236469,1491,0.076
+20e8eb4d-62b5-43ed-a41c-cb4e0f7a70e3,8/30/2023, Alice Lee,Sukuma Wiki,Handicrafts and Home Decor,668,12,123,Dar es Salaam,Kenya,TikTok,145.0733423,926,0.08
+b1790a94-3e9d-4781-b50f-a5ec1e2148df,8/31/2023, John Doe,Chai Tea,Fashion and Accessories,763,7,94,,Kenya,Instagram,114.1250528,3550,0.053
+efde51cf-d528-4b29-b537-f3adcc6473f4,9/1/2023,Denis Kombe,Maasai Shuka,Personal Care,526,12,104,,Kenya,TikTok,119.2994919,3006,0.076
+8d2dae2e-2552-483e-8d97-54f707df263a,9/2/2023, Alice Lee,Kitenge Fabric,Handicrafts and Home Decor,900,10,63,Johannesburg,Ghana,YouTube,129.3654844,2280,0.096
+4d995e53-6be9-4f95-96bd-e3419ab5a87d,9/3/2023,Jane Smith,Aloe Vera,Personal Care,524,8,63,, TanZania,YouTube,100.1750633,2455,0.055
+c3e1afbe-d137-40d6-860c-f76a8b6074fa,9/4/2023, Alice Lee,Maasai Shuka,Food and Beverages,655,10,83,Dar es Salaam,Kenya,Facebook,107.8113326,2939,0.078
+7bc5c08b-e04d-4e41-a27d-5c5f14fcb4a5,9/5/2023,Denis Kombe,Maasai Shuka,Fashion and Accessories,703,13,81,,South Africa,X_Twitter,139.3421955,3002,0.067
+6b88e047-4768-4629-b34c-b710a9af739a,9/6/2023,Jane Smith,Maasai Shuka,Fashion and Accessories,613,5,86,Nairobi,Kenya,YouTube,70.51335542,4942,0.061
+75f0a9ae-5c0d-422a-b831-3360258dc214,9/7/2023, John Doe,Kitenge Fabric,Personal Care,750,6,61,Johannesburg,Angola,Facebook,157.3727814,4073,0.064
+86cf6574-f2d5-401c-98f5-b794262f5977,9/8/2023,  bob JohNson, masaiShuka,Personal Care,734,8,98,Luanda,Ethiopia,Facebook,66.57816754,4204,0.066
+18c1cbf2-fbe7-4663-ad4a-dcd428b59e90,9/9/2023,Bob Johnson,Maasai Shuka,Handicrafts and Home Decor,533,9,69,Nairobi, TanZania,TikTok,149.163083,1873,0.058
+11af00d9-6881-464c-846e-dd2808779012,9/10/2023,Jane Smith,Wooden Bowls,Handicrafts and Home Decor,683,6,121,Johannesburg,Ethiopia,TikTok,102.2813814,4687,0.096
+e195ef94-d588-44e8-9ce2-fc7e9e4b95b7,9/11/2023,Denis Kombe,Maasai Shuka,Handicrafts and Home Decor,925,11,51,Accra,Kenya,Instagram,137.7165153,3079,0.079
+a41dde39-4e8c-4d93-b531-ae5acb4b1314,9/12/2023,Denis Kombe,Chai Tea,Food and Beverages,814,14,53,Nairobi,Angola,YouTube,116.0177171,2833,0.089
+0d626f4e-091c-4248-83fb-7d93f51bad2f,9/13/2023,Jane Smith,Aloe Vera,Handicrafts and Home Decor,506,13,141,,Angola,YouTube,113.9665124,3011,0.064
+7aff52a0-bd87-4638-96e7-10586f778d2d,9/14/2023,denisKombe,African Hair Care Products,Fashion and Accessories,653,11,124,Dar es Salaam,Kenya,Facebook,64.19714554,1693,0.097
+eaf517fc-9c6c-48f6-aba8-f649284ac07d,9/15/2023,Denis Kombe,Maasai Shuka,Food and Beverages,800,6,69,Accra, TanZania,Instagram,156.089662,633,0.094
+e4ee78e9-64d4-4325-802f-aeaece9debf9,9/16/2023,Bob Johnson,Kikoy Throw,Fashion and Accessories,653,5,56,Dar es Salaam,South Africa,TikTok,151.1868117,3735,0.084
+cd138a6d-4929-480c-870b-c37a701cbd23,9/17/2023,  bob JohNson,Maasai Shuka,Food and Beverages,964,7,85,Johannesburg,Nigeria,YouTube,69.00581081,1897,0.095
+f3f2f206-862b-450e-837d-5cb7528c453f,9/18/2023,Bob Johnson,African Hair Care Products,Handicrafts and Home Decor,763,6,75,Nairobi,Angola,YouTube,129.1887597,4829,0.084
+f0f1abff-411c-479a-b44a-38116918a557,9/19/2023, John Doe,African Hair Care Products,Food and Beverages,596,8,119,Johannesburg,Kenya,TikTok,156.8888445,3112,0.067
+4a25a93e-1fbc-4417-88da-04d26bf857f5,9/20/2023,  bob JohNson, masaiShuka,Food and Beverages,941,11,63,,Angola,Facebook,124.201494,2354,0.094
+ec5ee332-15e7-4fc2-9c83-0100bd3b2f49,9/21/2023,Denis Kombe,Sukuma Wiki,Personal Care,792,7,145,Lagos, TanZania,Facebook,140.2986862,4117,0.068
+37c808c0-244d-46aa-a796-9713acbd4916,9/22/2023,Jane Smith,Wooden Bowls,Handicrafts and Home Decor,521,6,80,Luanda,Nigeria,YouTube,146.7517851,2358,0.083
+51bc6fd5-27e6-4b16-8618-e933071fc613,9/23/2023,Denis Kombe,Chai Tea,Fashion and Accessories,809,12,61,Dar es Salaam,Nigeria,Instagram,67.22898414,1860,0.089
+f52fd8e4-48c4-46d5-b759-aa5e4c9f9452,9/24/2023,  bob JohNson,African Hair Care Products,Handicrafts and Home Decor,827,13,100,,South Africa,Instagram,62.09734274,3261,0.052
+ee1c7541-fd33-417e-b0d4-182dc203a87f,9/25/2023,  bob JohNson,Aloe Vera,Fashion and Accessories,660,12,57,Nairobi,Angola,Facebook,138.0783962,1575,0.068
+7f78d705-cef9-4750-bcc2-bf5400ee9983,9/26/2023, John Doe,Kikoy Throw,Handicrafts and Home Decor,836,6,128,Lagos,Kenya,YouTube,132.1659256,819,0.074
+b988afd7-2353-4d51-861f-00408b369e5e,9/27/2023,Jane Smith,Aloe Vera,Food and Beverages,800,5,71,Luanda,Nigeria,Instagram,80.48524834,569,0.07
+8aabdb08-ed44-48d9-90cf-adab74cee721,9/28/2023, Alice Lee,Chai Tea,Fashion and Accessories,958,14,84,Lagos,Nigeria,YouTube,101.5109326,3321,0.079
+6f48d7d5-f12e-4a4e-b073-3758a524923e,9/29/2023,denisKombe, masaiShuka,Handicrafts and Home Decor,594,5,132,Nairobi,South Africa,Instagram,138.1224921,3878,0.07
+db3d29c1-ddc8-4ade-b6cd-fdd4bf37fb76,9/30/2023, Alice Lee,Kitenge Fabric,Personal Care,837,7,145,Johannesburg,South Africa,X_Twitter,150.268731,1728,0.076
+8f27e136-ec31-467c-8aec-c4afa69ba155,10/1/2023,Denis Kombe,Aloe Vera,Personal Care,857,10,146,Nairobi,Angola,Facebook,60.46827643,1781,0.068
+0dd0efc5-d079-402c-80fe-aec7f5824295,10/2/2023,Denis Kombe,Aloe Vera,Fashion and Accessories,591,10,117,Dar es Salaam, TanZania,TikTok,62.26374243,1209,0.096
+8af43402-354f-4951-8764-f6208805d50c,10/3/2023, Alice Lee,Aloe Vera,Fashion and Accessories,775,13,142,,Ghana,Instagram,136.1145792,1168,0.069
+a5c5df79-adba-402c-9cc9-5c89b150ac38,10/4/2023, John Doe,Maasai Shuka,Food and Beverages,586,8,61,Nairobi,Ethiopia,TikTok,76.79059941,2098,0.08
+a4eb3b1a-1870-4db3-b5a7-6221465fd03f,10/5/2023,  bob JohNson,Chai Tea,Handicrafts and Home Decor,962,14,61,Johannesburg,South Africa,YouTube,132.4073339,3003,0.098
+795647d2-7716-475f-8b33-0b6d194a2ad9,10/6/2023,denisKombe,Sukuma Wiki,Personal Care,932,13,62,,South Africa,Facebook,152.4195587,4029,0.073
+3bc41550-6a79-4747-884d-b075db7e3ea8,10/7/2023,Bob Johnson,Maasai Shuka,Fashion and Accessories,515,14,130,,Angola,Facebook,130.4903213,4506,0.081
+4212b136-50d3-42f3-85f2-428f65ea8974,10/8/2023, Alice Lee,Kitenge Fabric,Fashion and Accessories,733,5,77,,South Africa,X_Twitter,63.80500986,3590,0.073
+f3203c22-be28-48a9-b868-fceee97e24e2,10/9/2023,Jane Smith,Maasai Shuka,Personal Care,699,10,105,Nairobi,Nigeria,Facebook,157.9166809,4341,0.092
+191661f9-c07f-4b37-af2b-5b0f941cc1a0,10/10/2023,Jane Smith,Sukuma Wiki,Handicrafts and Home Decor,773,7,98,Nairobi,Kenya,X_Twitter,156.5740105,821,0.096
+a221a321-0070-4b6c-80ee-046ace957f2a,10/11/2023,denisKombe,Aloe Vera,Fashion and Accessories,795,7,109,Nairobi, TanZania,Instagram,122.552544,1784,0.072
+bb74920b-be58-401d-91e6-2109c09c84be,10/12/2023,  bob JohNson,Maasai Shuka,Food and Beverages,868,10,56,Johannesburg,Kenya,YouTube,115.8885931,2732,0.067
+2bd22584-9680-4f86-b985-2df7ae05ccd7,10/13/2023,denisKombe,Sukuma Wiki,Personal Care,982,7,85,Luanda,Angola,YouTube,144.6270038,4017,0.086
+c328b73a-0489-4238-aff5-c362cbf34fe4,10/14/2023,Bob Johnson,Wooden Bowls,Fashion and Accessories,655,6,92,Luanda,Angola,X_Twitter,97.06448161,1014,0.061
+d1a4b51b-0283-4c60-ad8a-ecc474cdcb18,10/15/2023,  bob JohNson, masaiShuka,Fashion and Accessories,670,6,61,Lagos,Kenya,YouTube,156.2641424,3770,0.078
+c547f45f-0689-41e3-ba54-1609b06c2e21,10/16/2023,Jane Smith,Aloe Vera,Personal Care,926,14,140,Luanda, TanZania,TikTok,75.67272441,3096,0.097
+f8e00079-c11b-470d-84da-dd787ef44904,10/17/2023,denisKombe, masaiShuka,Fashion and Accessories,923,9,103,Lagos, TanZania,TikTok,146.6646601,2043,0.051
+8befb5b3-bfad-451d-98dc-296b8e08f38a,10/18/2023,  bob JohNson,Chai Tea,Personal Care,712,8,138,,Ethiopia,TikTok,97.95275301,3325,0.082
+62f6a7d8-008c-4ed3-a5c8-925f2d47d880,10/19/2023,Denis Kombe, masaiShuka,Personal Care,513,6,135,Accra,Ethiopia,Facebook,130.9023706,3988,0.077
+a973afe3-ebb8-49ff-bf10-fe0f4964725e,10/20/2023,denisKombe,Chai Tea,Food and Beverages,985,13,72,Johannesburg,Ghana,TikTok,130.1011793,3329,0.086
+cd3689d6-0c0c-4ea2-95af-5d075b1e10f7,10/21/2023,  bob JohNson, masaiShuka,Fashion and Accessories,849,6,70,Lagos,Angola,Instagram,154.1022771,1111,0.083
+49136395-289f-4750-9105-03c808bddad7,10/22/2023,  bob JohNson,Aloe Vera,Handicrafts and Home Decor,577,13,73,,South Africa,X_Twitter,155.8370183,1317,0.092
+c7ef1b1d-5bc1-4b57-af4c-dd78da85a27d,10/23/2023, John Doe,Kitenge Fabric,Handicrafts and Home Decor,666,9,100,,Kenya,YouTube,65.67440503,2473,0.06
+d7f9b738-05da-4a2c-9794-2954d9414633,10/24/2023,  bob JohNson,Kitenge Fabric,Personal Care,784,5,115,Dar es Salaam,Ethiopia,TikTok,139.7392439,3567,0.096
+d20fd4da-f9b9-42cd-8e54-7b82103a3c98,10/25/2023,Jane Smith,Sukuma Wiki,Personal Care,998,9,115,Dar es Salaam, TanZania,YouTube,73.22084371,2388,0.097
+487ca711-172d-4800-b5dd-236ce3964c27,10/26/2023,  bob JohNson,Aloe Vera,Handicrafts and Home Decor,529,12,140,Accra,Angola,YouTube,123.5793289,2799,0.076
+915453c8-5cde-419a-be5e-79682a4ad454,10/27/2023,  bob JohNson,Sukuma Wiki,Fashion and Accessories,593,6,149,Johannesburg,Kenya,TikTok,145.5197188,4073,0.076
+6b495fbc-3a10-48ae-968a-e506884d626a,10/28/2023,Denis Kombe,Aloe Vera,Food and Beverages,815,7,92,Luanda,Angola,Facebook,74.34201989,2429,0.067
+6ade0afa-cf5d-4f8a-b43a-36620c579fdf,10/29/2023, John Doe,African Hair Care Products,Fashion and Accessories,958,9,143,Accra, TanZania,Facebook,158.0977676,4213,0.088
+abede1fe-fd3b-4539-8dfe-6fe7ab2d031c,10/30/2023,denisKombe,Wooden Bowls,Food and Beverages,763,12,90,Lagos, TanZania,TikTok,124.5013053,4931,0.069
+28c565c9-cbfd-485f-ba56-5045887f007d,10/31/2023,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,636,8,61,Dar es Salaam, TanZania,TikTok,80.2022737,3570,0.097
+f6d5e1c3-131d-4998-a539-47a42328f6f7,11/1/2023,Jane Smith,Kitenge Fabric,Fashion and Accessories,946,13,104,Lagos,Nigeria,Instagram,150.6578881,1408,0.055
+443c69ce-cd0b-4361-ad25-76e181992121,11/2/2023, John Doe,Sukuma Wiki,Fashion and Accessories,881,6,58,Dar es Salaam,Kenya,Instagram,119.2920987,3289,0.073
+35c79e5c-7d85-41e2-86d9-d6e5c96c26f5,11/3/2023,Denis Kombe,Chai Tea,Fashion and Accessories,863,9,56,Johannesburg, TanZania,YouTube,78.16057298,2613,0.062
+149cae8d-8bdf-44ae-a3f5-02f57892b11a,11/4/2023,Bob Johnson,Kikoy Throw,Food and Beverages,742,11,58,Dar es Salaam,Kenya,TikTok,77.92453374,4517,0.08
+722e2e19-2c9c-4e70-9bb1-b41a49622f84,11/5/2023, John Doe, masaiShuka,Food and Beverages,829,7,122,,Ethiopia,YouTube,141.5574505,2018,0.062
+67f325dd-e122-42d8-a6ec-93b62335d0c1,11/6/2023, John Doe,Wooden Bowls,Personal Care,926,6,144,,Ghana,TikTok,152.9979442,3509,0.095
+8bf582d1-f8ba-4011-82b4-3170fef198fb,11/7/2023,denisKombe,Kitenge Fabric,Fashion and Accessories,843,10,89,Lagos,Angola,YouTube,117.8981124,4575,0.058
+422e2af9-0b15-40c8-aee7-8e2c1b5e0b4e,11/8/2023, John Doe,African Hair Care Products,Personal Care,838,7,118,Dar es Salaam,Ethiopia,Instagram,99.39646722,523,0.086
+098855bf-0106-4905-af0d-db61bad303a0,11/9/2023,  bob JohNson,African Hair Care Products,Fashion and Accessories,571,7,55,Lagos,South Africa,YouTube,111.0470694,4809,0.099
+22018b26-592a-40a9-a989-fbff51fbc740,11/10/2023, Alice Lee,Maasai Shuka,Personal Care,608,6,62,,South Africa,Facebook,107.7205486,4907,0.092
+af6f5711-3860-4c77-9074-e3bc1ac7c471,11/11/2023,denisKombe, masaiShuka,Handicrafts and Home Decor,660,6,79,,Ghana,Facebook,129.3538646,4741,0.08
+ef5570cb-fefe-427c-8c3b-d5c84672b49e,11/12/2023,Denis Kombe, masaiShuka,Handicrafts and Home Decor,638,13,139,Lagos,Ghana,X_Twitter,128.5120765,2493,0.089
+22193e0a-75fa-4b43-85a7-5789208d3baa,11/13/2023,Jane Smith,Sukuma Wiki,Food and Beverages,550,5,120,Luanda,Kenya,Facebook,75.6052746,2185,0.097
+df1db824-4d59-4176-accb-202dde988340,11/14/2023,denisKombe,Sukuma Wiki,Fashion and Accessories,752,5,84,Dar es Salaam,Ghana,TikTok,119.7256132,3536,0.093
+96f4cf7c-bcb9-41a5-aa72-ba0a4582a1cc,11/15/2023, John Doe,Kitenge Fabric,Handicrafts and Home Decor,579,8,121,Dar es Salaam,Angola,TikTok,115.749157,4707,0.055
+bff7f74b-8b81-4b38-ba55-a3107e93a0d0,11/16/2023, John Doe, masaiShuka,Personal Care,802,12,112,Accra,Nigeria,Instagram,68.3028292,2919,0.094
+f5778be1-ba24-4ff8-bfee-883e4e4e7c43,11/17/2023,Denis Kombe,Aloe Vera,Food and Beverages,973,5,70,Nairobi, TanZania,YouTube,66.44610663,1485,0.051
+296b5de2-fac6-4e8c-9660-e7095ec26ee5,11/18/2023,Denis Kombe,Wooden Bowls,Personal Care,609,13,138,Johannesburg,Kenya,Instagram,146.6910824,745,0.099
+ac1412fc-ab84-45b0-b3d2-2c7905defc78,11/19/2023,Denis Kombe, masaiShuka,Handicrafts and Home Decor,794,9,103,Accra,Ghana,YouTube,63.12741478,4563,0.087
+a7ccaaf0-c901-4b82-824d-3bbe7f0c4244,11/20/2023,Bob Johnson,Chai Tea,Fashion and Accessories,657,14,58,Luanda,Angola,Facebook,146.4879397,3932,0.096
+bc173fca-686f-4de2-aff2-76123c9bba34,11/21/2023,Denis Kombe,Aloe Vera,Personal Care,912,8,135,Nairobi,Angola,Instagram,110.4614029,3832,0.077
+a5b30446-7704-4917-964a-3b4046e9b392,11/22/2023,Jane Smith,Aloe Vera,Personal Care,681,6,140,Nairobi,Angola,YouTube,63.9459475,2356,0.082
+6a1f472f-4ee7-4e2b-bc6d-8400298ed327,11/23/2023,Jane Smith,Kikoy Throw,Fashion and Accessories,733,8,148,Lagos,Nigeria,Facebook,141.8686697,850,0.053
+7f6260e3-c485-4b5c-9b21-d4368fcd3933,11/24/2023,Denis Kombe,Sukuma Wiki,Handicrafts and Home Decor,658,6,123,Lagos,South Africa,Instagram,79.94939207,3192,0.077
+28330e3d-c3b6-4c14-8a80-76e6ba117570,11/25/2023,denisKombe,Kikoy Throw,Personal Care,824,14,90,Luanda,Nigeria,X_Twitter,83.42660677,4192,0.092
+4237bce4-aba0-44cb-ac42-7e312b194527,11/26/2023,  bob JohNson,African Hair Care Products,Personal Care,502,14,90,Dar es Salaam,Angola,Instagram,100.0325938,3903,0.084
+fa3ce05b-1680-435a-86e1-f542c60eeb89,11/27/2023,Jane Smith,Sukuma Wiki,Food and Beverages,659,13,65,,Angola,X_Twitter,148.7165452,2303,0.094
+a531babd-7a44-4336-9451-e15907cced72,11/28/2023, Alice Lee,Kitenge Fabric,Handicrafts and Home Decor,546,13,148,Accra,Angola,Facebook,133.6690997,958,0.083
+9b42e2fa-0f2f-42f2-8853-787260911019,11/29/2023,Jane Smith,Maasai Shuka,Fashion and Accessories,567,13,91,Dar es Salaam,South Africa,TikTok,69.38449831,3771,0.098
+74e750f1-568e-420a-a790-0c6f605bfe2e,11/30/2023,denisKombe,Wooden Bowls,Fashion and Accessories,579,10,149,Accra,Nigeria,Facebook,68.37504856,2633,0.056
+54840e45-d708-4c1b-b62b-ca41370af986,12/1/2023,denisKombe,Aloe Vera,Handicrafts and Home Decor,502,5,141,Luanda,Nigeria,YouTube,68.14173544,1884,0.067
+90cf5fa3-0ef3-41a4-b2c1-4aea12d3d844,12/2/2023,denisKombe,Wooden Bowls,Personal Care,536,10,139,Lagos,Angola,Facebook,127.714844,4503,0.05
+32dffa6a-da3e-4a3d-977d-d8a75e440bde,12/3/2023, John Doe,Kitenge Fabric,Fashion and Accessories,883,9,74,,Angola,TikTok,110.2272523,3613,0.072
+751c6365-8141-4cb5-8fa1-2d221d0217c0,12/4/2023,Jane Smith,African Hair Care Products,Food and Beverages,990,14,74,,Nigeria,TikTok,69.47617395,4859,0.092
+932f9705-4cda-436a-a47c-e566a04c025a,12/5/2023,Denis Kombe,Sukuma Wiki,Fashion and Accessories,830,14,88,Accra,Ethiopia,TikTok,64.87023857,904,0.097
+62807cc9-8c2f-4b35-89e9-42b83ad7abaa,12/6/2023,Bob Johnson,Chai Tea,Food and Beverages,588,11,86,,Nigeria,YouTube,106.2791114,4859,0.065
+82edd351-d81f-42dd-960c-19f6223ec071,12/7/2023,Jane Smith,Aloe Vera,Fashion and Accessories,832,11,79,Lagos,South Africa,TikTok,119.3991008,586,0.083
+a8a49c16-0e3e-4a7e-9427-d0c44004aad9,12/8/2023, Alice Lee,Chai Tea,Fashion and Accessories,842,7,94,,Angola,TikTok,94.84225091,2261,0.093
+d0aac0c7-640b-423e-825a-591bcb07f04c,12/9/2023, John Doe,Maasai Shuka,Personal Care,784,8,103,Accra,Ghana,TikTok,127.8889829,2166,0.054
+a22ff08e-b273-4f19-8f3e-ddcd8b4b189a,12/10/2023, Alice Lee,Maasai Shuka,Food and Beverages,900,9,105,Nairobi,Kenya,YouTube,94.33053641,1751,0.063
+34dbc65f-3645-4135-86ec-9c80a9e241ee,12/11/2023, John Doe,Chai Tea,Fashion and Accessories,999,14,147,Luanda,Angola,Instagram,128.0392193,4380,0.06
+d1af2cec-d7c9-4c67-9edb-eb59e209d31b,12/12/2023, Alice Lee,Kikoy Throw,Handicrafts and Home Decor,604,13,130,Nairobi, TanZania,YouTube,73.20444824,4722,0.075
+9fc886c4-3706-4b6c-bf18-c932e252cce1,12/13/2023, Alice Lee,African Hair Care Products,Food and Beverages,650,11,54,Accra,Ethiopia,YouTube,102.7547166,2470,0.095
+14a080f2-a636-415e-9c4d-05e659dd9820,12/14/2023,Denis Kombe,Wooden Bowls,Personal Care,892,5,97,Accra,South Africa,YouTube,74.01731509,828,0.055
+39d35173-79ea-4bfa-8c89-89b65ea14ddd,12/15/2023,Bob Johnson,African Hair Care Products,Food and Beverages,521,6,146,Nairobi,Nigeria,Instagram,83.97271628,2772,0.071
+9506c701-e3ff-499f-a2a8-4ad3747e37ce,12/16/2023, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,888,9,87,,Angola,TikTok,78.34009978,4846,0.051
+78007535-d8ab-4745-a4c4-602b95ad1a4e,12/17/2023,Jane Smith,African Hair Care Products,Fashion and Accessories,834,9,77,Lagos,Ethiopia,Instagram,87.69867175,4528,0.057
+ba192cce-a854-40a0-ac73-32392c2b8927,12/18/2023,  bob JohNson,Chai Tea,Handicrafts and Home Decor,549,10,84,Nairobi,Kenya,TikTok,84.10377884,4467,0.1
+6882b6e1-a84b-4ade-af4b-da62363e0710,12/19/2023, John Doe,Aloe Vera,Personal Care,909,13,104,Dar es Salaam,Kenya,X_Twitter,153.4569703,3703,0.05
+08d31ff8-60f2-41b6-9aec-eb9723577916,12/20/2023,Jane Smith,Kikoy Throw,Fashion and Accessories,974,14,97,Johannesburg,Kenya,YouTube,76.83811852,2558,0.063
+3836c761-f4df-4142-b2fb-85ef2b7869f5,12/21/2023,Denis Kombe,Sukuma Wiki,Personal Care,874,11,74,Dar es Salaam,Nigeria,X_Twitter,60.59650803,2528,0.055
+395e0d7d-bc0e-4e37-a91f-eb026d0ce2cb,12/22/2023,  bob JohNson,Maasai Shuka,Fashion and Accessories,595,9,102,Luanda,Ghana,Instagram,65.885216,2212,0.066
+c51b1b89-857d-4629-a0a0-f1a392b8de4e,12/23/2023,Denis Kombe,Chai Tea,Handicrafts and Home Decor,710,9,95,Dar es Salaam,Angola,X_Twitter,147.7209798,1144,0.068
+aeee9075-5aaf-4794-9509-3bcf2c913889,12/24/2023,Denis Kombe,Chai Tea,Food and Beverages,742,8,103,Dar es Salaam,Angola,Instagram,72.77084836,3410,0.075
+84588ebf-05d0-4aff-b449-fc8704272fef,12/25/2023, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,541,13,130,Dar es Salaam,Ethiopia,YouTube,90.85826239,3374,0.072
+85edb24d-0a6e-41f6-8796-329f0c21ea8a,12/26/2023, John Doe,African Hair Care Products,Food and Beverages,817,8,59,Nairobi,Angola,Instagram,114.971445,4901,0.055
+047e4be8-92c1-402f-afe8-0bd432c0bcc5,12/27/2023,  bob JohNson, masaiShuka,Handicrafts and Home Decor,828,8,116,Accra,Angola,X_Twitter,98.3941585,1440,0.075
+4871c3c6-0cff-451e-ae71-25ba18223df3,12/28/2023,Bob Johnson,Kikoy Throw,Handicrafts and Home Decor,843,9,98,Lagos,Kenya,TikTok,157.9749931,4564,0.079
+6b77ba96-fdac-44fe-a298-87d1efb46cf3,12/29/2023,Jane Smith,Kitenge Fabric,Fashion and Accessories,808,6,138,Lagos,Ethiopia,Facebook,152.4834447,4157,0.072
+31c35f9e-fc85-4f06-8fc6-7113392e7024,12/30/2023,Bob Johnson,Aloe Vera,Personal Care,792,9,129,Luanda,Kenya,Facebook,146.6939179,4597,0.087
+3d169f6a-0ef3-4db0-82b8-3adccb3fafde,12/31/2023, John Doe,Sukuma Wiki,Fashion and Accessories,740,10,76,Nairobi,Ethiopia,X_Twitter,73.39119462,4222,0.054
+c2081c90-b806-49a2-a89d-1cdb4e4005ba,1/1/2024, John Doe,Chai Tea,Handicrafts and Home Decor,855,5,114,Accra,South Africa,YouTube,128.025295,4864,0.076
+174eafea-ce2d-4627-961d-102a67af411a,1/2/2024, Alice Lee,Aloe Vera,Handicrafts and Home Decor,932,14,114,Dar es Salaam, TanZania,X_Twitter,75.97537589,1280,0.063
+77e6e4a4-63f0-4ec0-940b-3f0f3f17fa63,1/3/2024,Denis Kombe,Kitenge Fabric,Personal Care,614,7,111,Dar es Salaam,Ethiopia,Instagram,105.7665995,620,0.064
+652efe16-95ab-4981-82f1-8f6786688251,1/4/2024,denisKombe,Maasai Shuka,Fashion and Accessories,675,5,99,Nairobi,Angola,TikTok,158.4765445,3318,0.077
+620b3e44-0c59-4b2a-ab59-36026c064a80,1/5/2024,  bob JohNson,African Hair Care Products,Food and Beverages,664,5,98,Accra,Ethiopia,YouTube,153.8376876,2105,0.078
+e9e7abfb-c0d0-4023-a8f3-8029b50542b4,1/6/2024,Denis Kombe,Kitenge Fabric,Handicrafts and Home Decor,957,12,85,Dar es Salaam, TanZania,TikTok,106.9368533,3309,0.098
+c824e832-c252-4144-b87d-d8b5f7914d50,1/7/2024,Denis Kombe,Chai Tea,Personal Care,773,8,133,Johannesburg,Ethiopia,Facebook,109.4057037,638,0.068
+378c4305-c39e-4b1a-9c79-b495e51180a8,1/8/2024,Denis Kombe,Wooden Bowls,Handicrafts and Home Decor,698,14,134,Accra,Nigeria,YouTube,106.6671044,4022,0.091
+336d9538-0973-4222-b081-c5978919e4f8,1/9/2024,Jane Smith,Kitenge Fabric,Food and Beverages,636,7,75,Johannesburg,South Africa,TikTok,75.3109666,3937,0.072
+4826ab88-c062-4e9b-ae31-1923b897208d,1/10/2024,Bob Johnson,Kikoy Throw,Food and Beverages,929,8,136,Dar es Salaam, TanZania,Instagram,106.621411,4118,0.069
+a0ae917e-1b49-49b3-bdb7-96e5f2faa94a,1/11/2024,denisKombe,African Hair Care Products,Personal Care,594,14,57,,Kenya,X_Twitter,93.15790732,3554,0.095
+42dfa7b5-af94-4c70-8d5e-0037fe9733f5,1/12/2024,Denis Kombe,African Hair Care Products,Handicrafts and Home Decor,752,10,106,Lagos,Ghana,Instagram,119.2264695,502,0.059
+960bd3f7-b2ba-43c0-a4c4-d08b5db2215c,1/13/2024,Bob Johnson,African Hair Care Products,Food and Beverages,556,5,127,,Nigeria,Instagram,112.6537077,1109,0.075
+dd9af88e-752d-4c9f-b6f2-1236d4cee2aa,1/14/2024,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,686,6,125,, TanZania,X_Twitter,69.56152388,894,0.067
+694ad04c-2a64-47e8-a312-7a18dc1d634f,1/15/2024,Denis Kombe,Kitenge Fabric,Handicrafts and Home Decor,813,8,101,Dar es Salaam,Angola,TikTok,110.5430827,2695,0.094
+6eda7cb0-1789-4ae7-b138-1d0d6c368931,1/16/2024,denisKombe,Wooden Bowls,Personal Care,802,12,108,Lagos,Kenya,Instagram,147.7522929,4361,0.073
+4d8e6c8c-4b93-49b9-827b-42ae2555c213,1/17/2024,  bob JohNson,Maasai Shuka,Food and Beverages,962,5,145,Johannesburg,Ethiopia,YouTube,88.67228492,4025,0.054
+ee066ab0-80b1-43ea-a28a-cc09088831a7,1/18/2024,Bob Johnson,Wooden Bowls,Fashion and Accessories,909,13,145,Johannesburg,Nigeria,TikTok,75.27922266,3746,0.1
+779885b3-7da2-4206-9bcc-5211b428bd60,1/19/2024,Jane Smith, masaiShuka,Fashion and Accessories,865,9,144,Johannesburg,Nigeria,Instagram,125.2219753,2673,0.094
+e7f2020b-0c70-41c9-8847-f145a11c404c,1/20/2024,Bob Johnson,Maasai Shuka,Food and Beverages,718,10,52,Lagos,Ethiopia,Instagram,147.74383,2200,0.056
+6855d06e-917f-4908-a605-0c1408487b5b,1/21/2024,  bob JohNson,Chai Tea,Food and Beverages,912,12,131,Accra,Ethiopia,YouTube,99.99589122,1225,0.073
+27fd6ca7-e366-4888-bc12-cbf6b862c0c4,1/22/2024, John Doe,Wooden Bowls,Fashion and Accessories,537,5,78,Luanda,Ethiopia,TikTok,155.8545283,1736,0.054
+12ed6ae7-b6ac-48bc-aeea-c219beacdddf,1/23/2024,  bob JohNson,Kikoy Throw,Personal Care,702,13,90,Dar es Salaam, TanZania,Facebook,119.990557,4851,0.09
+1a879b23-5255-418f-9796-2bc156a432cd,1/24/2024,Bob Johnson,African Hair Care Products,Fashion and Accessories,946,6,94,Johannesburg, TanZania,YouTube,153.0384642,3168,0.063
+f5122b36-c096-4f77-aa6d-044f55016b56,1/25/2024, Alice Lee,Sukuma Wiki,Fashion and Accessories,739,8,90,Accra,Ethiopia,Instagram,89.21505503,3928,0.099
+c9e0622a-2611-4b35-87ec-3eb9bccda15f,1/26/2024,Bob Johnson,African Hair Care Products,Food and Beverages,834,13,124,Lagos,South Africa,X_Twitter,70.29555478,560,0.098
+6248803f-2952-46a9-8e7f-8cc36099681c,1/27/2024, Alice Lee,Kikoy Throw,Handicrafts and Home Decor,876,11,126,Lagos,South Africa,TikTok,116.4354852,2527,0.082
+63518079-81b1-477b-9f21-922e4ab94e44,1/28/2024, Alice Lee,Aloe Vera,Handicrafts and Home Decor,577,11,98,Accra,Ghana,X_Twitter,133.3581018,916,0.05
+f9777c71-85ab-4e55-919b-3fad5822870c,1/29/2024,denisKombe, masaiShuka,Handicrafts and Home Decor,925,5,133,Dar es Salaam, TanZania,Instagram,106.8415209,1112,0.05
+e93d0305-2710-447e-806a-e2718254a455,1/30/2024,Denis Kombe,Maasai Shuka,Handicrafts and Home Decor,756,5,116,Accra,Ghana,Instagram,156.907648,2204,0.083
+11621cd1-286c-4df8-889c-d94016217af9,1/31/2024,  bob JohNson,Sukuma Wiki,Fashion and Accessories,648,14,105,Nairobi, TanZania,TikTok,79.85276702,644,0.082
+f07bf40f-bf33-440f-bca1-c8e51a3a6d04,2/1/2024,denisKombe, masaiShuka,Personal Care,959,13,71,Dar es Salaam,Nigeria,YouTube,75.76050643,2185,0.085
+0afc3031-feeb-4dbe-bb01-88a2686584b0,2/2/2024,  bob JohNson,Kitenge Fabric,Handicrafts and Home Decor,995,13,128,Accra, TanZania,Instagram,93.551021,2208,0.054
+7eadb671-2fb7-4bc7-a232-70be682bfa00,2/3/2024,denisKombe,Aloe Vera,Food and Beverages,608,12,134,Luanda,Kenya,Facebook,68.43131382,1776,0.061
+c5b59bb6-0fcb-453a-a4ff-a948b35ff233,2/4/2024, John Doe,Kikoy Throw,Handicrafts and Home Decor,658,11,89,Lagos, TanZania,YouTube,68.99822443,1179,0.086
+11eabff6-a308-4b19-a852-2f64144f393e,2/5/2024,Bob Johnson,Sukuma Wiki,Food and Beverages,893,6,121,Johannesburg,Kenya,TikTok,132.592018,1911,0.063
+826f752c-5ff4-419e-a6a7-5ab537db12d8,2/6/2024,Jane Smith,Kitenge Fabric,Food and Beverages,678,5,120,, TanZania,TikTok,114.8546399,1634,0.097
+218d4204-ac26-4ec5-87a4-6ec391b6f8db,2/7/2024,denisKombe,Sukuma Wiki,Handicrafts and Home Decor,718,14,82,, TanZania,Facebook,143.8578234,1466,0.057
+b6bd402b-77bc-48c5-96e7-d154d2654b09,2/8/2024, John Doe,Sukuma Wiki,Fashion and Accessories,816,6,102,Johannesburg,Ethiopia,Facebook,153.3609705,3464,0.054
+75430ab1-0c02-4a0b-8ddc-ea8cf5af832d,2/9/2024,  bob JohNson,Chai Tea,Handicrafts and Home Decor,991,10,57,Dar es Salaam,South Africa,Instagram,94.69301585,674,0.075
+9d2dccd3-12b7-4f4c-91c2-59bfab9c22ed,2/10/2024, Alice Lee,Chai Tea,Fashion and Accessories,692,5,144,Nairobi,Kenya,TikTok,123.0082386,677,0.051
+02795325-8739-4445-a33a-9d4b2acad40a,2/11/2024,Bob Johnson,Kitenge Fabric,Handicrafts and Home Decor,802,13,53,,South Africa,YouTube,152.7906153,3977,0.059
+340c02da-c27c-4435-9c83-b5aab5a8bc2b,2/12/2024,Bob Johnson,Kitenge Fabric,Personal Care,504,13,64,Accra,Ghana,TikTok,157.2914387,1781,0.092
+90ca6e26-8626-47d3-a6a0-c28d53de9eb2,2/13/2024,Denis Kombe,Chai Tea,Handicrafts and Home Decor,543,8,69,Dar es Salaam,Ghana,X_Twitter,159.1648502,3132,0.058
+bcf7087f-1d62-4984-b63b-54f856cdec24,2/14/2024,Bob Johnson, masaiShuka,Fashion and Accessories,651,5,122,Luanda, TanZania,TikTok,109.5124324,4758,0.087
+c40802f6-2471-43f4-be32-8580ab1a486f,2/15/2024, Alice Lee,Maasai Shuka,Handicrafts and Home Decor,889,13,74,Dar es Salaam,Ghana,TikTok,115.366509,4181,0.064
+90fea6ff-d90e-4b28-a7cc-367fea854a6d,2/16/2024, John Doe,Sukuma Wiki,Personal Care,572,14,72,,South Africa,TikTok,98.60593801,2083,0.068
+864a05f5-add2-458c-8039-605b8dc8b542,2/17/2024,Jane Smith,Wooden Bowls,Fashion and Accessories,787,8,140,Johannesburg,Ghana,X_Twitter,84.50048407,3012,0.099
+7123f77b-2fe3-4b95-8ad6-9fc67efca658,2/18/2024,Jane Smith, masaiShuka,Personal Care,510,9,57,Johannesburg,Kenya,Instagram,84.77940089,1918,0.06
+67092aea-be1d-48f3-8a4a-516a3c8d7a84,2/19/2024,denisKombe,Kitenge Fabric,Fashion and Accessories,961,11,101,Luanda,South Africa,YouTube,133.1252003,944,0.078
+1a7bda67-da0e-413f-8cae-8af3ad93a997,2/20/2024,Denis Kombe,Wooden Bowls,Handicrafts and Home Decor,963,5,103,Lagos,Nigeria,Facebook,128.4476676,766,0.079
+f52fb71e-a2b1-4d74-8ba0-750b04840c03,2/21/2024,Jane Smith,African Hair Care Products,Personal Care,694,9,50,Dar es Salaam,Ghana,X_Twitter,60.56339701,1839,0.068
+2a974754-a23d-43fa-9415-208e4a84f323,2/22/2024,Jane Smith, masaiShuka,Fashion and Accessories,774,11,97,Luanda,Kenya,TikTok,102.55752,2063,0.094
+b39c0efc-76a0-47fc-9c56-9f64b965fba6,2/23/2024,denisKombe,Wooden Bowls,Handicrafts and Home Decor,797,8,113,,Nigeria,Instagram,118.8538284,1092,0.087
+3adc0da2-f9dc-4af1-88f3-6993bc2a1b4f,2/24/2024, John Doe,Kikoy Throw,Fashion and Accessories,614,7,66,, TanZania,X_Twitter,66.08171772,4665,0.064
+fff73a71-a160-41f2-8e39-c22f87e5e64f,2/25/2024,  bob JohNson,Wooden Bowls,Personal Care,896,5,136,Dar es Salaam,South Africa,X_Twitter,136.9824597,1223,0.056
+e24985a5-10a3-43df-b39c-b06cf2ed9a8b,2/26/2024,  bob JohNson, masaiShuka,Handicrafts and Home Decor,860,13,51,Johannesburg,Kenya,TikTok,142.0097951,999,0.057
+9fb4117a-8a77-4135-a74b-e883f65a85db,2/27/2024, Alice Lee,Kitenge Fabric,Fashion and Accessories,806,5,104,Lagos,Ghana,Instagram,145.2247602,3692,0.087
+6ac50755-dcb7-4b81-a736-f1df23091cc4,2/28/2024,  bob JohNson,Chai Tea,Food and Beverages,520,8,126,Accra,Angola,TikTok,142.2924283,2376,0.076
+64487b0b-05cc-4321-83d1-8a78f7dc4c8c,2/29/2024,Bob Johnson,Kitenge Fabric,Fashion and Accessories,650,10,124,Nairobi, TanZania,TikTok,92.13686841,3969,0.078
+5895fdc8-290c-4002-b7e5-12ba790ff1e4,3/1/2024,Denis Kombe, masaiShuka,Food and Beverages,832,5,66,,Ethiopia,Facebook,135.9852546,3876,0.095
+90223901-6271-4535-81a9-86513c29f9ba,3/2/2024, John Doe,Kikoy Throw,Handicrafts and Home Decor,764,7,87,Luanda,Angola,YouTube,126.2240216,3126,0.054
+f278b843-f134-4204-99e6-072f8167dde1,3/3/2024,  bob JohNson,Chai Tea,Handicrafts and Home Decor,601,14,107,Accra,Nigeria,TikTok,103.9084595,2809,0.074
+94b2b745-ae7d-433d-848d-35f94e1bc400,3/4/2024, Alice Lee,Aloe Vera,Handicrafts and Home Decor,769,5,101,Nairobi,Nigeria,Instagram,69.62679388,3033,0.066
+c820c733-705b-4e8e-bc66-09561c0d1638,3/5/2024,Denis Kombe, masaiShuka,Fashion and Accessories,508,13,111,Dar es Salaam,Ethiopia,Instagram,151.4219133,1081,0.055
+0ad0a3e3-49c6-498d-a0f8-71618f035380,3/6/2024,Bob Johnson,Maasai Shuka,Personal Care,522,10,70,Luanda,South Africa,Instagram,116.9694452,2650,0.084
+a2cdfbc6-a710-4488-8e3d-eb0041e9f7ec,3/7/2024, John Doe,Sukuma Wiki,Handicrafts and Home Decor,554,14,56,Luanda,South Africa,X_Twitter,66.41748094,1566,0.085
+30aef4e2-f8e8-43b8-af26-581bc3b2c99d,3/8/2024,Jane Smith,Kikoy Throw,Personal Care,548,12,121,Accra,Ghana,X_Twitter,130.9122966,1983,0.083
+3db290a3-fa17-47c4-a399-97287ff5b0c1,3/9/2024,  bob JohNson,Wooden Bowls,Food and Beverages,847,6,75,Luanda,South Africa,YouTube,123.2298817,1387,0.086
+71e39576-88c5-476f-aaf7-9d1f27e5eb31,3/10/2024,Bob Johnson,Kitenge Fabric,Fashion and Accessories,841,5,62,Dar es Salaam,Ghana,Facebook,145.6197908,3738,0.071
+94fb43ce-664c-4cfb-b30e-f329f7a7cb15,3/11/2024, John Doe,Aloe Vera,Personal Care,832,11,79,,Nigeria,Instagram,118.6107435,732,0.071
+9e9ffd39-f644-4966-8912-3d3d90128d2f,3/12/2024, John Doe,Aloe Vera,Handicrafts and Home Decor,800,7,73,,Nigeria,Facebook,75.69137555,988,0.07
+8c84715b-172d-43ec-a9a6-36eed9dd3450,3/13/2024,Denis Kombe,Kitenge Fabric,Fashion and Accessories,828,12,53,Lagos,Nigeria,TikTok,108.3834398,2849,0.078
+38bfcb57-aa74-431e-9a48-d05bc9bba6b9,3/14/2024,denisKombe,Kikoy Throw,Fashion and Accessories,574,5,89,Dar es Salaam,Ethiopia,X_Twitter,84.26890386,3943,0.056
+13ff6171-6787-4519-90ac-495a9b87a329,3/15/2024, John Doe,African Hair Care Products,Fashion and Accessories,525,7,111,Lagos,Kenya,X_Twitter,103.9096207,3398,0.075
+ab9292b8-523b-4356-b554-a763b6561279,3/16/2024,denisKombe, masaiShuka,Handicrafts and Home Decor,925,12,95,Nairobi,Nigeria,TikTok,107.6129843,777,0.085
+ccf19b8c-36eb-4a4e-b3f2-643c4c0a819f,3/17/2024,Jane Smith,Chai Tea,Handicrafts and Home Decor,551,7,119,Nairobi, TanZania,Instagram,137.9294367,721,0.097
+17641a8d-d8e7-4b77-9cc8-1367f65f137f,3/18/2024,Bob Johnson,Kitenge Fabric,Personal Care,847,12,117,Accra,Ethiopia,X_Twitter,64.17877664,3767,0.077
+91a54dd7-5a0d-42d7-82d6-1fe5f6ad3b98,3/19/2024,Bob Johnson, masaiShuka,Handicrafts and Home Decor,750,12,84,Nairobi, TanZania,TikTok,63.73801908,3299,0.071
+30a109a6-7bd6-4280-b4d7-8b8f62569430,3/20/2024, Alice Lee,Sukuma Wiki,Personal Care,888,6,107,Johannesburg,Kenya,Instagram,130.9296759,2768,0.087
+75171e23-0d86-4763-9bee-0905cbdb505a,3/21/2024, John Doe,Maasai Shuka,Fashion and Accessories,773,7,118,Dar es Salaam,Ethiopia,Instagram,155.6556467,4843,0.062
+1367e4b6-c711-4980-98d8-dc9ceaa2dd9a,3/22/2024, John Doe,Chai Tea,Handicrafts and Home Decor,874,5,115,Luanda,Ethiopia,X_Twitter,93.88343767,4244,0.1
+1edf82f7-2ab4-47b2-940a-8f129ab93a9b,3/23/2024, Alice Lee,Chai Tea,Handicrafts and Home Decor,805,5,93,,Ghana,Facebook,94.47700277,1403,0.093
+e89d5bc0-df46-4642-828b-7cfc1c3f87fe,3/24/2024, John Doe,Kikoy Throw,Handicrafts and Home Decor,604,5,89,Johannesburg, TanZania,X_Twitter,83.47673813,1187,0.069
+84608b81-6145-402d-82e6-8ec7a4c02d40,3/25/2024,Denis Kombe,Kikoy Throw,Food and Beverages,522,14,104,Lagos,Kenya,YouTube,79.26185442,2525,0.052
+ca5936b5-1ff8-4b73-87c3-7ccc654b70cd,3/26/2024,Denis Kombe,Chai Tea,Handicrafts and Home Decor,799,9,129,Accra, TanZania,YouTube,127.3368355,2588,0.074
+50b4d486-b6b8-4fc1-ad6d-d7ad75fbf797,3/27/2024,Denis Kombe, masaiShuka,Fashion and Accessories,709,6,93,Nairobi,Angola,X_Twitter,140.2468696,3388,0.075
+148e28de-11eb-4710-9f89-c1f430e65334,3/28/2024,  bob JohNson,Chai Tea,Fashion and Accessories,947,13,110,Accra, TanZania,Facebook,143.5344576,2191,0.085
+104b60e7-b8d7-4efa-8aa0-d5441f57ba72,3/29/2024,Denis Kombe,Aloe Vera,Personal Care,986,11,72,,Ethiopia,TikTok,83.76239563,510,0.084
+932dd6f2-fb0d-42f1-bf51-3443f4abdd56,3/30/2024,Denis Kombe,Kikoy Throw,Handicrafts and Home Decor,875,13,53,Nairobi, TanZania,X_Twitter,73.84669172,3041,0.059
+b0bf27c1-2f5f-4c29-a23b-96c5b462fa8d,3/31/2024,Denis Kombe,Maasai Shuka,Fashion and Accessories,764,7,120,Accra,Nigeria,YouTube,134.4358807,3642,0.095
+a4c6a772-49f0-4ce0-878f-adbb52ffaca9,4/1/2024, John Doe,Sukuma Wiki,Fashion and Accessories,781,7,50,Nairobi,Kenya,Facebook,143.9750678,2224,0.08
+c8bb4284-c72d-4942-bfd0-76496c5ef5c0,4/2/2024,denisKombe,African Hair Care Products,Food and Beverages,541,14,148,Lagos,Ghana,YouTube,101.0644709,2038,0.06
+7250bf4b-6d0c-4173-abce-e046ae4ef834,4/3/2024, Alice Lee,Chai Tea,Handicrafts and Home Decor,772,9,66,Dar es Salaam,Angola,TikTok,64.53693202,2305,0.079
+6a860213-8ddb-4ed9-b49a-c4d49b657778,4/4/2024,denisKombe,Kikoy Throw,Fashion and Accessories,505,14,103,Johannesburg,Nigeria,Instagram,96.0631753,4901,0.1
+94a9b4e2-873f-415b-9de8-585d839ce91a,4/5/2024,  bob JohNson,Kikoy Throw,Food and Beverages,799,5,89,Nairobi,South Africa,TikTok,140.2128683,2643,0.066
+df48073e-e8fe-4dbd-8ebe-85cbd7a1ff4c,4/6/2024,Bob Johnson,African Hair Care Products,Personal Care,998,8,105,,Nigeria,Instagram,60.08415953,3575,0.097
+ebcf2847-64ea-4dd2-8174-b318f8f88f8a,4/7/2024, John Doe,Chai Tea,Handicrafts and Home Decor,509,7,91,Luanda,South Africa,TikTok,88.4883409,3675,0.078
+23b70191-df7c-43d5-82d2-5f701ebaac91,4/8/2024,Denis Kombe,Kikoy Throw,Fashion and Accessories,803,13,134,Johannesburg,Kenya,YouTube,111.3836515,4323,0.086
+fad06b57-4e78-4374-87fb-156b3c213512,4/9/2024, Alice Lee,Wooden Bowls,Food and Beverages,961,10,88,Lagos,Angola,Instagram,98.41257939,1972,0.087
+333edc1a-25ba-4b1b-816c-20825d790640,4/10/2024, Alice Lee,Kikoy Throw,Personal Care,747,12,68,Nairobi,Angola,TikTok,158.5242555,3748,0.094
+c0ca9dc1-09df-4064-9a66-bc579ff93e69,4/11/2024,Denis Kombe,Maasai Shuka,Food and Beverages,517,14,132,Accra,Ethiopia,Facebook,94.35148484,2944,0.06
+19e40e90-2ef8-4c28-a734-a67d4ae867b4,4/12/2024,Jane Smith,Maasai Shuka,Handicrafts and Home Decor,621,14,131,Nairobi,South Africa,TikTok,66.3544762,2537,0.079
+5c65f243-8619-4e57-81ef-46af572d21d1,4/13/2024, John Doe, masaiShuka,Handicrafts and Home Decor,637,11,71,Nairobi,South Africa,X_Twitter,136.9036454,1501,0.054
+18424cf4-3a36-4e06-850c-332e960fc4db,4/14/2024,Bob Johnson,Kikoy Throw,Handicrafts and Home Decor,711,10,72,Luanda,Ghana,TikTok,151.9804051,709,0.054
+a8d83222-bf3f-4201-9be7-4fa53e68e575,4/15/2024,Bob Johnson,Maasai Shuka,Personal Care,955,9,89,Luanda,Angola,X_Twitter,70.7473973,2740,0.052
+702c2aef-bcce-47f4-a3b9-1de05e34ccf9,4/16/2024, John Doe,Sukuma Wiki,Fashion and Accessories,657,11,51,Dar es Salaam,Kenya,TikTok,146.8096895,2102,0.098
+753a09c5-ad1c-4e9c-bbdd-f6c583f37795,4/17/2024,Jane Smith,Kitenge Fabric,Food and Beverages,962,11,147,Lagos, TanZania,Instagram,138.6451144,4243,0.074
+e61d964c-1353-4e28-8b6a-457da655e35d,4/18/2024,Denis Kombe,Maasai Shuka,Handicrafts and Home Decor,725,8,90,Accra,Kenya,Facebook,117.4940852,4033,0.07
+b6c7e306-1016-4534-8a43-5185ef51d481,4/19/2024, John Doe,Kitenge Fabric,Personal Care,655,11,148,Johannesburg,Kenya,Instagram,158.8620509,1346,0.067
+f7be6e6e-9c75-425d-abe5-123362b3c224,4/20/2024, John Doe,Sukuma Wiki,Food and Beverages,793,10,134,Nairobi,Ghana,TikTok,73.6927106,3415,0.056
+53150597-5b98-4088-8b81-97507c990658,4/21/2024,Jane Smith,Aloe Vera,Personal Care,762,14,61,Luanda, TanZania,Instagram,111.18348,2009,0.078
+f0378f2c-1a45-4413-8680-d549ec852e24,4/22/2024,denisKombe,Chai Tea,Handicrafts and Home Decor,598,5,146,Johannesburg,Angola,TikTok,97.59950011,4203,0.082
+9f947a47-08c5-4a0b-b1c9-37b95f1888a7,4/23/2024, Alice Lee,Kikoy Throw,Fashion and Accessories,849,11,57,Accra,Nigeria,Instagram,128.8254797,2255,0.055
+be7c3053-7138-4afb-b701-3db8bbdbbd3f,4/24/2024,Bob Johnson,Kikoy Throw,Handicrafts and Home Decor,961,14,90,Accra,Angola,YouTube,116.7236481,1890,0.074
+1261881b-7030-4183-8721-7e3b9e606889,4/25/2024,  bob JohNson, masaiShuka,Fashion and Accessories,527,5,129,Lagos,Ethiopia,YouTube,141.3091281,1502,0.065
+94db0ae3-d0e8-40de-aee0-3269e22ca2f3,4/26/2024,Denis Kombe,Sukuma Wiki,Fashion and Accessories,902,9,148,Lagos,Ghana,Facebook,72.63214906,4188,0.069
+b85ef0ef-d8c9-4ea9-8250-de23b3cec838,4/27/2024,  bob JohNson, masaiShuka,Handicrafts and Home Decor,831,9,102,Luanda, TanZania,YouTube,121.355103,3091,0.08
+b8645e67-b0cf-4851-9cb4-3c560dc69a7f,4/28/2024,Bob Johnson, masaiShuka,Handicrafts and Home Decor,575,8,57,Lagos,Nigeria,TikTok,73.96377232,3829,0.079
+d283f92e-c704-4c71-87ef-190af40b7c0d,4/29/2024, Alice Lee,Sukuma Wiki,Handicrafts and Home Decor,766,5,137,Nairobi,Ethiopia,X_Twitter,80.05421312,1317,0.098
+f6aeb248-7fd7-43e6-941d-dd3cc6c0b50d,4/30/2024,Bob Johnson,Kikoy Throw,Personal Care,655,6,72,,Kenya,Instagram,137.8313393,2065,0.071
+34917aa7-2f0c-4f18-845e-e8d36e8c7963,5/1/2024,denisKombe,African Hair Care Products,Food and Beverages,666,10,117,,Kenya,Instagram,130.6839281,3646,0.1
+6d73e444-81cd-453c-9dae-30e8e000f2b6,5/2/2024,Denis Kombe,African Hair Care Products,Fashion and Accessories,567,12,117,Accra,Nigeria,X_Twitter,65.30860771,3074,0.05
+bf7c0c3e-f956-43f9-b6bc-2a814ff625e1,5/3/2024,Jane Smith,Kikoy Throw,Fashion and Accessories,886,9,84,Accra,Ghana,Facebook,71.87961083,3356,0.092
+c6f3288a-4d8f-41e7-8950-f970aafc3723,5/4/2024,Jane Smith,Maasai Shuka,Fashion and Accessories,518,7,133,Johannesburg,Ghana,YouTube,119.7710365,916,0.062
+1f03d1c6-9039-4e87-a695-cb5e35b4c7d2,5/5/2024, John Doe,Kikoy Throw,Fashion and Accessories,504,13,51,, TanZania,TikTok,144.6076908,3085,0.093
+6cdc9cf7-d54b-494f-b1d3-c91867182c36,5/6/2024, John Doe,Maasai Shuka,Food and Beverages,847,11,113,Lagos,Kenya,YouTube,105.6996872,4457,0.091
+74a873e0-7075-4cf6-a5e5-181f1cbb87d0,5/7/2024,denisKombe,Chai Tea,Fashion and Accessories,629,7,128,Accra, TanZania,TikTok,79.8459821,655,0.062
+6b6839fa-5f89-4cde-8ecb-320ed9974736,5/8/2024,  bob JohNson, masaiShuka,Handicrafts and Home Decor,619,13,58,Johannesburg,Ethiopia,Facebook,124.4176728,3901,0.083
+f88b5d50-28ad-48b2-b189-4614ecb44be3,5/9/2024,  bob JohNson, masaiShuka,Personal Care,592,10,108,Luanda,Angola,YouTube,133.668968,2723,0.099
+a6524053-0908-440d-b5f5-1692a835fad5,5/10/2024,Jane Smith, masaiShuka,Personal Care,954,13,106,Nairobi, TanZania,X_Twitter,88.72404514,4851,0.056
+dc864d71-e17e-4fa6-a49f-ecfe963ea057,5/11/2024,Jane Smith,Aloe Vera,Fashion and Accessories,747,6,141,Dar es Salaam,Kenya,YouTube,105.369042,1478,0.088
+baed8a3e-8832-4a11-9423-d76d3fee5593,5/12/2024, Alice Lee,Aloe Vera,Personal Care,647,5,98,Johannesburg, TanZania,X_Twitter,82.07295217,4833,0.084
+6b7d9e52-a613-4326-bd62-7ac096779d56,5/13/2024,Denis Kombe,Aloe Vera,Fashion and Accessories,796,12,77,Accra,Kenya,TikTok,69.46130243,3297,0.088
+bd96b426-1cde-4da4-91aa-5a3b72bc750e,5/14/2024, John Doe,Aloe Vera,Fashion and Accessories,586,7,56,Lagos,Angola,YouTube,94.05758105,4326,0.081
+892f7c37-5559-40ae-8e69-fe530fb98028,5/15/2024,denisKombe,Maasai Shuka,Handicrafts and Home Decor,940,8,70,Lagos,Kenya,Facebook,117.1434414,3291,0.061
+e01e1e79-cd3d-4657-8658-1df2919e9ec8,5/16/2024, John Doe,Aloe Vera,Handicrafts and Home Decor,884,10,116,, TanZania,X_Twitter,150.6680591,1109,0.069
+208cd92d-c5d5-4476-8339-f1a7b5e82ca3,5/17/2024,Bob Johnson,Kitenge Fabric,Fashion and Accessories,790,8,73,Lagos,Kenya,TikTok,82.14874273,3781,0.085
+123e45d5-622e-4df7-a7cc-059daa50f56e,5/18/2024, Alice Lee,Kitenge Fabric,Fashion and Accessories,629,5,125,Dar es Salaam,Nigeria,TikTok,158.3766845,2368,0.061
+c10c5103-02fc-4e69-8425-41751412dd17,5/19/2024, John Doe,Aloe Vera,Handicrafts and Home Decor,701,6,102,Johannesburg,Nigeria,TikTok,80.83069589,1847,0.057
+9574a7dd-e2c8-4cc5-9d12-907601f1ae62,5/20/2024,denisKombe,Wooden Bowls,Fashion and Accessories,835,14,98,Dar es Salaam,Kenya,Instagram,64.81633357,712,0.082
+0f0a1e33-31af-4395-96a9-50fe9bc40c0b,5/21/2024, John Doe,African Hair Care Products,Food and Beverages,887,14,98,Nairobi,Ethiopia,TikTok,62.4723681,2573,0.08
+8aa73499-386c-4eab-bef4-a45e33bf5d04,5/22/2024,Bob Johnson, masaiShuka,Personal Care,831,8,59,Luanda, TanZania,TikTok,143.6914582,3720,0.077
+99a9861b-35c1-4b1b-944a-d419e2aa6473,5/23/2024,denisKombe,Maasai Shuka,Personal Care,736,6,50,Lagos,Kenya,Instagram,64.36377781,815,0.052
+8a91b03c-35e9-401b-884e-c4f3f56314e5,5/24/2024,denisKombe,Kitenge Fabric,Fashion and Accessories,717,7,62,Luanda,South Africa,YouTube,80.76960816,1054,0.073
+50e09647-2f3e-46ad-a524-2e9181d090f8,5/25/2024,Denis Kombe,Sukuma Wiki,Food and Beverages,823,9,79,Johannesburg, TanZania,TikTok,75.18354211,3780,0.065
+4b5c4827-ba0b-4e52-8abc-5a1bafa676a7,5/26/2024,Jane Smith,African Hair Care Products,Fashion and Accessories,536,9,123,Dar es Salaam,South Africa,YouTube,152.5222134,3290,0.076
+f55e8a1e-e22a-48f4-a0c6-4910fecfe7ee,5/27/2024, John Doe,Chai Tea,Fashion and Accessories,579,5,104,Johannesburg,Ghana,Instagram,63.1115252,3728,0.089
+28befb93-136a-4fb6-be95-1be402f30dd9,5/28/2024,Denis Kombe,Kitenge Fabric,Fashion and Accessories,611,13,139,Luanda,Angola,TikTok,89.77691334,2444,0.08
+747ea9c5-860f-4e2d-a35d-2d866516ccea,5/29/2024,Bob Johnson,Maasai Shuka,Personal Care,733,8,145,Lagos,Angola,Instagram,145.4804535,4025,0.066
+88e6bf53-094b-49d3-96e8-d317bc98ddd7,5/30/2024,Jane Smith,Maasai Shuka,Handicrafts and Home Decor,838,14,84,Luanda,Kenya,Facebook,151.4280798,2609,0.087
+fc4e9eb6-25e6-40a5-8dd6-68a1fbcc674c,5/31/2024,Bob Johnson,Chai Tea,Fashion and Accessories,991,10,86,,Angola,X_Twitter,93.81461159,1024,0.066
+bcead3f3-770c-452b-84b3-4f48c44351fd,6/1/2024,Jane Smith,Sukuma Wiki,Fashion and Accessories,795,7,76,Luanda,Nigeria,X_Twitter,80.90518964,2766,0.055
+b394c49e-6d4d-4774-bddc-49114cc1dd6a,6/2/2024,denisKombe,African Hair Care Products,Personal Care,893,7,111,Luanda,Angola,X_Twitter,140.9414369,4790,0.085
+ec847abd-176e-421e-a36b-ec694d1da83a,6/3/2024, Alice Lee,Kikoy Throw,Fashion and Accessories,861,10,51,Accra,Ghana,Facebook,103.2439106,1314,0.092
+13c0d7c4-881a-48f2-94d8-45ddd87a08fb,6/4/2024,  bob JohNson,Kitenge Fabric,Fashion and Accessories,755,11,103,Dar es Salaam,Kenya,YouTube,123.0138477,3065,0.061
+38058d72-4500-47db-a1c9-6aae4f31898d,6/5/2024, John Doe,Kikoy Throw,Handicrafts and Home Decor,606,11,55,Lagos, TanZania,Facebook,116.1921713,615,0.064
+e431f556-5608-4d3e-8628-b7827de31abe,6/6/2024, John Doe,Kikoy Throw,Fashion and Accessories,794,6,112,Lagos,Ghana,X_Twitter,77.64741222,1399,0.051
+2f4d7958-50c7-45c5-9467-537f30a93f29,6/7/2024, Alice Lee,Wooden Bowls,Fashion and Accessories,906,9,148,Dar es Salaam,Ghana,X_Twitter,124.1522949,2149,0.074
+6983c1c6-6200-41e8-8905-99ac0c979ae4,6/8/2024,denisKombe,Kitenge Fabric,Handicrafts and Home Decor,529,11,142,,Ethiopia,X_Twitter,128.1475011,3262,0.054
+7d05acbb-5ec3-4e30-a96a-af3959bb2a97,6/9/2024,denisKombe,Sukuma Wiki,Personal Care,500,14,108,Dar es Salaam,Ghana,YouTube,115.5025467,4156,0.054
+43908611-e573-4493-9fc7-53321102ffc9,6/10/2024, John Doe,Kitenge Fabric,Food and Beverages,981,7,139,Johannesburg,Ethiopia,Instagram,102.7014284,4594,0.054
+38a7e56d-08d4-4bab-a5ad-87af8ab5305b,6/11/2024, Alice Lee,Kitenge Fabric,Food and Beverages,728,12,114,,Kenya,TikTok,115.8651591,3921,0.079
+febfe6f4-2b9a-4ecd-a83c-f2bec89da720,6/12/2024,Jane Smith,Sukuma Wiki,Personal Care,963,14,87,Johannesburg,Kenya,Facebook,141.0066084,1282,0.063
+c4b3c76c-3b69-4839-9cb7-4bec7cb15388,6/13/2024,Bob Johnson,Maasai Shuka,Personal Care,750,9,86,Nairobi,Nigeria,YouTube,62.19652713,1295,0.098
+2ce1126a-6b09-4f18-afb9-20e07943a1c1,6/14/2024,Denis Kombe, masaiShuka,Fashion and Accessories,974,6,73,Johannesburg,Kenya,X_Twitter,103.4814804,2595,0.09
+27a2f180-82b9-4c22-ae07-398c69de049c,6/15/2024, Alice Lee, masaiShuka,Fashion and Accessories,953,12,132,, TanZania,Instagram,112.1396231,2931,0.074
+ec1b3130-7c8b-4925-9b34-aee2df3bbb46,6/16/2024,denisKombe,Wooden Bowls,Fashion and Accessories,628,10,102,Nairobi,Angola,Facebook,105.7360608,2014,0.058
+46ca720a-8ef9-49a4-b77e-607900709032,6/17/2024,Jane Smith,Chai Tea,Fashion and Accessories,520,10,146,Accra,Nigeria,YouTube,100.082249,1977,0.077
+13f07b41-609c-4252-8a63-acef3eac59f4,6/18/2024,Jane Smith,Kitenge Fabric,Food and Beverages,736,5,89,Dar es Salaam,Angola,X_Twitter,140.6467654,710,0.074
+2e021a14-279e-4da3-8532-9feceb8ac3ea,6/19/2024,  bob JohNson,Chai Tea,Fashion and Accessories,536,5,86,Dar es Salaam,Angola,Facebook,72.45393041,4493,0.073
+66c29f4f-b84c-4893-9c09-eba13ac2cb44,6/20/2024,Denis Kombe,Kitenge Fabric,Food and Beverages,512,6,91,Lagos,Angola,X_Twitter,151.0246941,1773,0.082
+46aaa21d-88b0-4def-98e5-cd12b0c36abc,6/21/2024,Denis Kombe,Aloe Vera,Personal Care,898,8,60,Johannesburg,Kenya,YouTube,156.1270307,2316,0.082
+0e499b84-0a71-4d2d-aff6-915a0fb9c92d,6/22/2024,Jane Smith,Wooden Bowls,Personal Care,646,12,55,Johannesburg,Ethiopia,X_Twitter,98.55214012,2265,0.063
+d1df1d72-9369-4edb-a133-f056fc05a994,6/23/2024,denisKombe,African Hair Care Products,Personal Care,816,7,96,Johannesburg,Ethiopia,X_Twitter,153.5174915,2959,0.072
+dde361dc-d528-4bca-91ff-4ff9f76ecb75,6/24/2024, John Doe,Wooden Bowls,Food and Beverages,553,9,56,Johannesburg,South Africa,Facebook,76.63332697,4160,0.099
+039354f0-9aa5-4725-87b9-69b3188fb6c3,6/25/2024,Denis Kombe, masaiShuka,Fashion and Accessories,585,6,99,Lagos,Kenya,TikTok,86.0969722,1014,0.077
+c81ca213-82ee-4c0d-bf82-5e0508dcb949,6/26/2024,  bob JohNson,Kikoy Throw,Personal Care,567,9,127,Dar es Salaam,Ethiopia,YouTube,157.982222,4433,0.051
+1502d22a-eb1a-4e9e-992e-a92b539ebe2c,6/27/2024, Alice Lee,Wooden Bowls,Handicrafts and Home Decor,564,6,148,Johannesburg,Ethiopia,Facebook,115.4729964,2046,0.054
+73c68059-e841-47ec-b4b3-e6ecfd7fe5b0,6/28/2024,  bob JohNson,Sukuma Wiki,Handicrafts and Home Decor,547,13,120,Lagos,Ethiopia,TikTok,113.3974922,4177,0.088
+8154230c-c9f0-4370-855b-75c42c29efb8,6/29/2024,Bob Johnson,Sukuma Wiki,Fashion and Accessories,977,11,145,Luanda,Angola,Instagram,60.5688608,3478,0.068
+4560bcba-ffb5-4096-ae08-148f125c5000,6/30/2024,Denis Kombe,Aloe Vera,Fashion and Accessories,507,11,76,Lagos,Ethiopia,YouTube,158.6952741,3736,0.096
+5efa1efc-fdd4-4fea-aad5-5127896c3dbc,7/1/2024,Jane Smith,Sukuma Wiki,Personal Care,864,5,89,Dar es Salaam,Nigeria,X_Twitter,133.1357646,4870,0.064
+9b146902-e3d3-4bb6-9e28-1172ca51d2cf,7/2/2024,Bob Johnson, masaiShuka,Fashion and Accessories,647,9,70,Nairobi,Angola,YouTube,130.0907787,1461,0.051
+4d657995-57e9-467f-be6c-7294b167a381,7/3/2024,  bob JohNson,Kikoy Throw,Personal Care,570,6,105,Accra, TanZania,YouTube,136.1732143,2549,0.054
+80c4e014-b48e-42a3-a650-398a91df80ad,7/4/2024,Denis Kombe,Kikoy Throw,Food and Beverages,717,14,84,Johannesburg,South Africa,Instagram,148.3912502,840,0.09
+0bb42129-47d3-4f00-a1cb-09f9f512c460,7/5/2024,Denis Kombe,Wooden Bowls,Food and Beverages,596,5,69,,Kenya,YouTube,69.86626457,3718,0.073
+2d47f4a8-0a43-41db-8386-3298f68362bd,7/6/2024, John Doe,Kitenge Fabric,Personal Care,824,11,94,Luanda,South Africa,Facebook,66.31208285,3660,0.071
+5f62e732-6d7d-4d3a-8e1f-af36b25dc256,7/7/2024,Denis Kombe,Kikoy Throw,Food and Beverages,903,11,104,Dar es Salaam,Ethiopia,YouTube,116.2059018,3002,0.067
+a3c0d456-d461-4913-b58c-6cbd6e544fac,7/8/2024,  bob JohNson,Wooden Bowls,Fashion and Accessories,583,8,81,Lagos,Angola,YouTube,146.6767162,2028,0.068
+55fa9255-868c-4237-87a8-1469291d7522,7/9/2024,Denis Kombe,Chai Tea,Food and Beverages,797,14,143,Luanda,Ghana,X_Twitter,149.8758854,2046,0.083
+4e574888-79d5-4b19-8959-392d2d1d5152,7/10/2024, Alice Lee,Aloe Vera,Handicrafts and Home Decor,551,12,68,Lagos,South Africa,TikTok,103.0276461,2662,0.068
+d82368ab-0997-41f2-b0f7-fc809ac03479,7/11/2024,Bob Johnson,Kikoy Throw,Personal Care,791,6,66,,Angola,YouTube,80.56052375,2843,0.054
+6d758588-a6c9-47b7-8c20-631de5100a48,7/12/2024,denisKombe,African Hair Care Products,Personal Care,655,14,119,Accra, TanZania,Facebook,135.5999837,1477,0.09
+5816ff54-3425-4e3d-b100-d7a62ac75b32,7/13/2024,denisKombe, masaiShuka,Handicrafts and Home Decor,947,5,148,Accra,Angola,Instagram,93.98219129,1964,0.077
+77cc2fad-26d4-4a7b-b571-83a433974223,7/14/2024,Jane Smith, masaiShuka,Handicrafts and Home Decor,814,6,90,Nairobi,Nigeria,Instagram,72.08755801,1532,0.064
+00f753f9-5ea5-4303-8e4a-65504891a5ae,7/15/2024,Bob Johnson,Kikoy Throw,Food and Beverages,714,8,86,Accra,Kenya,X_Twitter,115.1640428,4037,0.065
+fa1a8b6a-ceb0-4835-abd0-bc2cd9421cc0,7/16/2024,  bob JohNson,African Hair Care Products,Personal Care,637,13,108,Lagos,South Africa,YouTube,114.9231151,1042,0.071
+e2878b29-2b6b-4d24-8eb0-5d6556a4faf0,7/17/2024,Bob Johnson,Aloe Vera,Food and Beverages,848,9,105,Nairobi, TanZania,Instagram,124.7085921,4398,0.064
+4c11aaf8-28d8-44e7-9269-3ec789d0b3e7,7/18/2024,  bob JohNson,Sukuma Wiki,Handicrafts and Home Decor,517,12,58,Lagos,Nigeria,YouTube,89.56685395,2969,0.09
+dbc6b5be-425b-4b82-ba58-cdd5639ea393,7/19/2024,Bob Johnson,Aloe Vera,Food and Beverages,877,12,121,Accra,South Africa,YouTube,132.0509886,1181,0.078
+97573540-8ddb-4e37-ad0d-35267282bba6,7/20/2024,  bob JohNson,Kikoy Throw,Food and Beverages,766,6,135,Dar es Salaam,Kenya,X_Twitter,84.73372745,3795,0.095
+3ab92c7d-34e1-4247-a9ae-0319df530805,7/21/2024,  bob JohNson,African Hair Care Products,Handicrafts and Home Decor,809,11,103,Lagos,Kenya,Facebook,69.79582761,661,0.057
+c7613794-4dcc-4fbc-900e-88c847d29b7d,7/22/2024,Jane Smith,Chai Tea,Handicrafts and Home Decor,726,14,145,,Ghana,TikTok,101.4062939,2875,0.097
+885142ff-449f-4e3c-b699-4fc1a7cdaa07,7/23/2024,Denis Kombe,Wooden Bowls,Fashion and Accessories,698,7,103,Nairobi, TanZania,TikTok,129.8614978,4694,0.092
+3a322d28-4e83-405e-9b9e-890bbca9baff,7/24/2024,Bob Johnson,Chai Tea,Food and Beverages,545,6,75,Dar es Salaam,Angola,YouTube,95.16513729,1851,0.063
+f0fb04f3-9193-4ac0-8064-2b91916870ee,7/25/2024, John Doe,African Hair Care Products,Handicrafts and Home Decor,584,7,61,Accra,Ethiopia,Facebook,116.864852,2787,0.094
+748a25f5-c9a0-47d4-a8b7-ba669a1650e4,7/26/2024,denisKombe,Chai Tea,Handicrafts and Home Decor,765,13,127,Johannesburg,Ghana,X_Twitter,134.2725855,4886,0.06
+5a5f9354-ba48-4b63-92be-d5aec9d9fb07,7/27/2024, Alice Lee,Maasai Shuka,Personal Care,649,6,88,Nairobi,Nigeria,TikTok,139.6792419,1449,0.088
+9026f1d2-0ddc-42d0-8cc8-b13b5ae59b12,7/28/2024, John Doe,Chai Tea,Food and Beverages,904,11,67,Johannesburg,Ethiopia,TikTok,74.35093677,3481,0.1
+ce575e66-2ef5-4e80-9c98-c070ee293e94,7/29/2024,denisKombe,Maasai Shuka,Fashion and Accessories,959,5,75,Accra,South Africa,Facebook,115.2296543,2177,0.06
+4beb067a-9c78-40ac-ac73-e26c290a9f2c,7/30/2024,Bob Johnson,Sukuma Wiki,Personal Care,743,13,68,Dar es Salaam,South Africa,TikTok,105.0531827,1750,0.051
+4e46602e-c525-4291-8caf-3336543286a0,7/31/2024,  bob JohNson,Kikoy Throw,Handicrafts and Home Decor,903,10,63,Johannesburg,Kenya,Facebook,132.6838689,4946,0.094
+55c183dd-6240-4004-b8a1-7be532e33634,8/1/2024,  bob JohNson, masaiShuka,Handicrafts and Home Decor,807,9,57,,South Africa,X_Twitter,115.621311,3399,0.066
+aacca630-f477-46e7-8ba7-f2caad646493,8/2/2024,Bob Johnson,Kikoy Throw,Food and Beverages,930,12,54,,Ethiopia,TikTok,134.7940884,4453,0.076
+2bfe4777-16e0-49b4-9a97-9394ad27b838,8/3/2024, Alice Lee,Sukuma Wiki,Handicrafts and Home Decor,614,6,97,Nairobi,Ghana,Instagram,122.5473631,2935,0.065
+47b18444-452c-47b9-ade6-ef20f7e254af,8/4/2024, Alice Lee,Chai Tea,Food and Beverages,713,11,79,Nairobi,Ghana,Facebook,79.31421061,4092,0.083
+303d685e-d1c6-4edb-a5a1-c730d7b80486,8/5/2024,Jane Smith,Chai Tea,Personal Care,607,7,63,,Ghana,X_Twitter,99.96828693,2899,0.062
+02b4cbcc-ef26-4aca-bc44-21408d11a86f,8/6/2024, John Doe,Kitenge Fabric,Fashion and Accessories,780,14,90,, TanZania,X_Twitter,135.93374,3745,0.089
+044a2a23-cdb4-4124-8a80-26ea77fb975d,8/7/2024,denisKombe, masaiShuka,Personal Care,521,9,143,, TanZania,X_Twitter,145.6001463,913,0.057
+dd30218f-0546-440a-9017-175e7d086b17,8/8/2024, John Doe, masaiShuka,Fashion and Accessories,518,12,53,Johannesburg,Angola,Instagram,117.2488437,4116,0.08
+848908b2-6bf9-4d2a-b86b-8545e462cb28,8/9/2024,  bob JohNson,Kitenge Fabric,Fashion and Accessories,714,7,120,Johannesburg,Nigeria,TikTok,132.9835583,4361,0.052
+7856cf73-4958-4ce9-be06-f1ad2358f0c4,8/10/2024, Alice Lee,Kitenge Fabric,Personal Care,928,6,144,Nairobi,South Africa,Instagram,86.40551937,4300,0.073
+300ef110-9a36-4e9d-be82-8ab04e8097db,8/11/2024,Denis Kombe,Kitenge Fabric,Personal Care,738,5,116,Luanda,Ghana,TikTok,154.7502359,1277,0.081
+e9bb23bc-0b1a-4f8e-a022-a9db0e1a51fd,8/12/2024,denisKombe,Chai Tea,Fashion and Accessories,672,13,79,Lagos,Kenya,X_Twitter,92.94070812,3887,0.075
+a674557a-cf16-4302-90c3-ce33d2579342,8/13/2024, John Doe,Wooden Bowls,Handicrafts and Home Decor,843,11,104,Luanda,Angola,Facebook,135.5724481,4326,0.088
+26de0a1e-f4ab-46f8-91c9-b38db30ff6cd,8/14/2024,denisKombe,African Hair Care Products,Personal Care,888,8,136,,Nigeria,X_Twitter,138.7924205,545,0.074
+511ab980-bd57-4dee-85a2-34cbc9e9fcc9,8/15/2024, Alice Lee,Maasai Shuka,Fashion and Accessories,935,5,130,Accra, TanZania,Instagram,142.0273132,3742,0.088
+5e87b801-1435-4f35-bc6d-9a9f1d140de5,8/16/2024, Alice Lee,Aloe Vera,Fashion and Accessories,855,13,103,Dar es Salaam,South Africa,YouTube,84.44626213,2458,0.068
+05e19894-e325-4e81-9f19-a8929be48bb5,8/17/2024,denisKombe,Kikoy Throw,Fashion and Accessories,971,5,93,Nairobi,South Africa,X_Twitter,114.896233,3319,0.061
+cffde5dd-a3aa-4eff-9fb0-68c03c238221,8/18/2024,denisKombe,Kitenge Fabric,Handicrafts and Home Decor,515,9,94,Nairobi,Nigeria,TikTok,119.5577272,3988,0.097
+0f07d654-81cf-4f20-8b41-6e59c30aa5b9,8/19/2024,Bob Johnson,Chai Tea,Food and Beverages,868,8,100,Lagos,South Africa,Instagram,140.20786,1108,0.051
+9be23a00-2a3a-41da-87ba-7e99a4e634c9,8/20/2024,Denis Kombe,African Hair Care Products,Food and Beverages,524,5,137,Johannesburg,Ethiopia,YouTube,89.2768223,4135,0.066
+5f1e9961-6d20-4e40-ade4-de252ed11799,8/21/2024,Jane Smith,Wooden Bowls,Food and Beverages,739,7,56,Accra, TanZania,X_Twitter,80.19008154,2069,0.061
+25015d66-7069-41af-aeea-0970eb0e2cba,8/22/2024,denisKombe, masaiShuka,Fashion and Accessories,783,10,126,Luanda,Nigeria,X_Twitter,82.39407333,4806,0.065
+5643edb2-dd1a-4835-97db-ed22bdfa64d2,8/23/2024,Bob Johnson,Aloe Vera,Fashion and Accessories,635,13,148,Accra,Ghana,TikTok,128.816052,1695,0.092
+02bcd5c7-77c9-4627-91ca-1675be9ed9f4,8/24/2024,Bob Johnson,African Hair Care Products,Fashion and Accessories,734,11,115,Lagos, TanZania,Facebook,125.6237403,3935,0.064
+cdd21974-7563-41c5-81d9-c5ea5527c902,8/25/2024,Bob Johnson,Wooden Bowls,Fashion and Accessories,780,5,68,Nairobi,Nigeria,X_Twitter,102.3782958,2931,0.06
+1a3ece21-7155-4175-b45b-c91227ebf27c,8/26/2024,Bob Johnson,Kikoy Throw,Personal Care,751,8,126,Accra,Ethiopia,YouTube,95.51798776,2332,0.059
+4cdc0b6a-6dc7-48a8-a9fc-0d1827237f3f,8/27/2024,  bob JohNson,Sukuma Wiki,Food and Beverages,984,8,78,Dar es Salaam,Angola,YouTube,79.6060903,1541,0.083
+d4c4f451-66eb-43f7-ba7d-4f9f7e97fde5,8/28/2024, Alice Lee,Maasai Shuka,Fashion and Accessories,849,8,128,Nairobi,Ethiopia,TikTok,107.7579182,3550,0.078
+b18e5647-6a7f-4de4-abf9-9cd01a94a1a7,8/29/2024, Alice Lee,Aloe Vera,Personal Care,804,12,87,Johannesburg,South Africa,Facebook,118.9869105,2742,0.087
+fe6e2f68-89d4-4ded-be40-7062773a547f,8/30/2024,denisKombe,Maasai Shuka,Fashion and Accessories,865,9,113,Dar es Salaam,Nigeria,TikTok,70.19764427,4525,0.09
+324f4a66-dd6d-407f-97b7-0f7f62226d9c,8/31/2024, John Doe,Kitenge Fabric,Food and Beverages,868,6,119,Lagos,Ethiopia,TikTok,123.4398982,1407,0.068
+d6e55ff4-5da4-4cc1-b356-c3a149378e2e,9/1/2024, John Doe,African Hair Care Products,Handicrafts and Home Decor,855,12,51,Dar es Salaam,Nigeria,YouTube,67.87019325,616,0.087
+279b185b-12a6-4d29-afb0-d01045c0f52d,9/2/2024, Alice Lee, masaiShuka,Food and Beverages,931,10,102,Lagos,Nigeria,Facebook,83.81169019,3865,0.096
+495cb23d-2443-41d6-8587-0c9f74103a57,9/3/2024,Jane Smith,Kitenge Fabric,Food and Beverages,765,12,51,,Kenya,X_Twitter,159.6992241,2933,0.071
+e7a76651-c761-493b-b913-0063cc4040b8,9/4/2024,denisKombe, masaiShuka,Personal Care,734,12,126,Nairobi,Kenya,Instagram,76.34649698,2835,0.084
+853b9706-38dd-41fb-8e7b-3c6117aaa7aa,9/5/2024,Jane Smith,Chai Tea,Fashion and Accessories,931,7,90,,South Africa,TikTok,159.7992217,4390,0.081
+44f299ec-5f18-4c90-993f-f5b061ed3f27,9/6/2024,Bob Johnson,Aloe Vera,Handicrafts and Home Decor,553,12,106,Lagos,Ethiopia,X_Twitter,111.0404066,1865,0.061
+2c00b729-315f-4fc1-b620-32e87adcb4a8,9/7/2024,  bob JohNson,Kikoy Throw,Personal Care,969,5,142,Luanda,Nigeria,Instagram,66.80211407,4529,0.094
+2edb8355-7a04-433b-a30d-2a6af4fe0fca,9/8/2024,denisKombe,African Hair Care Products,Fashion and Accessories,553,13,102,Accra,Ghana,Instagram,74.96146511,2614,0.078
+91631497-f962-441e-8cf1-0ceb71c65028,9/9/2024, Alice Lee,Aloe Vera,Personal Care,746,11,110,Johannesburg,Ghana,X_Twitter,113.0321605,4392,0.099
+5286c413-6c7b-4ce4-b557-9ec6432e8afd,9/10/2024,Bob Johnson,Sukuma Wiki,Fashion and Accessories,908,12,92,Lagos,South Africa,Instagram,120.5317156,2125,0.081
+15c3498b-aa31-4631-b14d-90e6efe2b646,9/11/2024,  bob JohNson,African Hair Care Products,Food and Beverages,801,7,125,Lagos,Ghana,X_Twitter,100.5487345,4591,0.082
+0547c875-f27c-4083-a25e-87b687f5be24,9/12/2024,Denis Kombe,Kitenge Fabric,Handicrafts and Home Decor,773,10,73,Dar es Salaam,South Africa,TikTok,62.46140989,4179,0.088
+59097200-46c6-47e3-9f41-a04f07024c8e,9/13/2024,Jane Smith,African Hair Care Products,Personal Care,735,6,147,,Ethiopia,Instagram,156.3943841,4935,0.092
+be57382b-bc62-4401-bcbd-3202e992ed9d,9/14/2024, Alice Lee,Chai Tea,Personal Care,930,5,52,Accra,Kenya,Instagram,124.50596,649,0.076
+39fac830-ed44-4a05-94f8-7e208fb7b4ca,9/15/2024,denisKombe,Sukuma Wiki,Personal Care,850,13,59,Dar es Salaam,South Africa,YouTube,137.7567835,4212,0.06
+aada995b-72cb-4300-9f83-8e62d776d053,9/16/2024, Alice Lee,Aloe Vera,Handicrafts and Home Decor,887,5,124,Johannesburg,Kenya,X_Twitter,151.6103674,3127,0.09
+984ac5b2-08dc-4090-90f5-5f015b56087f,9/17/2024,denisKombe,Chai Tea,Food and Beverages,505,7,140,Dar es Salaam,Ghana,YouTube,148.7443232,504,0.081
+605fead1-eb55-43e0-8719-fdc5c3d1ce88,9/18/2024,denisKombe,Aloe Vera,Personal Care,953,13,60,Luanda,Angola,TikTok,122.7719731,1732,0.098
+5756f9a2-32e4-4d76-baa6-83ef17e69e23,9/19/2024,  bob JohNson,Maasai Shuka,Personal Care,931,5,148,Accra,South Africa,TikTok,68.04718561,4827,0.085
+efb3a6a4-f2f2-4a2a-809e-a4e47c1cef05,9/20/2024, Alice Lee,Maasai Shuka,Personal Care,807,11,78,Accra,Kenya,Instagram,76.95481927,802,0.07
+46f86b02-cd14-4892-9367-f873c64abaec,9/21/2024,Denis Kombe,Wooden Bowls,Fashion and Accessories,789,8,69,Luanda, TanZania,Instagram,150.1982474,3812,0.09
+28735fba-67ed-4efc-9a9f-af79022da65e,9/22/2024,Jane Smith,African Hair Care Products,Personal Care,831,11,90,Accra,Nigeria,Instagram,99.6719453,2419,0.096
+0e7697fb-f3c3-44a2-a73d-eebb989bcada,9/23/2024, John Doe,Kitenge Fabric,Fashion and Accessories,707,13,88,Nairobi, TanZania,YouTube,86.48961254,3428,0.081
+a610d5c4-73e1-4351-86c6-c36bedf7c9f6,9/24/2024, Alice Lee, masaiShuka,Fashion and Accessories,631,12,76,Accra, TanZania,Facebook,134.126003,1425,0.061
+e4f02ffc-06e8-4055-82ad-87d9d9e63b32,9/25/2024, Alice Lee,Maasai Shuka,Personal Care,644,9,66,Dar es Salaam,South Africa,Instagram,71.48783264,1505,0.059
+06e69e4f-4579-402d-9099-afb3cdb03907,9/26/2024,  bob JohNson,Wooden Bowls,Personal Care,821,12,144,Johannesburg,South Africa,YouTube,126.1059209,3537,0.069
