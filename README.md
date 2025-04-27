@@ -1,3 +1,5 @@
+![Sales Analysis Banner](Banner.PNG)
+
 # Sales Analysis
 
 - This repository contains the **Sales Analysis** project, which focuses on cleaning and analyzing sales data using SQL queries to derive actionable insights. The project is structured to showcase the complete data analysis process from cleaning to exploratory analysis. 
